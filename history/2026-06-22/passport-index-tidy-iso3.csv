@@ -14725,205 +14725,205 @@ HND,YEM,visa required
 HND,ZMB,visa on arrival
 HND,ZWE,visa on arrival
 HND,AFG,visa required
-HKG,ALB,
-HKG,DZA,
-HKG,AND,
-HKG,AGO,
-HKG,ATG,
-HKG,ARG,
-HKG,ARM,
-HKG,AUS,
-HKG,AUT,
-HKG,AZE,
-HKG,BHS,
-HKG,BHR,
-HKG,BGD,
-HKG,BRB,
-HKG,BLR,
-HKG,BEL,
-HKG,BLZ,
-HKG,BEN,
-HKG,BTN,
-HKG,BOL,
-HKG,BIH,
-HKG,BWA,
-HKG,BRA,
-HKG,BRN,
-HKG,BGR,
-HKG,BFA,
-HKG,BDI,
-HKG,KHM,
-HKG,CMR,
-HKG,CAN,
-HKG,CPV,
-HKG,CAF,
-HKG,TCD,
-HKG,CHL,
-HKG,CHN,
-HKG,COL,
-HKG,COM,
-HKG,COG,
-HKG,COD,
-HKG,CRI,
-HKG,CIV,
-HKG,HRV,
-HKG,CUB,
-HKG,CYP,
-HKG,CZE,
-HKG,DNK,
-HKG,DJI,
-HKG,DMA,
-HKG,DOM,
-HKG,ECU,
-HKG,EGY,
-HKG,SLV,
-HKG,GNQ,
-HKG,ERI,
-HKG,EST,
-HKG,SWZ,
-HKG,ETH,
-HKG,FJI,
-HKG,FIN,
-HKG,FRA,
-HKG,GAB,
-HKG,GMB,
-HKG,GEO,
-HKG,DEU,
-HKG,GHA,
-HKG,GRC,
-HKG,GRD,
-HKG,GTM,
-HKG,GIN,
-HKG,GNB,
-HKG,GUY,
-HKG,HTI,
-HKG,HND,
+HKG,ALB,90
+HKG,DZA,90
+HKG,AND,90
+HKG,AGO,visa on arrival
+HKG,ATG,30
+HKG,ARG,90
+HKG,ARM,180
+HKG,AUS,eta
+HKG,AUT,90
+HKG,AZE,30
+HKG,BHS,90
+HKG,BHR,visa on arrival
+HKG,BGD,visa required
+HKG,BRB,30
+HKG,BLR,30
+HKG,BEL,90
+HKG,BLZ,visa free
+HKG,BEN,14
+HKG,BTN,e-visa
+HKG,BOL,e-visa
+HKG,BIH,90
+HKG,BWA,90
+HKG,BRA,90
+HKG,BRN,14
+HKG,BGR,90
+HKG,BFA,e-visa
+HKG,BDI,visa on arrival
+HKG,KHM,visa on arrival
+HKG,CMR,e-visa
+HKG,CAN,eta
+HKG,CPV,90
+HKG,CAF,visa required
+HKG,TCD,e-visa
+HKG,CHL,90
+HKG,CHN,visa free
+HKG,COL,90
+HKG,COM,visa on arrival
+HKG,COG,visa required
+HKG,COD,e-visa
+HKG,CRI,visa required
+HKG,CIV,eta
+HKG,HRV,90
+HKG,CUB,e-visa
+HKG,CYP,90
+HKG,CZE,90
+HKG,DNK,90
+HKG,DJI,visa on arrival
+HKG,DMA,180
+HKG,DOM,30
+HKG,ECU,90
+HKG,EGY,90
+HKG,SLV,e-visa
+HKG,GNQ,e-visa
+HKG,ERI,visa required
+HKG,EST,90
+HKG,SWZ,visa required
+HKG,ETH,visa on arrival
+HKG,FJI,120
+HKG,FIN,90
+HKG,FRA,90
+HKG,GAB,e-visa
+HKG,GMB,visa required
+HKG,GEO,30
+HKG,DEU,90
+HKG,GHA,visa required
+HKG,GRC,90
+HKG,GRD,90
+HKG,GTM,90
+HKG,GIN,e-visa
+HKG,GNB,visa on arrival
+HKG,GUY,30
+HKG,HTI,90
+HKG,HND,visa required
 HKG,HKG,-1
-HKG,HUN,
-HKG,ISL,
-HKG,IND,
-HKG,IDN,
-HKG,IRN,
-HKG,IRQ,
-HKG,IRL,
-HKG,ISR,
-HKG,ITA,
-HKG,JAM,
-HKG,JPN,
-HKG,JOR,
-HKG,KAZ,
-HKG,KEN,
-HKG,KIR,
-HKG,XKX,
-HKG,KWT,
-HKG,KGZ,
-HKG,LAO,
-HKG,LVA,
-HKG,LBN,
-HKG,LSO,
-HKG,LBR,
-HKG,LBY,
-HKG,LIE,
-HKG,LTU,
-HKG,LUX,
-HKG,MAC,
-HKG,MDG,
-HKG,MWI,
-HKG,MYS,
-HKG,MDV,
-HKG,MLI,
-HKG,MLT,
-HKG,MHL,
-HKG,MRT,
-HKG,MUS,
-HKG,MEX,
-HKG,FSM,
-HKG,MDA,
-HKG,MCO,
-HKG,MNG,
-HKG,MNE,
-HKG,MAR,
-HKG,MOZ,
-HKG,MMR,
-HKG,NAM,
-HKG,NRU,
-HKG,NPL,
-HKG,NLD,
-HKG,NZL,
-HKG,NIC,
-HKG,NER,
-HKG,NGA,
-HKG,PRK,
-HKG,MKD,
-HKG,NOR,
-HKG,OMN,
-HKG,PAK,
-HKG,PLW,
-HKG,PSE,
-HKG,PAN,
-HKG,PNG,
-HKG,PRY,
-HKG,PER,
-HKG,PHL,
-HKG,POL,
-HKG,PRT,
-HKG,QAT,
-HKG,ROU,
-HKG,RUS,
-HKG,RWA,
-HKG,KNA,
-HKG,LCA,
-HKG,WSM,
-HKG,SMR,
-HKG,STP,
-HKG,SAU,
-HKG,SEN,
-HKG,SRB,
-HKG,SYC,
-HKG,SLE,
-HKG,SGP,
-HKG,SVK,
-HKG,SVN,
-HKG,SLB,
-HKG,SOM,
-HKG,ZAF,
-HKG,KOR,
-HKG,SSD,
-HKG,ESP,
-HKG,LKA,
-HKG,VCT,
-HKG,SDN,
-HKG,SUR,
-HKG,SWE,
-HKG,CHE,
-HKG,SYR,
-HKG,TWN,
-HKG,TJK,
-HKG,TZA,
-HKG,THA,
-HKG,TLS,
-HKG,TGO,
-HKG,TON,
-HKG,TTO,
-HKG,TUN,
-HKG,TKM,
-HKG,TUV,
-HKG,TUR,
-HKG,UGA,
-HKG,UKR,
-HKG,ARE,
-HKG,GBR,
-HKG,USA,
-HKG,URY,
-HKG,UZB,
-HKG,VUT,
-HKG,VAT,
-HKG,VEN,
-HKG,VNM,
-HKG,YEM,
-HKG,ZMB,
-HKG,ZWE,
-HKG,AFG,
+HKG,HUN,90
+HKG,ISL,90
+HKG,IND,visa required
+HKG,IDN,30
+HKG,IRN,21
+HKG,IRQ,e-visa
+HKG,IRL,90
+HKG,ISR,eta
+HKG,ITA,90
+HKG,JAM,30
+HKG,JPN,90
+HKG,JOR,visa on arrival
+HKG,KAZ,14
+HKG,KEN,eta
+HKG,KIR,90
+HKG,XKX,90
+HKG,KWT,visa on arrival
+HKG,KGZ,30
+HKG,LAO,visa on arrival
+HKG,LVA,90
+HKG,LBN,visa on arrival
+HKG,LSO,90
+HKG,LBR,e-visa
+HKG,LBY,e-visa
+HKG,LIE,90
+HKG,LTU,90
+HKG,LUX,90
+HKG,MAC,visa free
+HKG,MDG,visa on arrival
+HKG,MWI,30
+HKG,MYS,30
+HKG,MDV,visa on arrival
+HKG,MLI,90
+HKG,MLT,90
+HKG,MHL,visa required
+HKG,MRT,e-visa
+HKG,MUS,90
+HKG,MEX,180
+HKG,FSM,30
+HKG,MDA,90
+HKG,MCO,90
+HKG,MNG,14
+HKG,MNE,90
+HKG,MAR,30
+HKG,MOZ,visa on arrival
+HKG,MMR,visa on arrival
+HKG,NAM,90
+HKG,NRU,visa required
+HKG,NPL,visa on arrival
+HKG,NLD,90
+HKG,NZL,eta
+HKG,NIC,90
+HKG,NER,14
+HKG,NGA,e-visa
+HKG,PRK,visa required
+HKG,MKD,90
+HKG,NOR,90
+HKG,OMN,visa on arrival
+HKG,PAK,visa required
+HKG,PLW,visa on arrival
+HKG,PSE,visa free
+HKG,PAN,90
+HKG,PNG,eta
+HKG,PRY,visa required
+HKG,PER,180
+HKG,PHL,14
+HKG,POL,90
+HKG,PRT,90
+HKG,QAT,visa on arrival
+HKG,ROU,90
+HKG,RUS,14
+HKG,RWA,visa on arrival
+HKG,KNA,eta
+HKG,LCA,42
+HKG,WSM,visa on arrival
+HKG,SMR,90
+HKG,STP,e-visa
+HKG,SAU,visa on arrival
+HKG,SEN,visa required
+HKG,SRB,14
+HKG,SYC,90
+HKG,SLE,e-visa
+HKG,SGP,30
+HKG,SVK,90
+HKG,SVN,90
+HKG,SLB,visa required
+HKG,SOM,e-visa
+HKG,ZAF,30
+HKG,KOR,90
+HKG,SSD,e-visa
+HKG,ESP,90
+HKG,LKA,visa on arrival
+HKG,VCT,90
+HKG,SDN,visa required
+HKG,SUR,90
+HKG,SWE,90
+HKG,CHE,90
+HKG,SYR,e-visa
+HKG,TWN,visa on arrival
+HKG,TJK,e-visa
+HKG,TZA,90
+HKG,THA,60
+HKG,TLS,visa on arrival
+HKG,TGO,e-visa
+HKG,TON,visa on arrival
+HKG,TTO,visa free
+HKG,TUN,90
+HKG,TKM,visa required
+HKG,TUV,visa on arrival
+HKG,TUR,90
+HKG,UGA,90
+HKG,UKR,14
+HKG,ARE,30
+HKG,GBR,eta
+HKG,USA,visa required
+HKG,URY,90
+HKG,UZB,10
+HKG,VUT,120
+HKG,VAT,90
+HKG,VEN,90
+HKG,VNM,e-visa
+HKG,YEM,30
+HKG,ZMB,90
+HKG,ZWE,180
+HKG,AFG,visa required
 HUN,ALB,90
 HUN,DZA,visa required
 HUN,AND,visa free
@@ -17909,205 +17909,205 @@ KIR,YEM,visa required
 KIR,ZMB,90
 KIR,ZWE,90
 KIR,AFG,visa required
-XKX,ALB,
-XKX,DZA,
-XKX,AND,
-XKX,AGO,
-XKX,ATG,
-XKX,ARG,
-XKX,ARM,
-XKX,AUS,
-XKX,AUT,
-XKX,AZE,
-XKX,BHS,
-XKX,BHR,
-XKX,BGD,
-XKX,BRB,
-XKX,BLR,
-XKX,BEL,
-XKX,BLZ,
-XKX,BEN,
-XKX,BTN,
-XKX,BOL,
-XKX,BIH,
-XKX,BWA,
-XKX,BRA,
-XKX,BRN,
-XKX,BGR,
-XKX,BFA,
-XKX,BDI,
-XKX,KHM,
-XKX,CMR,
-XKX,CAN,
-XKX,CPV,
-XKX,CAF,
-XKX,TCD,
-XKX,CHL,
-XKX,CHN,
-XKX,COL,
-XKX,COM,
-XKX,COG,
-XKX,COD,
-XKX,CRI,
-XKX,CIV,
-XKX,HRV,
-XKX,CUB,
-XKX,CYP,
-XKX,CZE,
-XKX,DNK,
-XKX,DJI,
-XKX,DMA,
-XKX,DOM,
-XKX,ECU,
-XKX,EGY,
-XKX,SLV,
-XKX,GNQ,
-XKX,ERI,
-XKX,EST,
-XKX,SWZ,
-XKX,ETH,
-XKX,FJI,
-XKX,FIN,
-XKX,FRA,
-XKX,GAB,
-XKX,GMB,
-XKX,GEO,
-XKX,DEU,
-XKX,GHA,
-XKX,GRC,
-XKX,GRD,
-XKX,GTM,
-XKX,GIN,
-XKX,GNB,
-XKX,GUY,
-XKX,HTI,
-XKX,HND,
-XKX,HKG,
-XKX,HUN,
-XKX,ISL,
-XKX,IND,
-XKX,IDN,
-XKX,IRN,
-XKX,IRQ,
-XKX,IRL,
-XKX,ISR,
-XKX,ITA,
-XKX,JAM,
-XKX,JPN,
-XKX,JOR,
-XKX,KAZ,
-XKX,KEN,
-XKX,KIR,
+XKX,ALB,90
+XKX,DZA,visa required
+XKX,AND,90
+XKX,AGO,visa required
+XKX,ATG,90
+XKX,ARG,visa required
+XKX,ARM,no admission
+XKX,AUS,e-visa
+XKX,AUT,90
+XKX,AZE,visa required
+XKX,BHS,e-visa
+XKX,BHR,e-visa
+XKX,BGD,visa on arrival
+XKX,BRB,visa required
+XKX,BLR,visa required
+XKX,BEL,90
+XKX,BLZ,visa required
+XKX,BEN,e-visa
+XKX,BTN,e-visa
+XKX,BOL,e-visa
+XKX,BIH,visa required
+XKX,BWA,visa required
+XKX,BRA,visa required
+XKX,BRN,14
+XKX,BGR,90
+XKX,BFA,e-visa
+XKX,BDI,visa on arrival
+XKX,KHM,no admission
+XKX,CMR,e-visa
+XKX,CAN,visa required
+XKX,CPV,visa on arrival
+XKX,CAF,visa required
+XKX,TCD,e-visa
+XKX,CHL,visa required
+XKX,CHN,visa required
+XKX,COL,e-visa
+XKX,COM,visa on arrival
+XKX,COG,visa required
+XKX,COD,e-visa
+XKX,CRI,visa required
+XKX,CIV,eta
+XKX,HRV,90
+XKX,CUB,no admission
+XKX,CYP,90
+XKX,CZE,90
+XKX,DNK,90
+XKX,DJI,visa on arrival
+XKX,DMA,21
+XKX,DOM,visa required
+XKX,ECU,90
+XKX,EGY,e-visa
+XKX,SLV,e-visa
+XKX,GNQ,e-visa
+XKX,ERI,visa required
+XKX,EST,90
+XKX,SWZ,visa required
+XKX,ETH,visa on arrival
+XKX,FJI,visa required
+XKX,FIN,90
+XKX,FRA,90
+XKX,GAB,e-visa
+XKX,GMB,90
+XKX,GEO,visa required
+XKX,DEU,90
+XKX,GHA,visa required
+XKX,GRC,90
+XKX,GRD,visa required
+XKX,GTM,visa required
+XKX,GIN,e-visa
+XKX,GNB,visa on arrival
+XKX,GUY,e-visa
+XKX,HTI,90
+XKX,HND,visa required
+XKX,HKG,no admission
+XKX,HUN,90
+XKX,ISL,90
+XKX,IND,visa required
+XKX,IDN,e-visa
+XKX,IRN,visa on arrival
+XKX,IRQ,e-visa
+XKX,IRL,visa required
+XKX,ISR,eta
+XKX,ITA,90
+XKX,JAM,visa on arrival
+XKX,JPN,visa required
+XKX,JOR,visa on arrival
+XKX,KAZ,e-visa
+XKX,KEN,eta
+XKX,KIR,visa required
 XKX,XKX,-1
-XKX,KWT,
-XKX,KGZ,
-XKX,LAO,
-XKX,LVA,
-XKX,LBN,
-XKX,LSO,
-XKX,LBR,
-XKX,LBY,
-XKX,LIE,
-XKX,LTU,
-XKX,LUX,
-XKX,MAC,
-XKX,MDG,
-XKX,MWI,
-XKX,MYS,
-XKX,MDV,
-XKX,MLI,
-XKX,MLT,
-XKX,MHL,
-XKX,MRT,
-XKX,MUS,
-XKX,MEX,
-XKX,FSM,
-XKX,MDA,
-XKX,MCO,
-XKX,MNG,
-XKX,MNE,
-XKX,MAR,
-XKX,MOZ,
-XKX,MMR,
-XKX,NAM,
-XKX,NRU,
-XKX,NPL,
-XKX,NLD,
-XKX,NZL,
-XKX,NIC,
-XKX,NER,
-XKX,NGA,
-XKX,PRK,
-XKX,MKD,
-XKX,NOR,
-XKX,OMN,
-XKX,PAK,
-XKX,PLW,
-XKX,PSE,
-XKX,PAN,
-XKX,PNG,
-XKX,PRY,
-XKX,PER,
-XKX,PHL,
-XKX,POL,
-XKX,PRT,
-XKX,QAT,
-XKX,ROU,
-XKX,RUS,
-XKX,RWA,
-XKX,KNA,
-XKX,LCA,
-XKX,WSM,
-XKX,SMR,
-XKX,STP,
-XKX,SAU,
-XKX,SEN,
-XKX,SRB,
-XKX,SYC,
-XKX,SLE,
-XKX,SGP,
-XKX,SVK,
-XKX,SVN,
-XKX,SLB,
-XKX,SOM,
-XKX,ZAF,
-XKX,KOR,
-XKX,SSD,
-XKX,ESP,
-XKX,LKA,
-XKX,VCT,
-XKX,SDN,
-XKX,SUR,
-XKX,SWE,
-XKX,CHE,
-XKX,SYR,
-XKX,TWN,
-XKX,TJK,
-XKX,TZA,
-XKX,THA,
-XKX,TLS,
-XKX,TGO,
-XKX,TON,
-XKX,TTO,
-XKX,TUN,
-XKX,TKM,
-XKX,TUV,
-XKX,TUR,
-XKX,UGA,
-XKX,UKR,
-XKX,ARE,
-XKX,GBR,
-XKX,USA,
-XKX,URY,
-XKX,UZB,
-XKX,VUT,
-XKX,VAT,
-XKX,VEN,
-XKX,VNM,
-XKX,YEM,
-XKX,ZMB,
-XKX,ZWE,
-XKX,AFG,
+XKX,KWT,visa required
+XKX,KGZ,visa required
+XKX,LAO,visa on arrival
+XKX,LVA,90
+XKX,LBN,visa required
+XKX,LSO,visa required
+XKX,LBR,e-visa
+XKX,LBY,e-visa
+XKX,LIE,90
+XKX,LTU,90
+XKX,LUX,90
+XKX,MAC,visa on arrival
+XKX,MDG,visa on arrival
+XKX,MWI,e-visa
+XKX,MYS,30
+XKX,MDV,visa on arrival
+XKX,MLI,visa required
+XKX,MLT,90
+XKX,MHL,visa on arrival
+XKX,MRT,e-visa
+XKX,MUS,visa required
+XKX,MEX,visa required
+XKX,FSM,30
+XKX,MDA,e-visa
+XKX,MCO,90
+XKX,MNG,visa required
+XKX,MNE,30
+XKX,MAR,visa required
+XKX,MOZ,visa on arrival
+XKX,MMR,visa required
+XKX,NAM,e-visa
+XKX,NRU,visa required
+XKX,NPL,visa on arrival
+XKX,NLD,90
+XKX,NZL,visa required
+XKX,NIC,visa required
+XKX,NER,visa required
+XKX,NGA,e-visa
+XKX,PRK,visa required
+XKX,MKD,90
+XKX,NOR,90
+XKX,OMN,e-visa
+XKX,PAK,e-visa
+XKX,PLW,visa on arrival
+XKX,PSE,visa free
+XKX,PAN,visa required
+XKX,PNG,e-visa
+XKX,PRY,visa required
+XKX,PER,visa required
+XKX,PHL,visa required
+XKX,POL,90
+XKX,PRT,90
+XKX,QAT,e-visa
+XKX,ROU,90
+XKX,RUS,visa required
+XKX,RWA,visa on arrival
+XKX,KNA,e-visa
+XKX,LCA,visa required
+XKX,WSM,visa on arrival
+XKX,SMR,90
+XKX,STP,e-visa
+XKX,SAU,e-visa
+XKX,SEN,visa required
+XKX,SRB,visa free
+XKX,SYC,no admission
+XKX,SLE,e-visa
+XKX,SGP,e-visa
+XKX,SVK,90
+XKX,SVN,90
+XKX,SLB,visa required
+XKX,SOM,e-visa
+XKX,ZAF,visa required
+XKX,KOR,e-visa
+XKX,SSD,e-visa
+XKX,ESP,90
+XKX,LKA,visa on arrival
+XKX,VCT,90
+XKX,SDN,visa required
+XKX,SUR,eta
+XKX,SWE,90
+XKX,CHE,90
+XKX,SYR,e-visa
+XKX,TWN,90
+XKX,TJK,visa required
+XKX,TZA,visa on arrival
+XKX,THA,60
+XKX,TLS,visa on arrival
+XKX,TGO,e-visa
+XKX,TON,visa required
+XKX,TTO,visa required
+XKX,TUN,visa required
+XKX,TKM,visa required
+XKX,TUV,visa on arrival
+XKX,TUR,90
+XKX,UGA,e-visa
+XKX,UKR,visa required
+XKX,ARE,90
+XKX,GBR,visa required
+XKX,USA,visa required
+XKX,URY,visa required
+XKX,UZB,visa required
+XKX,VUT,e-visa
+XKX,VAT,90
+XKX,VEN,visa required
+XKX,VNM,e-visa
+XKX,YEM,visa required
+XKX,ZMB,e-visa
+XKX,ZWE,e-visa
+XKX,AFG,visa required
 KWT,ALB,90
 KWT,DZA,visa required
 KWT,AND,visa required
@@ -20297,205 +20297,205 @@ LUX,YEM,visa required
 LUX,ZMB,90
 LUX,ZWE,visa on arrival
 LUX,AFG,visa required
-MAC,ALB,
-MAC,DZA,
-MAC,AND,
-MAC,AGO,
-MAC,ATG,
-MAC,ARG,
-MAC,ARM,
-MAC,AUS,
-MAC,AUT,
-MAC,AZE,
-MAC,BHS,
-MAC,BHR,
-MAC,BGD,
-MAC,BRB,
-MAC,BLR,
-MAC,BEL,
-MAC,BLZ,
-MAC,BEN,
-MAC,BTN,
-MAC,BOL,
-MAC,BIH,
-MAC,BWA,
-MAC,BRA,
-MAC,BRN,
-MAC,BGR,
-MAC,BFA,
-MAC,BDI,
-MAC,KHM,
-MAC,CMR,
-MAC,CAN,
-MAC,CPV,
-MAC,CAF,
-MAC,TCD,
-MAC,CHL,
-MAC,CHN,
-MAC,COL,
-MAC,COM,
-MAC,COG,
-MAC,COD,
-MAC,CRI,
-MAC,CIV,
-MAC,HRV,
-MAC,CUB,
-MAC,CYP,
-MAC,CZE,
-MAC,DNK,
-MAC,DJI,
-MAC,DMA,
-MAC,DOM,
-MAC,ECU,
-MAC,EGY,
-MAC,SLV,
-MAC,GNQ,
-MAC,ERI,
-MAC,EST,
-MAC,SWZ,
-MAC,ETH,
-MAC,FJI,
-MAC,FIN,
-MAC,FRA,
-MAC,GAB,
-MAC,GMB,
-MAC,GEO,
-MAC,DEU,
-MAC,GHA,
-MAC,GRC,
-MAC,GRD,
-MAC,GTM,
-MAC,GIN,
-MAC,GNB,
-MAC,GUY,
-MAC,HTI,
-MAC,HND,
-MAC,HKG,
-MAC,HUN,
-MAC,ISL,
-MAC,IND,
-MAC,IDN,
-MAC,IRN,
-MAC,IRQ,
-MAC,IRL,
-MAC,ISR,
-MAC,ITA,
-MAC,JAM,
-MAC,JPN,
-MAC,JOR,
-MAC,KAZ,
-MAC,KEN,
-MAC,KIR,
-MAC,XKX,
-MAC,KWT,
-MAC,KGZ,
-MAC,LAO,
-MAC,LVA,
-MAC,LBN,
-MAC,LSO,
-MAC,LBR,
-MAC,LBY,
-MAC,LIE,
-MAC,LTU,
-MAC,LUX,
+MAC,ALB,90
+MAC,DZA,visa required
+MAC,AND,90
+MAC,AGO,visa required
+MAC,ATG,30
+MAC,ARG,90
+MAC,ARM,90
+MAC,AUS,e-visa
+MAC,AUT,90
+MAC,AZE,30
+MAC,BHS,e-visa
+MAC,BHR,visa on arrival
+MAC,BGD,visa required
+MAC,BRB,30
+MAC,BLR,30
+MAC,BEL,90
+MAC,BLZ,visa required
+MAC,BEN,e-visa
+MAC,BTN,e-visa
+MAC,BOL,e-visa
+MAC,BIH,90
+MAC,BWA,e-visa
+MAC,BRA,90
+MAC,BRN,14
+MAC,BGR,90
+MAC,BFA,e-visa
+MAC,BDI,visa on arrival
+MAC,KHM,visa on arrival
+MAC,CMR,e-visa
+MAC,CAN,visa required
+MAC,CPV,90
+MAC,CAF,visa required
+MAC,TCD,e-visa
+MAC,CHL,90
+MAC,CHN,visa free
+MAC,COL,e-visa
+MAC,COM,visa on arrival
+MAC,COG,visa required
+MAC,COD,e-visa
+MAC,CRI,visa required
+MAC,CIV,eta
+MAC,HRV,90
+MAC,CUB,e-visa
+MAC,CYP,90
+MAC,CZE,90
+MAC,DNK,90
+MAC,DJI,visa on arrival
+MAC,DMA,180
+MAC,DOM,30
+MAC,ECU,90
+MAC,EGY,90
+MAC,SLV,e-visa
+MAC,GNQ,e-visa
+MAC,ERI,visa required
+MAC,EST,90
+MAC,SWZ,visa required
+MAC,ETH,e-visa
+MAC,FJI,120
+MAC,FIN,90
+MAC,FRA,90
+MAC,GAB,e-visa
+MAC,GMB,visa required
+MAC,GEO,30
+MAC,DEU,90
+MAC,GHA,visa required
+MAC,GRC,90
+MAC,GRD,90
+MAC,GTM,visa required
+MAC,GIN,e-visa
+MAC,GNB,visa on arrival
+MAC,GUY,e-visa
+MAC,HTI,90
+MAC,HND,visa required
+MAC,HKG,7
+MAC,HUN,90
+MAC,ISL,90
+MAC,IND,visa required
+MAC,IDN,e-visa
+MAC,IRN,21
+MAC,IRQ,e-visa
+MAC,IRL,90
+MAC,ISR,eta
+MAC,ITA,90
+MAC,JAM,30
+MAC,JPN,90
+MAC,JOR,visa on arrival
+MAC,KAZ,14
+MAC,KEN,eta
+MAC,KIR,90
+MAC,XKX,90
+MAC,KWT,visa required
+MAC,KGZ,30
+MAC,LAO,visa on arrival
+MAC,LVA,90
+MAC,LBN,visa on arrival
+MAC,LSO,visa required
+MAC,LBR,e-visa
+MAC,LBY,e-visa
+MAC,LIE,90
+MAC,LTU,90
+MAC,LUX,90
 MAC,MAC,-1
-MAC,MDG,
-MAC,MWI,
-MAC,MYS,
-MAC,MDV,
-MAC,MLI,
-MAC,MLT,
-MAC,MHL,
-MAC,MRT,
-MAC,MUS,
-MAC,MEX,
-MAC,FSM,
-MAC,MDA,
-MAC,MCO,
-MAC,MNG,
-MAC,MNE,
-MAC,MAR,
-MAC,MOZ,
-MAC,MMR,
-MAC,NAM,
-MAC,NRU,
-MAC,NPL,
-MAC,NLD,
-MAC,NZL,
-MAC,NIC,
-MAC,NER,
-MAC,NGA,
-MAC,PRK,
-MAC,MKD,
-MAC,NOR,
-MAC,OMN,
-MAC,PAK,
-MAC,PLW,
-MAC,PSE,
-MAC,PAN,
-MAC,PNG,
-MAC,PRY,
-MAC,PER,
-MAC,PHL,
-MAC,POL,
-MAC,PRT,
-MAC,QAT,
-MAC,ROU,
-MAC,RUS,
-MAC,RWA,
-MAC,KNA,
-MAC,LCA,
-MAC,WSM,
-MAC,SMR,
-MAC,STP,
-MAC,SAU,
-MAC,SEN,
-MAC,SRB,
-MAC,SYC,
-MAC,SLE,
-MAC,SGP,
-MAC,SVK,
-MAC,SVN,
-MAC,SLB,
-MAC,SOM,
-MAC,ZAF,
-MAC,KOR,
-MAC,SSD,
-MAC,ESP,
-MAC,LKA,
-MAC,VCT,
-MAC,SDN,
-MAC,SUR,
-MAC,SWE,
-MAC,CHE,
-MAC,SYR,
-MAC,TWN,
-MAC,TJK,
-MAC,TZA,
-MAC,THA,
-MAC,TLS,
-MAC,TGO,
-MAC,TON,
-MAC,TTO,
-MAC,TUN,
-MAC,TKM,
-MAC,TUV,
-MAC,TUR,
-MAC,UGA,
-MAC,UKR,
-MAC,ARE,
-MAC,GBR,
-MAC,USA,
-MAC,URY,
-MAC,UZB,
-MAC,VUT,
-MAC,VAT,
-MAC,VEN,
-MAC,VNM,
-MAC,YEM,
-MAC,ZMB,
-MAC,ZWE,
-MAC,AFG,
+MAC,MDG,visa on arrival
+MAC,MWI,visa on arrival
+MAC,MYS,30
+MAC,MDV,visa on arrival
+MAC,MLI,90
+MAC,MLT,90
+MAC,MHL,visa required
+MAC,MRT,e-visa
+MAC,MUS,90
+MAC,MEX,180
+MAC,FSM,30
+MAC,MDA,90
+MAC,MCO,90
+MAC,MNG,90
+MAC,MNE,90
+MAC,MAR,90
+MAC,MOZ,visa on arrival
+MAC,MMR,visa on arrival
+MAC,NAM,90
+MAC,NRU,visa required
+MAC,NPL,visa on arrival
+MAC,NLD,90
+MAC,NZL,eta
+MAC,NIC,90
+MAC,NER,visa required
+MAC,NGA,e-visa
+MAC,PRK,visa required
+MAC,MKD,90
+MAC,NOR,90
+MAC,OMN,visa on arrival
+MAC,PAK,visa required
+MAC,PLW,visa on arrival
+MAC,PSE,visa free
+MAC,PAN,visa required
+MAC,PNG,eta
+MAC,PRY,visa required
+MAC,PER,visa required
+MAC,PHL,14
+MAC,POL,90
+MAC,PRT,90
+MAC,QAT,visa on arrival
+MAC,ROU,90
+MAC,RUS,30
+MAC,RWA,visa on arrival
+MAC,KNA,eta
+MAC,LCA,visa on arrival
+MAC,WSM,30
+MAC,SMR,90
+MAC,STP,e-visa
+MAC,SAU,visa on arrival
+MAC,SEN,visa required
+MAC,SRB,90
+MAC,SYC,90
+MAC,SLE,visa on arrival
+MAC,SGP,30
+MAC,SVK,90
+MAC,SVN,90
+MAC,SLB,visa required
+MAC,SOM,e-visa
+MAC,ZAF,30
+MAC,KOR,90
+MAC,SSD,e-visa
+MAC,ESP,90
+MAC,LKA,visa on arrival
+MAC,VCT,90
+MAC,SDN,visa required
+MAC,SUR,eta
+MAC,SWE,90
+MAC,CHE,90
+MAC,SYR,e-visa
+MAC,TWN,visa on arrival
+MAC,TJK,e-visa
+MAC,TZA,90
+MAC,THA,60
+MAC,TLS,visa on arrival
+MAC,TGO,e-visa
+MAC,TON,visa on arrival
+MAC,TTO,visa required
+MAC,TUN,visa required
+MAC,TKM,visa required
+MAC,TUV,visa on arrival
+MAC,TUR,30
+MAC,UGA,e-visa
+MAC,UKR,e-visa
+MAC,ARE,30
+MAC,GBR,eta
+MAC,USA,visa required
+MAC,URY,90
+MAC,UZB,10
+MAC,VUT,120
+MAC,VAT,90
+MAC,VEN,visa required
+MAC,VNM,e-visa
+MAC,YEM,visa required
+MAC,ZMB,e-visa
+MAC,ZWE,visa on arrival
+MAC,AFG,visa required
 MDG,ALB,e-visa
 MDG,DZA,visa required
 MDG,AND,visa required
@@ -23371,7 +23371,7 @@ MNE,JOR,visa on arrival
 MNE,KAZ,e-visa
 MNE,KEN,eta
 MNE,KIR,visa required
-MNE,XKX,
+MNE,XKX,90
 MNE,KWT,visa required
 MNE,KGZ,60
 MNE,LAO,visa on arrival
@@ -23462,23 +23462,23 @@ MNE,TLS,visa on arrival
 MNE,TGO,e-visa
 MNE,TON,visa required
 MNE,TTO,90
-MNE,TUN,
-MNE,TKM,
-MNE,TUV,
-MNE,TUR,
-MNE,UGA,
-MNE,UKR,
-MNE,ARE,
-MNE,GBR,
-MNE,USA,
-MNE,URY,
-MNE,UZB,
-MNE,VUT,
-MNE,VAT,
-MNE,VEN,
-MNE,VNM,
-MNE,YEM,
-MNE,ZMB,
+MNE,TUN,90
+MNE,TKM,visa required
+MNE,TUV,visa on arrival
+MNE,TUR,90
+MNE,UGA,e-visa
+MNE,UKR,90
+MNE,ARE,90
+MNE,GBR,visa required
+MNE,USA,visa required
+MNE,URY,90
+MNE,UZB,30
+MNE,VUT,e-visa
+MNE,VAT,90
+MNE,VEN,visa required
+MNE,VNM,e-visa
+MNE,YEM,visa required
+MNE,ZMB,90
 MNE,ZWE,e-visa
 MNE,AFG,visa required
 MAR,ALB,e-visa
@@ -26587,12 +26587,12 @@ PAK,MAR,visa required
 PAK,MOZ,e-visa
 PAK,MMR,e-visa
 PAK,NAM,e-visa
-PAK,NRU,
-PAK,NPL,
-PAK,NLD,
-PAK,NZL,
-PAK,NIC,
-PAK,NER,
+PAK,NRU,visa required
+PAK,NPL,visa on arrival
+PAK,NLD,visa required
+PAK,NZL,visa required
+PAK,NIC,visa required
+PAK,NER,visa required
 PAK,NGA,e-visa
 PAK,PRK,visa required
 PAK,MKD,visa required
@@ -31606,13 +31606,13 @@ SVK,ZAF,90
 SVK,KOR,90
 SVK,SSD,e-visa
 SVK,ESP,visa free
-SVK,LKA,
+SVK,LKA,visa on arrival
 SVK,VCT,90
-SVK,SDN,
-SVK,SUR,
-SVK,SWE,
-SVK,CHE,
-SVK,SYR,
+SVK,SDN,visa required
+SVK,SUR,eta
+SVK,SWE,visa free
+SVK,CHE,visa free
+SVK,SYR,e-visa
 SVK,TWN,90
 SVK,TJK,30
 SVK,TZA,visa on arrival
@@ -36814,12 +36814,12 @@ TUV,YEM,visa required
 TUV,ZMB,90
 TUV,ZWE,90
 TUV,AFG,visa required
-UGA,ALB,
-UGA,DZA,
-UGA,AND,
-UGA,AGO,
-UGA,ATG,
-UGA,ARG,
+UGA,ALB,e-visa
+UGA,DZA,visa required
+UGA,AND,visa required
+UGA,AGO,visa required
+UGA,ATG,180
+UGA,ARG,visa required
 UGA,ARM,visa required
 UGA,AUS,e-visa
 UGA,AUT,visa required
@@ -37060,2543 +37060,2543 @@ UKR,CYP,90
 UKR,CZE,90
 UKR,DNK,90
 UKR,DJI,visa on arrival
-UKR,DMA,
-UKR,DOM,
-UKR,ECU,
-UKR,EGY,
-UKR,SLV,
-UKR,GNQ,
-UKR,ERI,
-UKR,EST,
-UKR,SWZ,
-UKR,ETH,
-UKR,FJI,
-UKR,FIN,
-UKR,FRA,
-UKR,GAB,
-UKR,GMB,
-UKR,GEO,
-UKR,DEU,
-UKR,GHA,
-UKR,GRC,
-UKR,GRD,
-UKR,GTM,
-UKR,GIN,
-UKR,GNB,
-UKR,GUY,
-UKR,HTI,
-UKR,HND,
-UKR,HKG,
-UKR,HUN,
-UKR,ISL,
-UKR,IND,
-UKR,IDN,
-UKR,IRN,
-UKR,IRQ,
-UKR,IRL,
-UKR,ISR,
-UKR,ITA,
-UKR,JAM,
-UKR,JPN,
-UKR,JOR,
-UKR,KAZ,
-UKR,KEN,
-UKR,KIR,
-UKR,XKX,
-UKR,KWT,
-UKR,KGZ,
-UKR,LAO,
-UKR,LVA,
-UKR,LBN,
-UKR,LSO,
-UKR,LBR,
-UKR,LBY,
-UKR,LIE,
-UKR,LTU,
-UKR,LUX,
-UKR,MAC,
-UKR,MDG,
-UKR,MWI,
-UKR,MYS,
-UKR,MDV,
-UKR,MLI,
-UKR,MLT,
-UKR,MHL,
-UKR,MRT,
-UKR,MUS,
-UKR,MEX,
-UKR,FSM,
-UKR,MDA,
-UKR,MCO,
-UKR,MNG,
-UKR,MNE,
-UKR,MAR,
-UKR,MOZ,
-UKR,MMR,
-UKR,NAM,
-UKR,NRU,
-UKR,NPL,
-UKR,NLD,
-UKR,NZL,
-UKR,NIC,
-UKR,NER,
-UKR,NGA,
-UKR,PRK,
-UKR,MKD,
-UKR,NOR,
-UKR,OMN,
-UKR,PAK,
-UKR,PLW,
-UKR,PSE,
-UKR,PAN,
-UKR,PNG,
-UKR,PRY,
-UKR,PER,
-UKR,PHL,
-UKR,POL,
-UKR,PRT,
-UKR,QAT,
-UKR,ROU,
-UKR,RUS,
-UKR,RWA,
-UKR,KNA,
-UKR,LCA,
-UKR,WSM,
-UKR,SMR,
-UKR,STP,
-UKR,SAU,
-UKR,SEN,
-UKR,SRB,
-UKR,SYC,
-UKR,SLE,
-UKR,SGP,
-UKR,SVK,
-UKR,SVN,
-UKR,SLB,
-UKR,SOM,
-UKR,ZAF,
-UKR,KOR,
-UKR,SSD,
-UKR,ESP,
-UKR,LKA,
-UKR,VCT,
-UKR,SDN,
-UKR,SUR,
-UKR,SWE,
-UKR,CHE,
-UKR,SYR,
-UKR,TWN,
-UKR,TJK,
-UKR,TZA,
-UKR,THA,
-UKR,TLS,
-UKR,TGO,
-UKR,TON,
-UKR,TTO,
-UKR,TUN,
-UKR,TKM,
-UKR,TUV,
-UKR,TUR,
-UKR,UGA,
+UKR,DMA,90
+UKR,DOM,30
+UKR,ECU,90
+UKR,EGY,visa on arrival
+UKR,SLV,180
+UKR,GNQ,e-visa
+UKR,ERI,visa required
+UKR,EST,90
+UKR,SWZ,30
+UKR,ETH,visa on arrival
+UKR,FJI,120
+UKR,FIN,90
+UKR,FRA,90
+UKR,GAB,e-visa
+UKR,GMB,visa required
+UKR,GEO,360
+UKR,DEU,90
+UKR,GHA,visa required
+UKR,GRC,90
+UKR,GRD,90
+UKR,GTM,90
+UKR,GIN,e-visa
+UKR,GNB,visa on arrival
+UKR,GUY,e-visa
+UKR,HTI,90
+UKR,HND,90
+UKR,HKG,14
+UKR,HUN,90
+UKR,ISL,90
+UKR,IND,e-visa
+UKR,IDN,visa on arrival
+UKR,IRN,visa on arrival
+UKR,IRQ,e-visa
+UKR,IRL,90
+UKR,ISR,eta
+UKR,ITA,90
+UKR,JAM,30
+UKR,JPN,visa required
+UKR,JOR,visa on arrival
+UKR,KAZ,90
+UKR,KEN,eta
+UKR,KIR,90
+UKR,XKX,90
+UKR,KWT,visa on arrival
+UKR,KGZ,90
+UKR,LAO,visa on arrival
+UKR,LVA,90
+UKR,LBN,visa on arrival
+UKR,LSO,visa required
+UKR,LBR,e-visa
+UKR,LBY,e-visa
+UKR,LIE,90
+UKR,LTU,90
+UKR,LUX,90
+UKR,MAC,visa on arrival
+UKR,MDG,visa on arrival
+UKR,MWI,e-visa
+UKR,MYS,30
+UKR,MDV,visa on arrival
+UKR,MLI,visa required
+UKR,MLT,90
+UKR,MHL,visa on arrival
+UKR,MRT,e-visa
+UKR,MUS,90
+UKR,MEX,eta
+UKR,FSM,30
+UKR,MDA,90
+UKR,MCO,90
+UKR,MNG,visa required
+UKR,MNE,90
+UKR,MAR,visa required
+UKR,MOZ,30
+UKR,MMR,e-visa
+UKR,NAM,visa on arrival
+UKR,NRU,visa required
+UKR,NPL,visa on arrival
+UKR,NLD,90
+UKR,NZL,visa required
+UKR,NIC,90
+UKR,NER,visa required
+UKR,NGA,e-visa
+UKR,PRK,visa required
+UKR,MKD,90
+UKR,NOR,90
+UKR,OMN,visa on arrival
+UKR,PAK,e-visa
+UKR,PLW,visa on arrival
+UKR,PSE,visa free
+UKR,PAN,90
+UKR,PNG,e-visa
+UKR,PRY,90
+UKR,PER,180
+UKR,PHL,visa required
+UKR,POL,90
+UKR,PRT,90
+UKR,QAT,visa on arrival
+UKR,ROU,90
+UKR,RUS,90
+UKR,RWA,visa on arrival
+UKR,KNA,eta
+UKR,LCA,visa required
+UKR,WSM,visa on arrival
+UKR,SMR,90
+UKR,STP,e-visa
+UKR,SAU,visa on arrival
+UKR,SEN,visa on arrival
+UKR,SRB,90
+UKR,SYC,90
+UKR,SLE,visa on arrival
+UKR,SGP,e-visa
+UKR,SVK,90
+UKR,SVN,90
+UKR,SLB,visa required
+UKR,SOM,e-visa
+UKR,ZAF,visa required
+UKR,KOR,e-visa
+UKR,SSD,e-visa
+UKR,ESP,90
+UKR,LKA,visa on arrival
+UKR,VCT,90
+UKR,SDN,visa required
+UKR,SUR,eta
+UKR,SWE,90
+UKR,CHE,90
+UKR,SYR,e-visa
+UKR,TWN,visa required
+UKR,TJK,90
+UKR,TZA,visa on arrival
+UKR,THA,60
+UKR,TLS,visa on arrival
+UKR,TGO,e-visa
+UKR,TON,visa on arrival
+UKR,TTO,visa required
+UKR,TUN,visa required
+UKR,TKM,visa required
+UKR,TUV,visa on arrival
+UKR,TUR,90
+UKR,UGA,e-visa
 UKR,UKR,-1
-UKR,ARE,
-UKR,GBR,
-UKR,USA,
-UKR,URY,
-UKR,UZB,
-UKR,VUT,
-UKR,VAT,
-UKR,VEN,
-UKR,VNM,
-UKR,YEM,
-UKR,ZMB,
-UKR,ZWE,
+UKR,ARE,30
+UKR,GBR,visa required
+UKR,USA,visa required
+UKR,URY,90
+UKR,UZB,visa free
+UKR,VUT,120
+UKR,VAT,90
+UKR,VEN,visa required
+UKR,VNM,e-visa
+UKR,YEM,visa required
+UKR,ZMB,90
+UKR,ZWE,visa on arrival
 UKR,AFG,visa required
-ARE,ALB,
-ARE,DZA,
-ARE,AND,
-ARE,AGO,
-ARE,ATG,
-ARE,ARG,
-ARE,ARM,
-ARE,AUS,
-ARE,AUT,
-ARE,AZE,
-ARE,BHS,
-ARE,BHR,
-ARE,BGD,
-ARE,BRB,
-ARE,BLR,
-ARE,BEL,
-ARE,BLZ,
-ARE,BEN,
-ARE,BTN,
-ARE,BOL,
-ARE,BIH,
-ARE,BWA,
-ARE,BRA,
-ARE,BRN,
-ARE,BGR,
-ARE,BFA,
-ARE,BDI,
-ARE,KHM,
-ARE,CMR,
-ARE,CAN,
-ARE,CPV,
-ARE,CAF,
-ARE,TCD,
-ARE,CHL,
-ARE,CHN,
-ARE,COL,
-ARE,COM,
-ARE,COG,
-ARE,COD,
-ARE,CRI,
-ARE,CIV,
-ARE,HRV,
-ARE,CUB,
-ARE,CYP,
-ARE,CZE,
-ARE,DNK,
-ARE,DJI,
-ARE,DMA,
-ARE,DOM,
-ARE,ECU,
-ARE,EGY,
-ARE,SLV,
-ARE,GNQ,
-ARE,ERI,
-ARE,EST,
-ARE,SWZ,
-ARE,ETH,
-ARE,FJI,
-ARE,FIN,
-ARE,FRA,
-ARE,GAB,
-ARE,GMB,
-ARE,GEO,
-ARE,DEU,
-ARE,GHA,
-ARE,GRC,
-ARE,GRD,
-ARE,GTM,
-ARE,GIN,
-ARE,GNB,
-ARE,GUY,
-ARE,HTI,
-ARE,HND,
-ARE,HKG,
-ARE,HUN,
-ARE,ISL,
-ARE,IND,
-ARE,IDN,
-ARE,IRN,
-ARE,IRQ,
-ARE,IRL,
-ARE,ISR,
-ARE,ITA,
-ARE,JAM,
-ARE,JPN,
-ARE,JOR,
-ARE,KAZ,
-ARE,KEN,
-ARE,KIR,
-ARE,XKX,
-ARE,KWT,
-ARE,KGZ,
-ARE,LAO,
-ARE,LVA,
-ARE,LBN,
-ARE,LSO,
-ARE,LBR,
-ARE,LBY,
-ARE,LIE,
-ARE,LTU,
-ARE,LUX,
-ARE,MAC,
-ARE,MDG,
-ARE,MWI,
-ARE,MYS,
-ARE,MDV,
-ARE,MLI,
-ARE,MLT,
-ARE,MHL,
-ARE,MRT,
-ARE,MUS,
-ARE,MEX,
-ARE,FSM,
-ARE,MDA,
-ARE,MCO,
-ARE,MNG,
-ARE,MNE,
-ARE,MAR,
-ARE,MOZ,
-ARE,MMR,
-ARE,NAM,
-ARE,NRU,
-ARE,NPL,
-ARE,NLD,
-ARE,NZL,
-ARE,NIC,
-ARE,NER,
-ARE,NGA,
-ARE,PRK,
-ARE,MKD,
-ARE,NOR,
-ARE,OMN,
-ARE,PAK,
-ARE,PLW,
-ARE,PSE,
-ARE,PAN,
-ARE,PNG,
-ARE,PRY,
-ARE,PER,
-ARE,PHL,
-ARE,POL,
-ARE,PRT,
-ARE,QAT,
-ARE,ROU,
-ARE,RUS,
-ARE,RWA,
-ARE,KNA,
-ARE,LCA,
-ARE,WSM,
-ARE,SMR,
-ARE,STP,
-ARE,SAU,
-ARE,SEN,
-ARE,SRB,
-ARE,SYC,
-ARE,SLE,
-ARE,SGP,
-ARE,SVK,
-ARE,SVN,
-ARE,SLB,
-ARE,SOM,
-ARE,ZAF,
-ARE,KOR,
-ARE,SSD,
-ARE,ESP,
-ARE,LKA,
-ARE,VCT,
-ARE,SDN,
-ARE,SUR,
-ARE,SWE,
-ARE,CHE,
-ARE,SYR,
-ARE,TWN,
-ARE,TJK,
-ARE,TZA,
-ARE,THA,
-ARE,TLS,
-ARE,TGO,
-ARE,TON,
-ARE,TTO,
-ARE,TUN,
-ARE,TKM,
-ARE,TUV,
-ARE,TUR,
-ARE,UGA,
-ARE,UKR,
+ARE,ALB,90
+ARE,DZA,visa required
+ARE,AND,90
+ARE,AGO,30
+ARE,ATG,90
+ARE,ARG,90
+ARE,ARM,180
+ARE,AUS,e-visa
+ARE,AUT,90
+ARE,AZE,90
+ARE,BHS,90
+ARE,BHR,visa free
+ARE,BGD,visa on arrival
+ARE,BRB,90
+ARE,BLR,90
+ARE,BEL,90
+ARE,BLZ,visa required
+ARE,BEN,e-visa
+ARE,BTN,e-visa
+ARE,BOL,90
+ARE,BIH,90
+ARE,BWA,90
+ARE,BRA,90
+ARE,BRN,30
+ARE,BGR,90
+ARE,BFA,visa free
+ARE,BDI,visa on arrival
+ARE,KHM,visa on arrival
+ARE,CMR,e-visa
+ARE,CAN,eta
+ARE,CPV,visa on arrival
+ARE,CAF,visa on arrival
+ARE,TCD,90
+ARE,CHL,90
+ARE,CHN,30
+ARE,COL,90
+ARE,COM,visa on arrival
+ARE,COG,visa on arrival
+ARE,COD,e-visa
+ARE,CRI,180
+ARE,CIV,eta
+ARE,HRV,90
+ARE,CUB,90
+ARE,CYP,90
+ARE,CZE,90
+ARE,DNK,90
+ARE,DJI,visa on arrival
+ARE,DMA,180
+ARE,DOM,30
+ARE,ECU,90
+ARE,EGY,180
+ARE,SLV,180
+ARE,GNQ,90
+ARE,ERI,visa required
+ARE,EST,90
+ARE,SWZ,30
+ARE,ETH,visa on arrival
+ARE,FJI,120
+ARE,FIN,90
+ARE,FRA,90
+ARE,GAB,e-visa
+ARE,GMB,90
+ARE,GEO,90
+ARE,DEU,90
+ARE,GHA,visa on arrival
+ARE,GRC,90
+ARE,GRD,90
+ARE,GTM,90
+ARE,GIN,visa on arrival
+ARE,GNB,visa on arrival
+ARE,GUY,90
+ARE,HTI,90
+ARE,HND,90
+ARE,HKG,30
+ARE,HUN,90
+ARE,ISL,90
+ARE,IND,visa on arrival
+ARE,IDN,visa on arrival
+ARE,IRN,15
+ARE,IRQ,visa on arrival
+ARE,IRL,90
+ARE,ISR,eta
+ARE,ITA,90
+ARE,JAM,visa on arrival
+ARE,JPN,90
+ARE,JOR,90
+ARE,KAZ,30
+ARE,KEN,eta
+ARE,KIR,90
+ARE,XKX,90
+ARE,KWT,visa free
+ARE,KGZ,60
+ARE,LAO,visa on arrival
+ARE,LVA,90
+ARE,LBN,180
+ARE,LSO,visa required
+ARE,LBR,e-visa
+ARE,LBY,e-visa
+ARE,LIE,90
+ARE,LTU,90
+ARE,LUX,90
+ARE,MAC,30
+ARE,MDG,visa on arrival
+ARE,MWI,e-visa
+ARE,MYS,90
+ARE,MDV,visa on arrival
+ARE,MLI,90
+ARE,MLT,90
+ARE,MHL,visa on arrival
+ARE,MRT,e-visa
+ARE,MUS,90
+ARE,MEX,180
+ARE,FSM,30
+ARE,MDA,90
+ARE,MCO,90
+ARE,MNG,30
+ARE,MNE,90
+ARE,MAR,90
+ARE,MOZ,30
+ARE,MMR,visa required
+ARE,NAM,visa on arrival
+ARE,NRU,visa free
+ARE,NPL,visa on arrival
+ARE,NLD,90
+ARE,NZL,eta
+ARE,NIC,90
+ARE,NER,visa required
+ARE,NGA,e-visa
+ARE,PRK,visa required
+ARE,MKD,90
+ARE,NOR,90
+ARE,OMN,visa free
+ARE,PAK,90
+ARE,PLW,visa on arrival
+ARE,PSE,visa free
+ARE,PAN,90
+ARE,PNG,e-visa
+ARE,PRY,90
+ARE,PER,90
+ARE,PHL,30
+ARE,POL,90
+ARE,PRT,90
+ARE,QAT,visa free
+ARE,ROU,90
+ARE,RUS,90
+ARE,RWA,visa on arrival
+ARE,KNA,eta
+ARE,LCA,60
+ARE,WSM,visa on arrival
+ARE,SMR,90
+ARE,STP,15
+ARE,SAU,visa free
+ARE,SEN,90
+ARE,SRB,90
+ARE,SYC,90
+ARE,SLE,visa on arrival
+ARE,SGP,30
+ARE,SVK,90
+ARE,SVN,90
+ARE,SLB,90
+ARE,SOM,e-visa
+ARE,ZAF,90
+ARE,KOR,90
+ARE,SSD,e-visa
+ARE,ESP,90
+ARE,LKA,visa on arrival
+ARE,VCT,90
+ARE,SDN,visa free
+ARE,SUR,eta
+ARE,SWE,90
+ARE,CHE,90
+ARE,SYR,visa on arrival
+ARE,TWN,e-visa
+ARE,TJK,30
+ARE,TZA,visa on arrival
+ARE,THA,60
+ARE,TLS,visa on arrival
+ARE,TGO,e-visa
+ARE,TON,60
+ARE,TTO,visa on arrival
+ARE,TUN,90
+ARE,TKM,visa required
+ARE,TUV,visa on arrival
+ARE,TUR,90
+ARE,UGA,e-visa
+ARE,UKR,90
 ARE,ARE,-1
-ARE,GBR,
-ARE,USA,
-ARE,URY,
-ARE,UZB,
-ARE,VUT,
-ARE,VAT,
-ARE,VEN,
-ARE,VNM,
-ARE,YEM,
-ARE,ZMB,
-ARE,ZWE,
-ARE,AFG,
-GBR,ALB,
-GBR,DZA,
-GBR,AND,
-GBR,AGO,
-GBR,ATG,
-GBR,ARG,
-GBR,ARM,
-GBR,AUS,
-GBR,AUT,
-GBR,AZE,
-GBR,BHS,
-GBR,BHR,
-GBR,BGD,
-GBR,BRB,
-GBR,BLR,
-GBR,BEL,
-GBR,BLZ,
-GBR,BEN,
-GBR,BTN,
-GBR,BOL,
-GBR,BIH,
-GBR,BWA,
-GBR,BRA,
-GBR,BRN,
-GBR,BGR,
-GBR,BFA,
-GBR,BDI,
-GBR,KHM,
-GBR,CMR,
-GBR,CAN,
-GBR,CPV,
-GBR,CAF,
-GBR,TCD,
-GBR,CHL,
-GBR,CHN,
-GBR,COL,
-GBR,COM,
-GBR,COG,
-GBR,COD,
-GBR,CRI,
-GBR,CIV,
-GBR,HRV,
-GBR,CUB,
-GBR,CYP,
-GBR,CZE,
-GBR,DNK,
-GBR,DJI,
-GBR,DMA,
-GBR,DOM,
-GBR,ECU,
-GBR,EGY,
-GBR,SLV,
-GBR,GNQ,
-GBR,ERI,
-GBR,EST,
-GBR,SWZ,
-GBR,ETH,
-GBR,FJI,
-GBR,FIN,
-GBR,FRA,
-GBR,GAB,
-GBR,GMB,
-GBR,GEO,
-GBR,DEU,
-GBR,GHA,
-GBR,GRC,
-GBR,GRD,
-GBR,GTM,
-GBR,GIN,
-GBR,GNB,
-GBR,GUY,
-GBR,HTI,
-GBR,HND,
-GBR,HKG,
-GBR,HUN,
-GBR,ISL,
-GBR,IND,
-GBR,IDN,
-GBR,IRN,
-GBR,IRQ,
-GBR,IRL,
-GBR,ISR,
-GBR,ITA,
-GBR,JAM,
-GBR,JPN,
-GBR,JOR,
-GBR,KAZ,
-GBR,KEN,
-GBR,KIR,
-GBR,XKX,
-GBR,KWT,
-GBR,KGZ,
-GBR,LAO,
-GBR,LVA,
-GBR,LBN,
-GBR,LSO,
-GBR,LBR,
-GBR,LBY,
-GBR,LIE,
-GBR,LTU,
-GBR,LUX,
-GBR,MAC,
-GBR,MDG,
-GBR,MWI,
-GBR,MYS,
-GBR,MDV,
-GBR,MLI,
-GBR,MLT,
-GBR,MHL,
-GBR,MRT,
-GBR,MUS,
-GBR,MEX,
-GBR,FSM,
-GBR,MDA,
-GBR,MCO,
-GBR,MNG,
-GBR,MNE,
-GBR,MAR,
-GBR,MOZ,
-GBR,MMR,
-GBR,NAM,
-GBR,NRU,
-GBR,NPL,
-GBR,NLD,
-GBR,NZL,
-GBR,NIC,
-GBR,NER,
-GBR,NGA,
-GBR,PRK,
-GBR,MKD,
-GBR,NOR,
-GBR,OMN,
-GBR,PAK,
-GBR,PLW,
-GBR,PSE,
-GBR,PAN,
-GBR,PNG,
-GBR,PRY,
-GBR,PER,
-GBR,PHL,
-GBR,POL,
-GBR,PRT,
-GBR,QAT,
-GBR,ROU,
-GBR,RUS,
-GBR,RWA,
-GBR,KNA,
-GBR,LCA,
-GBR,WSM,
-GBR,SMR,
-GBR,STP,
-GBR,SAU,
-GBR,SEN,
-GBR,SRB,
-GBR,SYC,
-GBR,SLE,
-GBR,SGP,
-GBR,SVK,
-GBR,SVN,
-GBR,SLB,
-GBR,SOM,
-GBR,ZAF,
-GBR,KOR,
-GBR,SSD,
-GBR,ESP,
-GBR,LKA,
-GBR,VCT,
-GBR,SDN,
-GBR,SUR,
-GBR,SWE,
-GBR,CHE,
-GBR,SYR,
-GBR,TWN,
-GBR,TJK,
-GBR,TZA,
-GBR,THA,
-GBR,TLS,
-GBR,TGO,
-GBR,TON,
-GBR,TTO,
-GBR,TUN,
-GBR,TKM,
-GBR,TUV,
-GBR,TUR,
-GBR,UGA,
-GBR,UKR,
-GBR,ARE,
+ARE,GBR,eta
+ARE,USA,visa required
+ARE,URY,90
+ARE,UZB,30
+ARE,VUT,120
+ARE,VAT,90
+ARE,VEN,visa required
+ARE,VNM,e-visa
+ARE,YEM,visa on arrival
+ARE,ZMB,90
+ARE,ZWE,visa on arrival
+ARE,AFG,visa required
+GBR,ALB,90
+GBR,DZA,visa required
+GBR,AND,90
+GBR,AGO,30
+GBR,ATG,180
+GBR,ARG,90
+GBR,ARM,180
+GBR,AUS,eta
+GBR,AUT,90
+GBR,AZE,e-visa
+GBR,BHS,240
+GBR,BHR,visa on arrival
+GBR,BGD,visa on arrival
+GBR,BRB,180
+GBR,BLR,30
+GBR,BEL,90
+GBR,BLZ,visa free
+GBR,BEN,e-visa
+GBR,BTN,e-visa
+GBR,BOL,90
+GBR,BIH,90
+GBR,BWA,90
+GBR,BRA,90
+GBR,BRN,90
+GBR,BGR,90
+GBR,BFA,e-visa
+GBR,BDI,visa on arrival
+GBR,KHM,visa on arrival
+GBR,CMR,e-visa
+GBR,CAN,eta
+GBR,CPV,30
+GBR,CAF,visa required
+GBR,TCD,e-visa
+GBR,CHL,90
+GBR,CHN,visa required
+GBR,COL,90
+GBR,COM,visa on arrival
+GBR,COG,visa required
+GBR,COD,e-visa
+GBR,CRI,180
+GBR,CIV,eta
+GBR,HRV,90
+GBR,CUB,e-visa
+GBR,CYP,90
+GBR,CZE,90
+GBR,DNK,90
+GBR,DJI,visa on arrival
+GBR,DMA,180
+GBR,DOM,30
+GBR,ECU,90
+GBR,EGY,visa on arrival
+GBR,SLV,180
+GBR,GNQ,e-visa
+GBR,ERI,visa required
+GBR,EST,90
+GBR,SWZ,30
+GBR,ETH,visa on arrival
+GBR,FJI,120
+GBR,FIN,90
+GBR,FRA,90
+GBR,GAB,e-visa
+GBR,GMB,90
+GBR,GEO,360
+GBR,DEU,90
+GBR,GHA,visa required
+GBR,GRC,90
+GBR,GRD,90
+GBR,GTM,90
+GBR,GIN,e-visa
+GBR,GNB,visa on arrival
+GBR,GUY,90
+GBR,HTI,90
+GBR,HND,visa required
+GBR,HKG,180
+GBR,HUN,90
+GBR,ISL,90
+GBR,IND,e-visa
+GBR,IDN,visa on arrival
+GBR,IRN,visa required
+GBR,IRQ,e-visa
+GBR,IRL,visa free
+GBR,ISR,eta
+GBR,ITA,90
+GBR,JAM,visa free
+GBR,JPN,90
+GBR,JOR,visa on arrival
+GBR,KAZ,30
+GBR,KEN,eta
+GBR,KIR,90
+GBR,XKX,90
+GBR,KWT,visa on arrival
+GBR,KGZ,60
+GBR,LAO,visa on arrival
+GBR,LVA,90
+GBR,LBN,visa on arrival
+GBR,LSO,visa free
+GBR,LBR,visa required
+GBR,LBY,e-visa
+GBR,LIE,90
+GBR,LTU,90
+GBR,LUX,90
+GBR,MAC,180
+GBR,MDG,visa on arrival
+GBR,MWI,30
+GBR,MYS,90
+GBR,MDV,visa on arrival
+GBR,MLI,visa required
+GBR,MLT,90
+GBR,MHL,90
+GBR,MRT,e-visa
+GBR,MUS,90
+GBR,MEX,180
+GBR,FSM,30
+GBR,MDA,90
+GBR,MCO,90
+GBR,MNG,30
+GBR,MNE,90
+GBR,MAR,90
+GBR,MOZ,30
+GBR,MMR,e-visa
+GBR,NAM,visa on arrival
+GBR,NRU,visa required
+GBR,NPL,visa on arrival
+GBR,NLD,90
+GBR,NZL,eta
+GBR,NIC,90
+GBR,NER,visa required
+GBR,NGA,e-visa
+GBR,PRK,visa required
+GBR,MKD,90
+GBR,NOR,90
+GBR,OMN,visa on arrival
+GBR,PAK,e-visa
+GBR,PLW,visa on arrival
+GBR,PSE,visa free
+GBR,PAN,90
+GBR,PNG,visa on arrival
+GBR,PRY,90
+GBR,PER,180
+GBR,PHL,30
+GBR,POL,90
+GBR,PRT,90
+GBR,QAT,visa on arrival
+GBR,ROU,90
+GBR,RUS,visa required
+GBR,RWA,30
+GBR,KNA,eta
+GBR,LCA,42
+GBR,WSM,visa on arrival
+GBR,SMR,90
+GBR,STP,15
+GBR,SAU,visa on arrival
+GBR,SEN,90
+GBR,SRB,90
+GBR,SYC,90
+GBR,SLE,visa on arrival
+GBR,SGP,30
+GBR,SVK,90
+GBR,SVN,90
+GBR,SLB,visa on arrival
+GBR,SOM,e-visa
+GBR,ZAF,90
+GBR,KOR,90
+GBR,SSD,e-visa
+GBR,ESP,90
+GBR,LKA,visa on arrival
+GBR,VCT,180
+GBR,SDN,visa required
+GBR,SUR,eta
+GBR,SWE,90
+GBR,CHE,90
+GBR,SYR,e-visa
+GBR,TWN,90
+GBR,TJK,e-visa
+GBR,TZA,visa on arrival
+GBR,THA,60
+GBR,TLS,visa on arrival
+GBR,TGO,e-visa
+GBR,TON,visa on arrival
+GBR,TTO,visa free
+GBR,TUN,90
+GBR,TKM,visa required
+GBR,TUV,visa on arrival
+GBR,TUR,90
+GBR,UGA,e-visa
+GBR,UKR,90
+GBR,ARE,90
 GBR,GBR,-1
-GBR,USA,
-GBR,URY,
-GBR,UZB,
-GBR,VUT,
-GBR,VAT,
-GBR,VEN,
-GBR,VNM,
-GBR,YEM,
-GBR,ZMB,
-GBR,ZWE,
-GBR,AFG,
-USA,ALB,
-USA,DZA,
-USA,AND,
-USA,AGO,
-USA,ATG,
-USA,ARG,
-USA,ARM,
-USA,AUS,
-USA,AUT,
-USA,AZE,
-USA,BHS,
-USA,BHR,
-USA,BGD,
-USA,BRB,
-USA,BLR,
-USA,BEL,
-USA,BLZ,
-USA,BEN,
-USA,BTN,
-USA,BOL,
-USA,BIH,
-USA,BWA,
-USA,BRA,
-USA,BRN,
-USA,BGR,
-USA,BFA,
-USA,BDI,
-USA,KHM,
-USA,CMR,
-USA,CAN,
-USA,CPV,
-USA,CAF,
-USA,TCD,
-USA,CHL,
-USA,CHN,
-USA,COL,
-USA,COM,
-USA,COG,
-USA,COD,
-USA,CRI,
-USA,CIV,
-USA,HRV,
-USA,CUB,
-USA,CYP,
-USA,CZE,
-USA,DNK,
-USA,DJI,
-USA,DMA,
-USA,DOM,
-USA,ECU,
-USA,EGY,
-USA,SLV,
-USA,GNQ,
-USA,ERI,
-USA,EST,
-USA,SWZ,
-USA,ETH,
-USA,FJI,
-USA,FIN,
-USA,FRA,
-USA,GAB,
-USA,GMB,
-USA,GEO,
-USA,DEU,
-USA,GHA,
-USA,GRC,
-USA,GRD,
-USA,GTM,
-USA,GIN,
-USA,GNB,
-USA,GUY,
-USA,HTI,
-USA,HND,
-USA,HKG,
-USA,HUN,
-USA,ISL,
-USA,IND,
-USA,IDN,
-USA,IRN,
-USA,IRQ,
-USA,IRL,
-USA,ISR,
-USA,ITA,
-USA,JAM,
-USA,JPN,
-USA,JOR,
-USA,KAZ,
-USA,KEN,
-USA,KIR,
-USA,XKX,
-USA,KWT,
-USA,KGZ,
-USA,LAO,
-USA,LVA,
-USA,LBN,
-USA,LSO,
-USA,LBR,
-USA,LBY,
-USA,LIE,
-USA,LTU,
-USA,LUX,
-USA,MAC,
-USA,MDG,
-USA,MWI,
-USA,MYS,
-USA,MDV,
-USA,MLI,
-USA,MLT,
-USA,MHL,
-USA,MRT,
-USA,MUS,
-USA,MEX,
-USA,FSM,
-USA,MDA,
-USA,MCO,
-USA,MNG,
-USA,MNE,
-USA,MAR,
-USA,MOZ,
-USA,MMR,
-USA,NAM,
-USA,NRU,
-USA,NPL,
-USA,NLD,
-USA,NZL,
-USA,NIC,
-USA,NER,
-USA,NGA,
-USA,PRK,
-USA,MKD,
-USA,NOR,
-USA,OMN,
-USA,PAK,
-USA,PLW,
-USA,PSE,
-USA,PAN,
-USA,PNG,
-USA,PRY,
-USA,PER,
-USA,PHL,
-USA,POL,
-USA,PRT,
-USA,QAT,
-USA,ROU,
-USA,RUS,
-USA,RWA,
-USA,KNA,
-USA,LCA,
-USA,WSM,
-USA,SMR,
-USA,STP,
-USA,SAU,
-USA,SEN,
-USA,SRB,
-USA,SYC,
-USA,SLE,
-USA,SGP,
-USA,SVK,
-USA,SVN,
-USA,SLB,
-USA,SOM,
-USA,ZAF,
-USA,KOR,
-USA,SSD,
-USA,ESP,
-USA,LKA,
-USA,VCT,
-USA,SDN,
-USA,SUR,
-USA,SWE,
-USA,CHE,
-USA,SYR,
-USA,TWN,
-USA,TJK,
-USA,TZA,
-USA,THA,
-USA,TLS,
-USA,TGO,
-USA,TON,
-USA,TTO,
-USA,TUN,
-USA,TKM,
-USA,TUV,
-USA,TUR,
-USA,UGA,
-USA,UKR,
-USA,ARE,
-USA,GBR,
+GBR,USA,eta
+GBR,URY,90
+GBR,UZB,30
+GBR,VUT,120
+GBR,VAT,90
+GBR,VEN,90
+GBR,VNM,45
+GBR,YEM,visa required
+GBR,ZMB,90
+GBR,ZWE,visa on arrival
+GBR,AFG,visa required
+USA,ALB,360
+USA,DZA,visa required
+USA,AND,90
+USA,AGO,30
+USA,ATG,180
+USA,ARG,90
+USA,ARM,180
+USA,AUS,eta
+USA,AUT,90
+USA,AZE,e-visa
+USA,BHS,240
+USA,BHR,visa on arrival
+USA,BGD,visa on arrival
+USA,BRB,180
+USA,BLR,e-visa
+USA,BEL,90
+USA,BLZ,180
+USA,BEN,e-visa
+USA,BTN,e-visa
+USA,BOL,90
+USA,BIH,90
+USA,BWA,90
+USA,BRA,e-visa
+USA,BRN,90
+USA,BGR,90
+USA,BFA,e-visa
+USA,BDI,visa on arrival
+USA,KHM,visa on arrival
+USA,CMR,e-visa
+USA,CAN,180
+USA,CPV,30
+USA,CAF,visa required
+USA,TCD,e-visa
+USA,CHL,90
+USA,CHN,visa required
+USA,COL,90
+USA,COM,visa on arrival
+USA,COG,visa required
+USA,COD,e-visa
+USA,CRI,180
+USA,CIV,eta
+USA,HRV,90
+USA,CUB,e-visa
+USA,CYP,90
+USA,CZE,90
+USA,DNK,90
+USA,DJI,visa on arrival
+USA,DMA,180
+USA,DOM,30
+USA,ECU,90
+USA,EGY,visa on arrival
+USA,SLV,180
+USA,GNQ,e-visa
+USA,ERI,visa required
+USA,EST,90
+USA,SWZ,30
+USA,ETH,visa on arrival
+USA,FJI,120
+USA,FIN,90
+USA,FRA,90
+USA,GAB,e-visa
+USA,GMB,visa on arrival
+USA,GEO,360
+USA,DEU,90
+USA,GHA,visa required
+USA,GRC,90
+USA,GRD,90
+USA,GTM,90
+USA,GIN,e-visa
+USA,GNB,visa on arrival
+USA,GUY,90
+USA,HTI,90
+USA,HND,90
+USA,HKG,90
+USA,HUN,90
+USA,ISL,90
+USA,IND,e-visa
+USA,IDN,visa on arrival
+USA,IRN,visa required
+USA,IRQ,e-visa
+USA,IRL,90
+USA,ISR,eta
+USA,ITA,90
+USA,JAM,180
+USA,JPN,90
+USA,JOR,visa on arrival
+USA,KAZ,30
+USA,KEN,eta
+USA,KIR,90
+USA,XKX,90
+USA,KWT,visa on arrival
+USA,KGZ,60
+USA,LAO,visa on arrival
+USA,LVA,90
+USA,LBN,visa on arrival
+USA,LSO,visa free
+USA,LBR,visa required
+USA,LBY,e-visa
+USA,LIE,90
+USA,LTU,90
+USA,LUX,90
+USA,MAC,30
+USA,MDG,visa on arrival
+USA,MWI,30
+USA,MYS,90
+USA,MDV,visa on arrival
+USA,MLI,visa required
+USA,MLT,90
+USA,MHL,visa free
+USA,MRT,e-visa
+USA,MUS,90
+USA,MEX,180
+USA,FSM,30
+USA,MDA,90
+USA,MCO,90
+USA,MNG,90
+USA,MNE,90
+USA,MAR,90
+USA,MOZ,30
+USA,MMR,e-visa
+USA,NAM,visa on arrival
+USA,NRU,visa required
+USA,NPL,visa on arrival
+USA,NLD,90
+USA,NZL,eta
+USA,NIC,90
+USA,NER,visa required
+USA,NGA,e-visa
+USA,PRK,visa required
+USA,MKD,90
+USA,NOR,90
+USA,OMN,visa on arrival
+USA,PAK,e-visa
+USA,PLW,360
+USA,PSE,visa free
+USA,PAN,180
+USA,PNG,eta
+USA,PRY,90
+USA,PER,180
+USA,PHL,30
+USA,POL,90
+USA,PRT,90
+USA,QAT,visa on arrival
+USA,ROU,90
+USA,RUS,visa required
+USA,RWA,visa on arrival
+USA,KNA,eta
+USA,LCA,42
+USA,WSM,visa on arrival
+USA,SMR,90
+USA,STP,15
+USA,SAU,visa on arrival
+USA,SEN,90
+USA,SRB,90
+USA,SYC,90
+USA,SLE,visa on arrival
+USA,SGP,30
+USA,SVK,90
+USA,SVN,90
+USA,SLB,visa on arrival
+USA,SOM,e-visa
+USA,ZAF,90
+USA,KOR,90
+USA,SSD,e-visa
+USA,ESP,90
+USA,LKA,visa on arrival
+USA,VCT,180
+USA,SDN,visa required
+USA,SUR,eta
+USA,SWE,90
+USA,CHE,90
+USA,SYR,e-visa
+USA,TWN,90
+USA,TJK,30
+USA,TZA,visa on arrival
+USA,THA,60
+USA,TLS,visa on arrival
+USA,TGO,e-visa
+USA,TON,visa on arrival
+USA,TTO,90
+USA,TUN,90
+USA,TKM,visa required
+USA,TUV,visa on arrival
+USA,TUR,90
+USA,UGA,e-visa
+USA,UKR,90
+USA,ARE,90
+USA,GBR,eta
 USA,USA,-1
-USA,URY,
-USA,UZB,
-USA,VUT,
-USA,VAT,
-USA,VEN,
-USA,VNM,
-USA,YEM,
-USA,ZMB,
-USA,ZWE,
-USA,AFG,
-URY,ALB,
-URY,DZA,
-URY,AND,
-URY,AGO,
-URY,ATG,
-URY,ARG,
-URY,ARM,
-URY,AUS,
-URY,AUT,
-URY,AZE,
-URY,BHS,
-URY,BHR,
-URY,BGD,
-URY,BRB,
-URY,BLR,
-URY,BEL,
-URY,BLZ,
-URY,BEN,
-URY,BTN,
-URY,BOL,
-URY,BIH,
-URY,BWA,
-URY,BRA,
-URY,BRN,
-URY,BGR,
-URY,BFA,
-URY,BDI,
-URY,KHM,
-URY,CMR,
-URY,CAN,
-URY,CPV,
-URY,CAF,
-URY,TCD,
-URY,CHL,
-URY,CHN,
-URY,COL,
-URY,COM,
-URY,COG,
-URY,COD,
-URY,CRI,
-URY,CIV,
-URY,HRV,
-URY,CUB,
-URY,CYP,
-URY,CZE,
-URY,DNK,
-URY,DJI,
-URY,DMA,
-URY,DOM,
-URY,ECU,
-URY,EGY,
-URY,SLV,
-URY,GNQ,
-URY,ERI,
-URY,EST,
-URY,SWZ,
-URY,ETH,
-URY,FJI,
-URY,FIN,
-URY,FRA,
-URY,GAB,
-URY,GMB,
-URY,GEO,
-URY,DEU,
-URY,GHA,
-URY,GRC,
-URY,GRD,
-URY,GTM,
-URY,GIN,
-URY,GNB,
-URY,GUY,
-URY,HTI,
-URY,HND,
-URY,HKG,
-URY,HUN,
-URY,ISL,
-URY,IND,
-URY,IDN,
-URY,IRN,
-URY,IRQ,
-URY,IRL,
-URY,ISR,
-URY,ITA,
-URY,JAM,
-URY,JPN,
-URY,JOR,
-URY,KAZ,
-URY,KEN,
-URY,KIR,
-URY,XKX,
-URY,KWT,
-URY,KGZ,
-URY,LAO,
-URY,LVA,
-URY,LBN,
-URY,LSO,
-URY,LBR,
-URY,LBY,
-URY,LIE,
-URY,LTU,
-URY,LUX,
-URY,MAC,
-URY,MDG,
-URY,MWI,
-URY,MYS,
-URY,MDV,
-URY,MLI,
-URY,MLT,
-URY,MHL,
-URY,MRT,
-URY,MUS,
-URY,MEX,
-URY,FSM,
-URY,MDA,
-URY,MCO,
-URY,MNG,
-URY,MNE,
-URY,MAR,
-URY,MOZ,
-URY,MMR,
-URY,NAM,
-URY,NRU,
-URY,NPL,
-URY,NLD,
-URY,NZL,
-URY,NIC,
-URY,NER,
-URY,NGA,
-URY,PRK,
-URY,MKD,
-URY,NOR,
-URY,OMN,
-URY,PAK,
-URY,PLW,
-URY,PSE,
-URY,PAN,
-URY,PNG,
-URY,PRY,
-URY,PER,
-URY,PHL,
-URY,POL,
-URY,PRT,
-URY,QAT,
-URY,ROU,
-URY,RUS,
-URY,RWA,
-URY,KNA,
-URY,LCA,
-URY,WSM,
-URY,SMR,
-URY,STP,
-URY,SAU,
-URY,SEN,
-URY,SRB,
-URY,SYC,
-URY,SLE,
-URY,SGP,
-URY,SVK,
-URY,SVN,
-URY,SLB,
-URY,SOM,
-URY,ZAF,
-URY,KOR,
-URY,SSD,
-URY,ESP,
-URY,LKA,
-URY,VCT,
-URY,SDN,
-URY,SUR,
-URY,SWE,
-URY,CHE,
-URY,SYR,
-URY,TWN,
-URY,TJK,
-URY,TZA,
-URY,THA,
-URY,TLS,
-URY,TGO,
-URY,TON,
-URY,TTO,
-URY,TUN,
-URY,TKM,
-URY,TUV,
-URY,TUR,
-URY,UGA,
-URY,UKR,
-URY,ARE,
-URY,GBR,
-URY,USA,
+USA,URY,90
+USA,UZB,e-visa
+USA,VUT,120
+USA,VAT,90
+USA,VEN,visa required
+USA,VNM,e-visa
+USA,YEM,visa required
+USA,ZMB,90
+USA,ZWE,visa on arrival
+USA,AFG,visa required
+URY,ALB,90
+URY,DZA,visa required
+URY,AND,90
+URY,AGO,30
+URY,ATG,e-visa
+URY,ARG,90
+URY,ARM,180
+URY,AUS,e-visa
+URY,AUT,90
+URY,AZE,visa required
+URY,BHS,90
+URY,BHR,visa on arrival
+URY,BGD,visa on arrival
+URY,BRB,90
+URY,BLR,30
+URY,BEL,90
+URY,BLZ,visa free
+URY,BEN,e-visa
+URY,BTN,e-visa
+URY,BOL,90
+URY,BIH,90
+URY,BWA,90
+URY,BRA,90
+URY,BRN,visa required
+URY,BGR,90
+URY,BFA,e-visa
+URY,BDI,visa on arrival
+URY,KHM,visa on arrival
+URY,CMR,e-visa
+URY,CAN,visa required
+URY,CPV,visa on arrival
+URY,CAF,visa required
+URY,TCD,e-visa
+URY,CHL,90
+URY,CHN,30
+URY,COL,90
+URY,COM,visa on arrival
+URY,COG,visa required
+URY,COD,e-visa
+URY,CRI,180
+URY,CIV,eta
+URY,HRV,90
+URY,CUB,e-visa
+URY,CYP,90
+URY,CZE,90
+URY,DNK,90
+URY,DJI,visa on arrival
+URY,DMA,21
+URY,DOM,30
+URY,ECU,90
+URY,EGY,visa on arrival
+URY,SLV,180
+URY,GNQ,e-visa
+URY,ERI,visa required
+URY,EST,90
+URY,SWZ,30
+URY,ETH,e-visa
+URY,FJI,120
+URY,FIN,90
+URY,FRA,90
+URY,GAB,e-visa
+URY,GMB,visa required
+URY,GEO,90
+URY,DEU,90
+URY,GHA,visa required
+URY,GRC,90
+URY,GRD,90
+URY,GTM,90
+URY,GIN,e-visa
+URY,GNB,visa on arrival
+URY,GUY,90
+URY,HTI,90
+URY,HND,90
+URY,HKG,90
+URY,HUN,90
+URY,ISL,90
+URY,IND,e-visa
+URY,IDN,e-visa
+URY,IRN,visa on arrival
+URY,IRQ,e-visa
+URY,IRL,90
+URY,ISR,eta
+URY,ITA,90
+URY,JAM,30
+URY,JPN,90
+URY,JOR,visa on arrival
+URY,KAZ,e-visa
+URY,KEN,eta
+URY,KIR,90
+URY,XKX,90
+URY,KWT,visa required
+URY,KGZ,e-visa
+URY,LAO,visa on arrival
+URY,LVA,90
+URY,LBN,visa on arrival
+URY,LSO,visa required
+URY,LBR,e-visa
+URY,LBY,e-visa
+URY,LIE,90
+URY,LTU,90
+URY,LUX,90
+URY,MAC,90
+URY,MDG,visa on arrival
+URY,MWI,visa on arrival
+URY,MYS,90
+URY,MDV,visa on arrival
+URY,MLI,visa required
+URY,MLT,90
+URY,MHL,visa on arrival
+URY,MRT,e-visa
+URY,MUS,visa on arrival
+URY,MEX,180
+URY,FSM,30
+URY,MDA,90
+URY,MCO,90
+URY,MNG,30
+URY,MNE,90
+URY,MAR,visa required
+URY,MOZ,visa on arrival
+URY,MMR,e-visa
+URY,NAM,visa on arrival
+URY,NRU,visa required
+URY,NPL,visa on arrival
+URY,NLD,90
+URY,NZL,eta
+URY,NIC,90
+URY,NER,visa required
+URY,NGA,e-visa
+URY,PRK,visa required
+URY,MKD,90
+URY,NOR,90
+URY,OMN,visa on arrival
+URY,PAK,e-visa
+URY,PLW,visa on arrival
+URY,PSE,visa free
+URY,PAN,90
+URY,PNG,eta
+URY,PRY,90
+URY,PER,180
+URY,PHL,30
+URY,POL,90
+URY,PRT,90
+URY,QAT,visa on arrival
+URY,ROU,90
+URY,RUS,90
+URY,RWA,visa on arrival
+URY,KNA,eta
+URY,LCA,42
+URY,WSM,visa on arrival
+URY,SMR,90
+URY,STP,e-visa
+URY,SAU,e-visa
+URY,SEN,visa required
+URY,SRB,90
+URY,SYC,90
+URY,SLE,e-visa
+URY,SGP,30
+URY,SVK,90
+URY,SVN,90
+URY,SLB,visa required
+URY,SOM,e-visa
+URY,ZAF,90
+URY,KOR,eta
+URY,SSD,e-visa
+URY,ESP,90
+URY,LKA,visa on arrival
+URY,VCT,90
+URY,SDN,visa required
+URY,SUR,eta
+URY,SWE,90
+URY,CHE,90
+URY,SYR,e-visa
+URY,TWN,visa required
+URY,TJK,e-visa
+URY,TZA,visa on arrival
+URY,THA,60
+URY,TLS,visa on arrival
+URY,TGO,e-visa
+URY,TON,visa required
+URY,TTO,90
+URY,TUN,visa required
+URY,TKM,visa required
+URY,TUV,visa on arrival
+URY,TUR,90
+URY,UGA,e-visa
+URY,UKR,90
+URY,ARE,90
+URY,GBR,eta
+URY,USA,visa required
 URY,URY,-1
-URY,UZB,
-URY,VUT,
-URY,VAT,
-URY,VEN,
-URY,VNM,
-URY,YEM,
-URY,ZMB,
-URY,ZWE,
-URY,AFG,
-UZB,ALB,
-UZB,DZA,
-UZB,AND,
-UZB,AGO,
-UZB,ATG,
-UZB,ARG,
-UZB,ARM,
-UZB,AUS,
-UZB,AUT,
-UZB,AZE,
-UZB,BHS,
-UZB,BHR,
-UZB,BGD,
-UZB,BRB,
-UZB,BLR,
-UZB,BEL,
-UZB,BLZ,
-UZB,BEN,
-UZB,BTN,
-UZB,BOL,
-UZB,BIH,
-UZB,BWA,
-UZB,BRA,
-UZB,BRN,
-UZB,BGR,
-UZB,BFA,
-UZB,BDI,
-UZB,KHM,
-UZB,CMR,
-UZB,CAN,
-UZB,CPV,
-UZB,CAF,
-UZB,TCD,
-UZB,CHL,
-UZB,CHN,
-UZB,COL,
-UZB,COM,
-UZB,COG,
-UZB,COD,
-UZB,CRI,
-UZB,CIV,
-UZB,HRV,
-UZB,CUB,
-UZB,CYP,
-UZB,CZE,
-UZB,DNK,
-UZB,DJI,
-UZB,DMA,
-UZB,DOM,
-UZB,ECU,
-UZB,EGY,
-UZB,SLV,
-UZB,GNQ,
-UZB,ERI,
-UZB,EST,
-UZB,SWZ,
-UZB,ETH,
-UZB,FJI,
-UZB,FIN,
-UZB,FRA,
-UZB,GAB,
-UZB,GMB,
-UZB,GEO,
-UZB,DEU,
-UZB,GHA,
-UZB,GRC,
-UZB,GRD,
-UZB,GTM,
-UZB,GIN,
-UZB,GNB,
-UZB,GUY,
-UZB,HTI,
-UZB,HND,
-UZB,HKG,
-UZB,HUN,
-UZB,ISL,
-UZB,IND,
-UZB,IDN,
-UZB,IRN,
-UZB,IRQ,
-UZB,IRL,
-UZB,ISR,
-UZB,ITA,
-UZB,JAM,
-UZB,JPN,
-UZB,JOR,
-UZB,KAZ,
-UZB,KEN,
-UZB,KIR,
-UZB,XKX,
-UZB,KWT,
-UZB,KGZ,
-UZB,LAO,
-UZB,LVA,
-UZB,LBN,
-UZB,LSO,
-UZB,LBR,
-UZB,LBY,
-UZB,LIE,
-UZB,LTU,
-UZB,LUX,
-UZB,MAC,
-UZB,MDG,
-UZB,MWI,
-UZB,MYS,
-UZB,MDV,
-UZB,MLI,
-UZB,MLT,
-UZB,MHL,
-UZB,MRT,
-UZB,MUS,
-UZB,MEX,
-UZB,FSM,
-UZB,MDA,
-UZB,MCO,
-UZB,MNG,
-UZB,MNE,
-UZB,MAR,
-UZB,MOZ,
-UZB,MMR,
-UZB,NAM,
-UZB,NRU,
-UZB,NPL,
-UZB,NLD,
-UZB,NZL,
-UZB,NIC,
-UZB,NER,
-UZB,NGA,
-UZB,PRK,
-UZB,MKD,
-UZB,NOR,
-UZB,OMN,
-UZB,PAK,
-UZB,PLW,
-UZB,PSE,
-UZB,PAN,
-UZB,PNG,
-UZB,PRY,
-UZB,PER,
-UZB,PHL,
-UZB,POL,
-UZB,PRT,
-UZB,QAT,
-UZB,ROU,
-UZB,RUS,
-UZB,RWA,
-UZB,KNA,
-UZB,LCA,
-UZB,WSM,
-UZB,SMR,
-UZB,STP,
-UZB,SAU,
-UZB,SEN,
-UZB,SRB,
-UZB,SYC,
-UZB,SLE,
-UZB,SGP,
-UZB,SVK,
-UZB,SVN,
-UZB,SLB,
-UZB,SOM,
-UZB,ZAF,
-UZB,KOR,
-UZB,SSD,
-UZB,ESP,
-UZB,LKA,
-UZB,VCT,
-UZB,SDN,
-UZB,SUR,
-UZB,SWE,
-UZB,CHE,
-UZB,SYR,
-UZB,TWN,
-UZB,TJK,
-UZB,TZA,
-UZB,THA,
-UZB,TLS,
-UZB,TGO,
-UZB,TON,
-UZB,TTO,
-UZB,TUN,
-UZB,TKM,
-UZB,TUV,
-UZB,TUR,
-UZB,UGA,
-UZB,UKR,
-UZB,ARE,
-UZB,GBR,
-UZB,USA,
-UZB,URY,
+URY,UZB,e-visa
+URY,VUT,120
+URY,VAT,90
+URY,VEN,90
+URY,VNM,e-visa
+URY,YEM,visa required
+URY,ZMB,visa on arrival
+URY,ZWE,visa on arrival
+URY,AFG,visa required
+UZB,ALB,e-visa
+UZB,DZA,visa required
+UZB,AND,visa required
+UZB,AGO,visa required
+UZB,ATG,180
+UZB,ARG,visa required
+UZB,ARM,180
+UZB,AUS,e-visa
+UZB,AUT,visa required
+UZB,AZE,90
+UZB,BHS,e-visa
+UZB,BHR,e-visa
+UZB,BGD,visa required
+UZB,BRB,28
+UZB,BLR,visa free
+UZB,BEL,visa required
+UZB,BLZ,visa required
+UZB,BEN,e-visa
+UZB,BTN,e-visa
+UZB,BOL,e-visa
+UZB,BIH,visa required
+UZB,BWA,e-visa
+UZB,BRA,visa required
+UZB,BRN,visa required
+UZB,BGR,visa required
+UZB,BFA,e-visa
+UZB,BDI,visa on arrival
+UZB,KHM,visa on arrival
+UZB,CMR,e-visa
+UZB,CAN,visa required
+UZB,CPV,visa on arrival
+UZB,CAF,visa required
+UZB,TCD,e-visa
+UZB,CHL,visa required
+UZB,CHN,30
+UZB,COL,e-visa
+UZB,COM,visa on arrival
+UZB,COG,visa required
+UZB,COD,e-visa
+UZB,CRI,visa required
+UZB,CIV,eta
+UZB,HRV,visa required
+UZB,CUB,visa required
+UZB,CYP,visa required
+UZB,CZE,visa required
+UZB,DNK,visa required
+UZB,DJI,visa on arrival
+UZB,DMA,21
+UZB,DOM,visa required
+UZB,ECU,e-visa
+UZB,EGY,visa required
+UZB,SLV,e-visa
+UZB,GNQ,e-visa
+UZB,ERI,visa required
+UZB,EST,visa required
+UZB,SWZ,visa required
+UZB,ETH,e-visa
+UZB,FJI,visa required
+UZB,FIN,visa required
+UZB,FRA,visa required
+UZB,GAB,e-visa
+UZB,GMB,visa required
+UZB,GEO,360
+UZB,DEU,visa required
+UZB,GHA,visa required
+UZB,GRC,visa required
+UZB,GRD,visa free
+UZB,GTM,visa required
+UZB,GIN,e-visa
+UZB,GNB,visa on arrival
+UZB,GUY,e-visa
+UZB,HTI,90
+UZB,HND,visa required
+UZB,HKG,e-visa
+UZB,HUN,visa required
+UZB,ISL,visa required
+UZB,IND,e-visa
+UZB,IDN,visa on arrival
+UZB,IRN,15
+UZB,IRQ,e-visa
+UZB,IRL,visa required
+UZB,ISR,e-visa
+UZB,ITA,visa required
+UZB,JAM,visa on arrival
+UZB,JPN,visa required
+UZB,JOR,visa on arrival
+UZB,KAZ,30
+UZB,KEN,eta
+UZB,KIR,visa required
+UZB,XKX,visa required
+UZB,KWT,visa required
+UZB,KGZ,60
+UZB,LAO,visa on arrival
+UZB,LVA,visa required
+UZB,LBN,visa on arrival
+UZB,LSO,visa required
+UZB,LBR,e-visa
+UZB,LBY,e-visa
+UZB,LIE,visa required
+UZB,LTU,visa required
+UZB,LUX,visa required
+UZB,MAC,visa on arrival
+UZB,MDG,visa on arrival
+UZB,MWI,e-visa
+UZB,MYS,30
+UZB,MDV,visa on arrival
+UZB,MLI,visa required
+UZB,MLT,visa required
+UZB,MHL,visa required
+UZB,MRT,e-visa
+UZB,MUS,visa on arrival
+UZB,MEX,visa required
+UZB,FSM,30
+UZB,MDA,90
+UZB,MCO,visa required
+UZB,MNG,30
+UZB,MNE,visa required
+UZB,MAR,visa required
+UZB,MOZ,visa on arrival
+UZB,MMR,e-visa
+UZB,NAM,visa on arrival
+UZB,NRU,visa required
+UZB,NPL,visa on arrival
+UZB,NLD,visa required
+UZB,NZL,visa required
+UZB,NIC,visa on arrival
+UZB,NER,visa required
+UZB,NGA,e-visa
+UZB,PRK,visa required
+UZB,MKD,visa required
+UZB,NOR,visa required
+UZB,OMN,14
+UZB,PAK,e-visa
+UZB,PLW,visa on arrival
+UZB,PSE,visa free
+UZB,PAN,visa required
+UZB,PNG,e-visa
+UZB,PRY,visa required
+UZB,PER,visa required
+UZB,PHL,30
+UZB,POL,visa required
+UZB,PRT,visa required
+UZB,QAT,visa on arrival
+UZB,ROU,visa required
+UZB,RUS,90
+UZB,RWA,visa on arrival
+UZB,KNA,e-visa
+UZB,LCA,visa required
+UZB,WSM,visa on arrival
+UZB,SMR,visa required
+UZB,STP,e-visa
+UZB,SAU,visa on arrival
+UZB,SEN,visa required
+UZB,SRB,visa required
+UZB,SYC,90
+UZB,SLE,e-visa
+UZB,SGP,e-visa
+UZB,SVK,visa required
+UZB,SVN,visa required
+UZB,SLB,visa required
+UZB,SOM,e-visa
+UZB,ZAF,visa required
+UZB,KOR,e-visa
+UZB,SSD,e-visa
+UZB,ESP,visa required
+UZB,LKA,visa on arrival
+UZB,VCT,90
+UZB,SDN,visa required
+UZB,SUR,eta
+UZB,SWE,visa required
+UZB,CHE,visa required
+UZB,SYR,visa on arrival
+UZB,TWN,visa required
+UZB,TJK,30
+UZB,TZA,e-visa
+UZB,THA,60
+UZB,TLS,visa on arrival
+UZB,TGO,e-visa
+UZB,TON,visa required
+UZB,TTO,visa required
+UZB,TUN,visa required
+UZB,TKM,visa required
+UZB,TUV,visa on arrival
+UZB,TUR,90
+UZB,UGA,e-visa
+UZB,UKR,visa free
+UZB,ARE,30
+UZB,GBR,visa required
+UZB,USA,visa required
+UZB,URY,visa required
 UZB,UZB,-1
-UZB,VUT,
-UZB,VAT,
-UZB,VEN,
-UZB,VNM,
-UZB,YEM,
-UZB,ZMB,
-UZB,ZWE,
-UZB,AFG,
-VUT,ALB,
-VUT,DZA,
-VUT,AND,
-VUT,AGO,
-VUT,ATG,
-VUT,ARG,
-VUT,ARM,
-VUT,AUS,
-VUT,AUT,
-VUT,AZE,
-VUT,BHS,
-VUT,BHR,
-VUT,BGD,
-VUT,BRB,
-VUT,BLR,
-VUT,BEL,
-VUT,BLZ,
-VUT,BEN,
-VUT,BTN,
-VUT,BOL,
-VUT,BIH,
-VUT,BWA,
-VUT,BRA,
-VUT,BRN,
-VUT,BGR,
-VUT,BFA,
-VUT,BDI,
-VUT,KHM,
-VUT,CMR,
-VUT,CAN,
-VUT,CPV,
-VUT,CAF,
-VUT,TCD,
-VUT,CHL,
-VUT,CHN,
-VUT,COL,
-VUT,COM,
-VUT,COG,
-VUT,COD,
-VUT,CRI,
-VUT,CIV,
-VUT,HRV,
-VUT,CUB,
-VUT,CYP,
-VUT,CZE,
-VUT,DNK,
-VUT,DJI,
-VUT,DMA,
-VUT,DOM,
-VUT,ECU,
-VUT,EGY,
-VUT,SLV,
-VUT,GNQ,
-VUT,ERI,
-VUT,EST,
-VUT,SWZ,
-VUT,ETH,
-VUT,FJI,
-VUT,FIN,
-VUT,FRA,
-VUT,GAB,
-VUT,GMB,
-VUT,GEO,
-VUT,DEU,
-VUT,GHA,
-VUT,GRC,
-VUT,GRD,
-VUT,GTM,
-VUT,GIN,
-VUT,GNB,
-VUT,GUY,
-VUT,HTI,
-VUT,HND,
-VUT,HKG,
-VUT,HUN,
-VUT,ISL,
-VUT,IND,
-VUT,IDN,
-VUT,IRN,
-VUT,IRQ,
-VUT,IRL,
-VUT,ISR,
-VUT,ITA,
-VUT,JAM,
-VUT,JPN,
-VUT,JOR,
-VUT,KAZ,
-VUT,KEN,
-VUT,KIR,
-VUT,XKX,
-VUT,KWT,
-VUT,KGZ,
-VUT,LAO,
-VUT,LVA,
-VUT,LBN,
-VUT,LSO,
-VUT,LBR,
-VUT,LBY,
-VUT,LIE,
-VUT,LTU,
-VUT,LUX,
-VUT,MAC,
-VUT,MDG,
-VUT,MWI,
-VUT,MYS,
-VUT,MDV,
-VUT,MLI,
-VUT,MLT,
-VUT,MHL,
-VUT,MRT,
-VUT,MUS,
-VUT,MEX,
-VUT,FSM,
-VUT,MDA,
-VUT,MCO,
-VUT,MNG,
-VUT,MNE,
-VUT,MAR,
-VUT,MOZ,
-VUT,MMR,
-VUT,NAM,
-VUT,NRU,
-VUT,NPL,
-VUT,NLD,
-VUT,NZL,
-VUT,NIC,
-VUT,NER,
-VUT,NGA,
-VUT,PRK,
-VUT,MKD,
-VUT,NOR,
-VUT,OMN,
-VUT,PAK,
-VUT,PLW,
-VUT,PSE,
-VUT,PAN,
-VUT,PNG,
-VUT,PRY,
-VUT,PER,
-VUT,PHL,
-VUT,POL,
-VUT,PRT,
-VUT,QAT,
-VUT,ROU,
-VUT,RUS,
-VUT,RWA,
-VUT,KNA,
-VUT,LCA,
-VUT,WSM,
-VUT,SMR,
-VUT,STP,
-VUT,SAU,
-VUT,SEN,
-VUT,SRB,
-VUT,SYC,
-VUT,SLE,
-VUT,SGP,
-VUT,SVK,
-VUT,SVN,
-VUT,SLB,
-VUT,SOM,
-VUT,ZAF,
-VUT,KOR,
-VUT,SSD,
-VUT,ESP,
-VUT,LKA,
-VUT,VCT,
-VUT,SDN,
-VUT,SUR,
-VUT,SWE,
-VUT,CHE,
-VUT,SYR,
-VUT,TWN,
-VUT,TJK,
-VUT,TZA,
-VUT,THA,
-VUT,TLS,
-VUT,TGO,
-VUT,TON,
-VUT,TTO,
-VUT,TUN,
-VUT,TKM,
-VUT,TUV,
-VUT,TUR,
-VUT,UGA,
-VUT,UKR,
-VUT,ARE,
-VUT,GBR,
-VUT,USA,
-VUT,URY,
-VUT,UZB,
+UZB,VUT,e-visa
+UZB,VAT,visa required
+UZB,VEN,visa required
+UZB,VNM,e-visa
+UZB,YEM,visa required
+UZB,ZMB,e-visa
+UZB,ZWE,visa on arrival
+UZB,AFG,visa required
+VUT,ALB,e-visa
+VUT,DZA,visa required
+VUT,AND,visa required
+VUT,AGO,30
+VUT,ATG,180
+VUT,ARG,visa required
+VUT,ARM,e-visa
+VUT,AUS,e-visa
+VUT,AUT,visa required
+VUT,AZE,visa required
+VUT,BHS,90
+VUT,BHR,e-visa
+VUT,BGD,visa required
+VUT,BRB,180
+VUT,BLR,30
+VUT,BEL,visa required
+VUT,BLZ,visa free
+VUT,BEN,e-visa
+VUT,BTN,e-visa
+VUT,BOL,e-visa
+VUT,BIH,90
+VUT,BWA,90
+VUT,BRA,visa required
+VUT,BRN,visa required
+VUT,BGR,visa required
+VUT,BFA,e-visa
+VUT,BDI,visa on arrival
+VUT,KHM,visa on arrival
+VUT,CMR,e-visa
+VUT,CAN,visa required
+VUT,CPV,visa on arrival
+VUT,CAF,visa required
+VUT,TCD,e-visa
+VUT,CHL,visa required
+VUT,CHN,visa required
+VUT,COL,e-visa
+VUT,COM,visa on arrival
+VUT,COG,visa required
+VUT,COD,e-visa
+VUT,CRI,30
+VUT,CIV,eta
+VUT,HRV,visa required
+VUT,CUB,e-visa
+VUT,CYP,visa required
+VUT,CZE,visa required
+VUT,DNK,visa required
+VUT,DJI,visa on arrival
+VUT,DMA,180
+VUT,DOM,30
+VUT,ECU,90
+VUT,EGY,visa on arrival
+VUT,SLV,180
+VUT,GNQ,e-visa
+VUT,ERI,visa required
+VUT,EST,visa required
+VUT,SWZ,30
+VUT,ETH,e-visa
+VUT,FJI,120
+VUT,FIN,visa required
+VUT,FRA,visa required
+VUT,GAB,e-visa
+VUT,GMB,90
+VUT,GEO,e-visa
+VUT,DEU,visa required
+VUT,GHA,visa required
+VUT,GRC,visa required
+VUT,GRD,90
+VUT,GTM,90
+VUT,GIN,e-visa
+VUT,GNB,visa on arrival
+VUT,GUY,e-visa
+VUT,HTI,90
+VUT,HND,90
+VUT,HKG,90
+VUT,HUN,visa required
+VUT,ISL,visa required
+VUT,IND,e-visa
+VUT,IDN,e-visa
+VUT,IRN,visa on arrival
+VUT,IRQ,e-visa
+VUT,IRL,visa required
+VUT,ISR,eta
+VUT,ITA,visa required
+VUT,JAM,visa free
+VUT,JPN,visa required
+VUT,JOR,visa on arrival
+VUT,KAZ,e-visa
+VUT,KEN,90
+VUT,KIR,90
+VUT,XKX,90
+VUT,KWT,visa required
+VUT,KGZ,e-visa
+VUT,LAO,visa on arrival
+VUT,LVA,visa required
+VUT,LBN,visa required
+VUT,LSO,90
+VUT,LBR,e-visa
+VUT,LBY,e-visa
+VUT,LIE,visa required
+VUT,LTU,visa required
+VUT,LUX,visa required
+VUT,MAC,visa on arrival
+VUT,MDG,visa on arrival
+VUT,MWI,visa on arrival
+VUT,MYS,30
+VUT,MDV,visa on arrival
+VUT,MLI,visa required
+VUT,MLT,visa required
+VUT,MHL,visa on arrival
+VUT,MRT,e-visa
+VUT,MUS,90
+VUT,MEX,visa required
+VUT,FSM,30
+VUT,MDA,90
+VUT,MCO,visa required
+VUT,MNG,e-visa
+VUT,MNE,visa required
+VUT,MAR,visa required
+VUT,MOZ,visa on arrival
+VUT,MMR,visa required
+VUT,NAM,visa on arrival
+VUT,NRU,visa on arrival
+VUT,NPL,visa on arrival
+VUT,NLD,visa required
+VUT,NZL,visa required
+VUT,NIC,90
+VUT,NER,visa required
+VUT,NGA,e-visa
+VUT,PRK,visa required
+VUT,MKD,visa required
+VUT,NOR,visa required
+VUT,OMN,e-visa
+VUT,PAK,e-visa
+VUT,PLW,visa on arrival
+VUT,PSE,visa free
+VUT,PAN,90
+VUT,PNG,visa on arrival
+VUT,PRY,visa required
+VUT,PER,180
+VUT,PHL,30
+VUT,POL,visa required
+VUT,PRT,visa required
+VUT,QAT,e-visa
+VUT,ROU,visa required
+VUT,RUS,90
+VUT,RWA,30
+VUT,KNA,eta
+VUT,LCA,42
+VUT,WSM,visa on arrival
+VUT,SMR,visa required
+VUT,STP,e-visa
+VUT,SAU,e-visa
+VUT,SEN,visa on arrival
+VUT,SRB,visa required
+VUT,SYC,90
+VUT,SLE,visa on arrival
+VUT,SGP,30
+VUT,SVK,visa required
+VUT,SVN,visa required
+VUT,SLB,visa on arrival
+VUT,SOM,e-visa
+VUT,ZAF,visa required
+VUT,KOR,e-visa
+VUT,SSD,e-visa
+VUT,ESP,visa required
+VUT,LKA,visa on arrival
+VUT,VCT,90
+VUT,SDN,visa required
+VUT,SUR,eta
+VUT,SWE,visa required
+VUT,CHE,visa required
+VUT,SYR,e-visa
+VUT,TWN,visa required
+VUT,TJK,visa required
+VUT,TZA,90
+VUT,THA,visa on arrival
+VUT,TLS,visa on arrival
+VUT,TGO,e-visa
+VUT,TON,visa on arrival
+VUT,TTO,visa free
+VUT,TUN,visa required
+VUT,TKM,visa required
+VUT,TUV,visa on arrival
+VUT,TUR,visa required
+VUT,UGA,90
+VUT,UKR,e-visa
+VUT,ARE,e-visa
+VUT,GBR,visa required
+VUT,USA,visa required
+VUT,URY,visa required
+VUT,UZB,e-visa
 VUT,VUT,-1
-VUT,VAT,
-VUT,VEN,
-VUT,VNM,
-VUT,YEM,
-VUT,ZMB,
-VUT,ZWE,
-VUT,AFG,
-VAT,ALB,
-VAT,DZA,
-VAT,AND,
-VAT,AGO,
-VAT,ATG,
-VAT,ARG,
-VAT,ARM,
-VAT,AUS,
-VAT,AUT,
-VAT,AZE,
-VAT,BHS,
-VAT,BHR,
-VAT,BGD,
-VAT,BRB,
-VAT,BLR,
-VAT,BEL,
-VAT,BLZ,
-VAT,BEN,
-VAT,BTN,
-VAT,BOL,
-VAT,BIH,
-VAT,BWA,
-VAT,BRA,
-VAT,BRN,
-VAT,BGR,
-VAT,BFA,
-VAT,BDI,
-VAT,KHM,
-VAT,CMR,
-VAT,CAN,
-VAT,CPV,
-VAT,CAF,
-VAT,TCD,
-VAT,CHL,
-VAT,CHN,
-VAT,COL,
-VAT,COM,
-VAT,COG,
-VAT,COD,
-VAT,CRI,
-VAT,CIV,
-VAT,HRV,
-VAT,CUB,
-VAT,CYP,
-VAT,CZE,
-VAT,DNK,
-VAT,DJI,
-VAT,DMA,
-VAT,DOM,
-VAT,ECU,
-VAT,EGY,
-VAT,SLV,
-VAT,GNQ,
-VAT,ERI,
-VAT,EST,
-VAT,SWZ,
-VAT,ETH,
-VAT,FJI,
-VAT,FIN,
-VAT,FRA,
-VAT,GAB,
-VAT,GMB,
-VAT,GEO,
-VAT,DEU,
-VAT,GHA,
-VAT,GRC,
-VAT,GRD,
-VAT,GTM,
-VAT,GIN,
-VAT,GNB,
-VAT,GUY,
-VAT,HTI,
-VAT,HND,
-VAT,HKG,
-VAT,HUN,
-VAT,ISL,
-VAT,IND,
-VAT,IDN,
-VAT,IRN,
-VAT,IRQ,
-VAT,IRL,
-VAT,ISR,
-VAT,ITA,
-VAT,JAM,
-VAT,JPN,
-VAT,JOR,
-VAT,KAZ,
-VAT,KEN,
-VAT,KIR,
-VAT,XKX,
-VAT,KWT,
-VAT,KGZ,
-VAT,LAO,
-VAT,LVA,
-VAT,LBN,
-VAT,LSO,
-VAT,LBR,
-VAT,LBY,
-VAT,LIE,
-VAT,LTU,
-VAT,LUX,
-VAT,MAC,
-VAT,MDG,
-VAT,MWI,
-VAT,MYS,
-VAT,MDV,
-VAT,MLI,
-VAT,MLT,
-VAT,MHL,
-VAT,MRT,
-VAT,MUS,
-VAT,MEX,
-VAT,FSM,
-VAT,MDA,
-VAT,MCO,
-VAT,MNG,
-VAT,MNE,
-VAT,MAR,
-VAT,MOZ,
-VAT,MMR,
-VAT,NAM,
-VAT,NRU,
-VAT,NPL,
-VAT,NLD,
-VAT,NZL,
-VAT,NIC,
-VAT,NER,
-VAT,NGA,
-VAT,PRK,
-VAT,MKD,
-VAT,NOR,
-VAT,OMN,
-VAT,PAK,
-VAT,PLW,
-VAT,PSE,
-VAT,PAN,
-VAT,PNG,
-VAT,PRY,
-VAT,PER,
-VAT,PHL,
-VAT,POL,
-VAT,PRT,
-VAT,QAT,
-VAT,ROU,
-VAT,RUS,
-VAT,RWA,
-VAT,KNA,
-VAT,LCA,
-VAT,WSM,
-VAT,SMR,
-VAT,STP,
-VAT,SAU,
-VAT,SEN,
-VAT,SRB,
-VAT,SYC,
-VAT,SLE,
-VAT,SGP,
-VAT,SVK,
-VAT,SVN,
-VAT,SLB,
-VAT,SOM,
-VAT,ZAF,
-VAT,KOR,
-VAT,SSD,
-VAT,ESP,
-VAT,LKA,
-VAT,VCT,
-VAT,SDN,
-VAT,SUR,
-VAT,SWE,
-VAT,CHE,
-VAT,SYR,
-VAT,TWN,
-VAT,TJK,
-VAT,TZA,
-VAT,THA,
-VAT,TLS,
-VAT,TGO,
-VAT,TON,
-VAT,TTO,
-VAT,TUN,
-VAT,TKM,
-VAT,TUV,
-VAT,TUR,
-VAT,UGA,
-VAT,UKR,
-VAT,ARE,
-VAT,GBR,
-VAT,USA,
-VAT,URY,
-VAT,UZB,
-VAT,VUT,
+VUT,VAT,visa required
+VUT,VEN,visa required
+VUT,VNM,e-visa
+VUT,YEM,visa required
+VUT,ZMB,90
+VUT,ZWE,90
+VUT,AFG,visa required
+VAT,ALB,90
+VAT,DZA,visa required
+VAT,AND,90
+VAT,AGO,30
+VAT,ATG,180
+VAT,ARG,90
+VAT,ARM,180
+VAT,AUS,eta
+VAT,AUT,90
+VAT,AZE,e-visa
+VAT,BHS,90
+VAT,BHR,visa on arrival
+VAT,BGD,visa on arrival
+VAT,BRB,visa required
+VAT,BLR,30
+VAT,BEL,90
+VAT,BLZ,visa free
+VAT,BEN,e-visa
+VAT,BTN,e-visa
+VAT,BOL,90
+VAT,BIH,90
+VAT,BWA,90
+VAT,BRA,90
+VAT,BRN,visa required
+VAT,BGR,90
+VAT,BFA,e-visa
+VAT,BDI,visa on arrival
+VAT,KHM,visa on arrival
+VAT,CMR,e-visa
+VAT,CAN,eta
+VAT,CPV,30
+VAT,CAF,visa required
+VAT,TCD,e-visa
+VAT,CHL,90
+VAT,CHN,visa required
+VAT,COL,90
+VAT,COM,visa on arrival
+VAT,COG,visa required
+VAT,COD,e-visa
+VAT,CRI,180
+VAT,CIV,eta
+VAT,HRV,90
+VAT,CUB,e-visa
+VAT,CYP,90
+VAT,CZE,90
+VAT,DNK,90
+VAT,DJI,visa on arrival
+VAT,DMA,21
+VAT,DOM,30
+VAT,ECU,90
+VAT,EGY,visa on arrival
+VAT,SLV,180
+VAT,GNQ,e-visa
+VAT,ERI,visa required
+VAT,EST,90
+VAT,SWZ,30
+VAT,ETH,e-visa
+VAT,FJI,120
+VAT,FIN,90
+VAT,FRA,90
+VAT,GAB,e-visa
+VAT,GMB,90
+VAT,GEO,360
+VAT,DEU,90
+VAT,GHA,visa required
+VAT,GRC,90
+VAT,GRD,90
+VAT,GTM,90
+VAT,GIN,e-visa
+VAT,GNB,visa on arrival
+VAT,GUY,e-visa
+VAT,HTI,90
+VAT,HND,90
+VAT,HKG,14
+VAT,HUN,90
+VAT,ISL,90
+VAT,IND,e-visa
+VAT,IDN,visa on arrival
+VAT,IRN,visa on arrival
+VAT,IRQ,e-visa
+VAT,IRL,90
+VAT,ISR,eta
+VAT,ITA,90
+VAT,JAM,visa required
+VAT,JPN,visa required
+VAT,JOR,visa on arrival
+VAT,KAZ,30
+VAT,KEN,eta
+VAT,KIR,visa required
+VAT,XKX,90
+VAT,KWT,visa on arrival
+VAT,KGZ,60
+VAT,LAO,visa on arrival
+VAT,LVA,90
+VAT,LBN,visa required
+VAT,LSO,visa required
+VAT,LBR,e-visa
+VAT,LBY,e-visa
+VAT,LIE,90
+VAT,LTU,90
+VAT,LUX,90
+VAT,MAC,visa on arrival
+VAT,MDG,visa on arrival
+VAT,MWI,visa on arrival
+VAT,MYS,30
+VAT,MDV,visa on arrival
+VAT,MLI,visa required
+VAT,MLT,90
+VAT,MHL,visa on arrival
+VAT,MRT,e-visa
+VAT,MUS,90
+VAT,MEX,visa required
+VAT,FSM,30
+VAT,MDA,90
+VAT,MCO,90
+VAT,MNG,e-visa
+VAT,MNE,90
+VAT,MAR,visa required
+VAT,MOZ,visa on arrival
+VAT,MMR,visa required
+VAT,NAM,visa on arrival
+VAT,NRU,visa required
+VAT,NPL,visa on arrival
+VAT,NLD,90
+VAT,NZL,eta
+VAT,NIC,90
+VAT,NER,visa required
+VAT,NGA,e-visa
+VAT,PRK,visa required
+VAT,MKD,90
+VAT,NOR,90
+VAT,OMN,visa on arrival
+VAT,PAK,e-visa
+VAT,PLW,visa on arrival
+VAT,PSE,visa free
+VAT,PAN,90
+VAT,PNG,eta
+VAT,PRY,visa required
+VAT,PER,180
+VAT,PHL,30
+VAT,POL,90
+VAT,PRT,90
+VAT,QAT,visa on arrival
+VAT,ROU,90
+VAT,RUS,e-visa
+VAT,RWA,visa on arrival
+VAT,KNA,eta
+VAT,LCA,visa required
+VAT,WSM,visa on arrival
+VAT,SMR,90
+VAT,STP,15
+VAT,SAU,visa required
+VAT,SEN,visa on arrival
+VAT,SRB,90
+VAT,SYC,90
+VAT,SLE,e-visa
+VAT,SGP,30
+VAT,SVK,90
+VAT,SVN,90
+VAT,SLB,visa required
+VAT,SOM,e-visa
+VAT,ZAF,visa required
+VAT,KOR,30
+VAT,SSD,e-visa
+VAT,ESP,90
+VAT,LKA,visa on arrival
+VAT,VCT,90
+VAT,SDN,visa required
+VAT,SUR,eta
+VAT,SWE,90
+VAT,CHE,90
+VAT,SYR,e-visa
+VAT,TWN,90
+VAT,TJK,visa on arrival
+VAT,TZA,visa on arrival
+VAT,THA,e-visa
+VAT,TLS,visa on arrival
+VAT,TGO,e-visa
+VAT,TON,visa required
+VAT,TTO,visa required
+VAT,TUN,90
+VAT,TKM,visa required
+VAT,TUV,visa on arrival
+VAT,TUR,90
+VAT,UGA,e-visa
+VAT,UKR,90
+VAT,ARE,30
+VAT,GBR,eta
+VAT,USA,visa required
+VAT,URY,90
+VAT,UZB,30
+VAT,VUT,120
 VAT,VAT,-1
-VAT,VEN,
-VAT,VNM,
-VAT,YEM,
-VAT,ZMB,
-VAT,ZWE,
-VAT,AFG,
-VEN,ALB,
-VEN,DZA,
-VEN,AND,
-VEN,AGO,
-VEN,ATG,
-VEN,ARG,
-VEN,ARM,
-VEN,AUS,
-VEN,AUT,
-VEN,AZE,
-VEN,BHS,
-VEN,BHR,
-VEN,BGD,
-VEN,BRB,
-VEN,BLR,
-VEN,BEL,
-VEN,BLZ,
-VEN,BEN,
-VEN,BTN,
-VEN,BOL,
-VEN,BIH,
-VEN,BWA,
-VEN,BRA,
-VEN,BRN,
-VEN,BGR,
-VEN,BFA,
-VEN,BDI,
-VEN,KHM,
-VEN,CMR,
-VEN,CAN,
-VEN,CPV,
-VEN,CAF,
-VEN,TCD,
-VEN,CHL,
-VEN,CHN,
-VEN,COL,
-VEN,COM,
-VEN,COG,
-VEN,COD,
-VEN,CRI,
-VEN,CIV,
-VEN,HRV,
-VEN,CUB,
-VEN,CYP,
-VEN,CZE,
-VEN,DNK,
-VEN,DJI,
-VEN,DMA,
-VEN,DOM,
-VEN,ECU,
-VEN,EGY,
-VEN,SLV,
-VEN,GNQ,
-VEN,ERI,
-VEN,EST,
-VEN,SWZ,
-VEN,ETH,
-VEN,FJI,
-VEN,FIN,
-VEN,FRA,
-VEN,GAB,
-VEN,GMB,
-VEN,GEO,
-VEN,DEU,
-VEN,GHA,
-VEN,GRC,
-VEN,GRD,
-VEN,GTM,
-VEN,GIN,
-VEN,GNB,
-VEN,GUY,
-VEN,HTI,
-VEN,HND,
-VEN,HKG,
-VEN,HUN,
-VEN,ISL,
-VEN,IND,
-VEN,IDN,
-VEN,IRN,
-VEN,IRQ,
-VEN,IRL,
-VEN,ISR,
-VEN,ITA,
-VEN,JAM,
-VEN,JPN,
-VEN,JOR,
-VEN,KAZ,
-VEN,KEN,
-VEN,KIR,
-VEN,XKX,
-VEN,KWT,
-VEN,KGZ,
-VEN,LAO,
-VEN,LVA,
-VEN,LBN,
-VEN,LSO,
-VEN,LBR,
-VEN,LBY,
-VEN,LIE,
-VEN,LTU,
-VEN,LUX,
-VEN,MAC,
-VEN,MDG,
-VEN,MWI,
-VEN,MYS,
-VEN,MDV,
-VEN,MLI,
-VEN,MLT,
-VEN,MHL,
-VEN,MRT,
-VEN,MUS,
-VEN,MEX,
-VEN,FSM,
-VEN,MDA,
-VEN,MCO,
-VEN,MNG,
-VEN,MNE,
-VEN,MAR,
-VEN,MOZ,
-VEN,MMR,
-VEN,NAM,
-VEN,NRU,
-VEN,NPL,
-VEN,NLD,
-VEN,NZL,
-VEN,NIC,
-VEN,NER,
-VEN,NGA,
-VEN,PRK,
-VEN,MKD,
-VEN,NOR,
-VEN,OMN,
-VEN,PAK,
-VEN,PLW,
-VEN,PSE,
-VEN,PAN,
-VEN,PNG,
-VEN,PRY,
-VEN,PER,
-VEN,PHL,
-VEN,POL,
-VEN,PRT,
-VEN,QAT,
-VEN,ROU,
-VEN,RUS,
-VEN,RWA,
-VEN,KNA,
-VEN,LCA,
-VEN,WSM,
-VEN,SMR,
-VEN,STP,
-VEN,SAU,
-VEN,SEN,
-VEN,SRB,
-VEN,SYC,
-VEN,SLE,
-VEN,SGP,
-VEN,SVK,
-VEN,SVN,
-VEN,SLB,
-VEN,SOM,
-VEN,ZAF,
-VEN,KOR,
-VEN,SSD,
-VEN,ESP,
-VEN,LKA,
-VEN,VCT,
-VEN,SDN,
-VEN,SUR,
-VEN,SWE,
-VEN,CHE,
-VEN,SYR,
-VEN,TWN,
-VEN,TJK,
-VEN,TZA,
-VEN,THA,
-VEN,TLS,
-VEN,TGO,
-VEN,TON,
-VEN,TTO,
-VEN,TUN,
-VEN,TKM,
-VEN,TUV,
-VEN,TUR,
-VEN,UGA,
-VEN,UKR,
-VEN,ARE,
-VEN,GBR,
-VEN,USA,
-VEN,URY,
-VEN,UZB,
-VEN,VUT,
-VEN,VAT,
+VAT,VEN,visa required
+VAT,VNM,e-visa
+VAT,YEM,visa required
+VAT,ZMB,90
+VAT,ZWE,visa on arrival
+VAT,AFG,visa required
+VEN,ALB,90
+VEN,DZA,visa required
+VEN,AND,90
+VEN,AGO,visa required
+VEN,ATG,180
+VEN,ARG,90
+VEN,ARM,e-visa
+VEN,AUS,e-visa
+VEN,AUT,90
+VEN,AZE,visa required
+VEN,BHS,90
+VEN,BHR,visa on arrival
+VEN,BGD,visa on arrival
+VEN,BRB,28
+VEN,BLR,90
+VEN,BEL,90
+VEN,BLZ,visa required
+VEN,BEN,e-visa
+VEN,BTN,e-visa
+VEN,BOL,90
+VEN,BIH,90
+VEN,BWA,90
+VEN,BRA,60
+VEN,BRN,visa required
+VEN,BGR,90
+VEN,BFA,e-visa
+VEN,BDI,visa on arrival
+VEN,KHM,visa on arrival
+VEN,CMR,e-visa
+VEN,CAN,visa required
+VEN,CPV,visa on arrival
+VEN,CAF,visa required
+VEN,TCD,e-visa
+VEN,CHL,visa required
+VEN,CHN,visa required
+VEN,COL,90
+VEN,COM,visa on arrival
+VEN,COG,visa required
+VEN,COD,e-visa
+VEN,CRI,visa required
+VEN,CIV,eta
+VEN,HRV,90
+VEN,CUB,e-visa
+VEN,CYP,90
+VEN,CZE,90
+VEN,DNK,90
+VEN,DJI,visa on arrival
+VEN,DMA,180
+VEN,DOM,visa required
+VEN,ECU,e-visa
+VEN,EGY,visa on arrival
+VEN,SLV,e-visa
+VEN,GNQ,e-visa
+VEN,ERI,visa required
+VEN,EST,90
+VEN,SWZ,visa required
+VEN,ETH,e-visa
+VEN,FJI,120
+VEN,FIN,90
+VEN,FRA,90
+VEN,GAB,e-visa
+VEN,GMB,visa required
+VEN,GEO,visa required
+VEN,DEU,90
+VEN,GHA,visa required
+VEN,GRC,90
+VEN,GRD,90
+VEN,GTM,visa required
+VEN,GIN,e-visa
+VEN,GNB,visa on arrival
+VEN,GUY,e-visa
+VEN,HTI,90
+VEN,HND,visa required
+VEN,HKG,90
+VEN,HUN,90
+VEN,ISL,90
+VEN,IND,e-visa
+VEN,IDN,visa on arrival
+VEN,IRN,15
+VEN,IRQ,e-visa
+VEN,IRL,visa required
+VEN,ISR,e-visa
+VEN,ITA,90
+VEN,JAM,30
+VEN,JPN,visa required
+VEN,JOR,visa on arrival
+VEN,KAZ,e-visa
+VEN,KEN,eta
+VEN,KIR,90
+VEN,XKX,90
+VEN,KWT,visa required
+VEN,KGZ,visa on arrival
+VEN,LAO,visa on arrival
+VEN,LVA,90
+VEN,LBN,visa on arrival
+VEN,LSO,visa required
+VEN,LBR,e-visa
+VEN,LBY,e-visa
+VEN,LIE,90
+VEN,LTU,90
+VEN,LUX,90
+VEN,MAC,visa on arrival
+VEN,MDG,visa on arrival
+VEN,MWI,visa on arrival
+VEN,MYS,30
+VEN,MDV,visa on arrival
+VEN,MLI,visa required
+VEN,MLT,90
+VEN,MHL,visa required
+VEN,MRT,e-visa
+VEN,MUS,visa on arrival
+VEN,MEX,visa required
+VEN,FSM,30
+VEN,MDA,90
+VEN,MCO,90
+VEN,MNG,e-visa
+VEN,MNE,90
+VEN,MAR,visa required
+VEN,MOZ,visa on arrival
+VEN,MMR,e-visa
+VEN,NAM,visa on arrival
+VEN,NRU,visa required
+VEN,NPL,visa on arrival
+VEN,NLD,90
+VEN,NZL,visa required
+VEN,NIC,visa required
+VEN,NER,visa required
+VEN,NGA,e-visa
+VEN,PRK,visa required
+VEN,MKD,90
+VEN,NOR,90
+VEN,OMN,visa on arrival
+VEN,PAK,e-visa
+VEN,PLW,visa on arrival
+VEN,PSE,visa free
+VEN,PAN,visa required
+VEN,PNG,e-visa
+VEN,PRY,90
+VEN,PER,visa required
+VEN,PHL,30
+VEN,POL,90
+VEN,PRT,90
+VEN,QAT,visa on arrival
+VEN,ROU,90
+VEN,RUS,90
+VEN,RWA,visa on arrival
+VEN,KNA,eta
+VEN,LCA,visa required
+VEN,WSM,visa on arrival
+VEN,SMR,90
+VEN,STP,e-visa
+VEN,SAU,e-visa
+VEN,SEN,visa required
+VEN,SRB,90
+VEN,SYC,90
+VEN,SLE,e-visa
+VEN,SGP,30
+VEN,SVK,90
+VEN,SVN,90
+VEN,SLB,visa required
+VEN,SOM,e-visa
+VEN,ZAF,90
+VEN,KOR,eta
+VEN,SSD,e-visa
+VEN,ESP,90
+VEN,LKA,visa on arrival
+VEN,VCT,90
+VEN,SDN,visa required
+VEN,SUR,e-visa
+VEN,SWE,90
+VEN,CHE,90
+VEN,SYR,e-visa
+VEN,TWN,visa required
+VEN,TJK,visa on arrival
+VEN,TZA,visa on arrival
+VEN,THA,visa on arrival
+VEN,TLS,visa on arrival
+VEN,TGO,e-visa
+VEN,TON,visa required
+VEN,TTO,visa required
+VEN,TUN,visa required
+VEN,TKM,visa required
+VEN,TUV,visa on arrival
+VEN,TUR,90
+VEN,UGA,e-visa
+VEN,UKR,visa required
+VEN,ARE,e-visa
+VEN,GBR,visa required
+VEN,USA,visa required
+VEN,URY,90
+VEN,UZB,e-visa
+VEN,VUT,e-visa
+VEN,VAT,90
 VEN,VEN,-1
-VEN,VNM,
-VEN,YEM,
-VEN,ZMB,
-VEN,ZWE,
-VEN,AFG,
-VNM,ALB,
-VNM,DZA,
-VNM,AND,
-VNM,AGO,
-VNM,ATG,
-VNM,ARG,
-VNM,ARM,
-VNM,AUS,
-VNM,AUT,
-VNM,AZE,
-VNM,BHS,
-VNM,BHR,
-VNM,BGD,
-VNM,BRB,
-VNM,BLR,
-VNM,BEL,
-VNM,BLZ,
-VNM,BEN,
-VNM,BTN,
-VNM,BOL,
-VNM,BIH,
-VNM,BWA,
-VNM,BRA,
-VNM,BRN,
-VNM,BGR,
-VNM,BFA,
-VNM,BDI,
-VNM,KHM,
-VNM,CMR,
-VNM,CAN,
-VNM,CPV,
-VNM,CAF,
-VNM,TCD,
-VNM,CHL,
-VNM,CHN,
-VNM,COL,
-VNM,COM,
-VNM,COG,
-VNM,COD,
-VNM,CRI,
-VNM,CIV,
-VNM,HRV,
-VNM,CUB,
-VNM,CYP,
-VNM,CZE,
-VNM,DNK,
-VNM,DJI,
-VNM,DMA,
-VNM,DOM,
-VNM,ECU,
-VNM,EGY,
-VNM,SLV,
-VNM,GNQ,
-VNM,ERI,
-VNM,EST,
-VNM,SWZ,
-VNM,ETH,
-VNM,FJI,
-VNM,FIN,
-VNM,FRA,
-VNM,GAB,
-VNM,GMB,
-VNM,GEO,
-VNM,DEU,
-VNM,GHA,
-VNM,GRC,
-VNM,GRD,
-VNM,GTM,
-VNM,GIN,
-VNM,GNB,
-VNM,GUY,
-VNM,HTI,
-VNM,HND,
-VNM,HKG,
-VNM,HUN,
-VNM,ISL,
-VNM,IND,
-VNM,IDN,
-VNM,IRN,
-VNM,IRQ,
-VNM,IRL,
-VNM,ISR,
-VNM,ITA,
-VNM,JAM,
-VNM,JPN,
-VNM,JOR,
-VNM,KAZ,
-VNM,KEN,
-VNM,KIR,
-VNM,XKX,
-VNM,KWT,
-VNM,KGZ,
-VNM,LAO,
-VNM,LVA,
-VNM,LBN,
-VNM,LSO,
-VNM,LBR,
-VNM,LBY,
-VNM,LIE,
-VNM,LTU,
-VNM,LUX,
-VNM,MAC,
-VNM,MDG,
-VNM,MWI,
-VNM,MYS,
-VNM,MDV,
-VNM,MLI,
-VNM,MLT,
-VNM,MHL,
-VNM,MRT,
-VNM,MUS,
-VNM,MEX,
-VNM,FSM,
-VNM,MDA,
-VNM,MCO,
-VNM,MNG,
-VNM,MNE,
-VNM,MAR,
-VNM,MOZ,
-VNM,MMR,
-VNM,NAM,
-VNM,NRU,
-VNM,NPL,
-VNM,NLD,
-VNM,NZL,
-VNM,NIC,
-VNM,NER,
-VNM,NGA,
-VNM,PRK,
-VNM,MKD,
-VNM,NOR,
-VNM,OMN,
-VNM,PAK,
-VNM,PLW,
-VNM,PSE,
-VNM,PAN,
-VNM,PNG,
-VNM,PRY,
-VNM,PER,
-VNM,PHL,
-VNM,POL,
-VNM,PRT,
-VNM,QAT,
-VNM,ROU,
-VNM,RUS,
-VNM,RWA,
-VNM,KNA,
-VNM,LCA,
-VNM,WSM,
-VNM,SMR,
-VNM,STP,
-VNM,SAU,
-VNM,SEN,
-VNM,SRB,
-VNM,SYC,
-VNM,SLE,
-VNM,SGP,
-VNM,SVK,
-VNM,SVN,
-VNM,SLB,
-VNM,SOM,
-VNM,ZAF,
-VNM,KOR,
-VNM,SSD,
-VNM,ESP,
-VNM,LKA,
-VNM,VCT,
-VNM,SDN,
-VNM,SUR,
-VNM,SWE,
-VNM,CHE,
-VNM,SYR,
-VNM,TWN,
-VNM,TJK,
-VNM,TZA,
-VNM,THA,
-VNM,TLS,
-VNM,TGO,
-VNM,TON,
-VNM,TTO,
-VNM,TUN,
-VNM,TKM,
-VNM,TUV,
-VNM,TUR,
-VNM,UGA,
-VNM,UKR,
-VNM,ARE,
-VNM,GBR,
-VNM,USA,
-VNM,URY,
-VNM,UZB,
-VNM,VUT,
-VNM,VAT,
-VNM,VEN,
+VEN,VNM,e-visa
+VEN,YEM,visa required
+VEN,ZMB,visa on arrival
+VEN,ZWE,visa on arrival
+VEN,AFG,visa required
+VNM,ALB,e-visa
+VNM,DZA,visa required
+VNM,AND,visa required
+VNM,AGO,visa required
+VNM,ATG,e-visa
+VNM,ARG,visa required
+VNM,ARM,e-visa
+VNM,AUS,e-visa
+VNM,AUT,visa required
+VNM,AZE,e-visa
+VNM,BHS,e-visa
+VNM,BHR,e-visa
+VNM,BGD,visa required
+VNM,BRB,90
+VNM,BLR,30
+VNM,BEL,visa required
+VNM,BLZ,visa required
+VNM,BEN,e-visa
+VNM,BTN,e-visa
+VNM,BOL,e-visa
+VNM,BIH,visa required
+VNM,BWA,e-visa
+VNM,BRA,visa required
+VNM,BRN,14
+VNM,BGR,visa required
+VNM,BFA,e-visa
+VNM,BDI,visa on arrival
+VNM,KHM,30
+VNM,CMR,e-visa
+VNM,CAN,visa required
+VNM,CPV,visa on arrival
+VNM,CAF,visa required
+VNM,TCD,e-visa
+VNM,CHL,90
+VNM,CHN,visa required
+VNM,COL,e-visa
+VNM,COM,visa on arrival
+VNM,COG,visa required
+VNM,COD,e-visa
+VNM,CRI,visa required
+VNM,CIV,eta
+VNM,HRV,visa required
+VNM,CUB,e-visa
+VNM,CYP,visa required
+VNM,CZE,visa required
+VNM,DNK,visa required
+VNM,DJI,visa on arrival
+VNM,DMA,21
+VNM,DOM,visa required
+VNM,ECU,e-visa
+VNM,EGY,visa required
+VNM,SLV,e-visa
+VNM,GNQ,e-visa
+VNM,ERI,visa required
+VNM,EST,visa required
+VNM,SWZ,visa required
+VNM,ETH,e-visa
+VNM,FJI,visa required
+VNM,FIN,visa required
+VNM,FRA,visa required
+VNM,GAB,e-visa
+VNM,GMB,visa required
+VNM,GEO,e-visa
+VNM,DEU,visa required
+VNM,GHA,visa required
+VNM,GRC,visa required
+VNM,GRD,visa required
+VNM,GTM,visa required
+VNM,GIN,e-visa
+VNM,GNB,visa on arrival
+VNM,GUY,e-visa
+VNM,HTI,90
+VNM,HND,visa required
+VNM,HKG,e-visa
+VNM,HUN,visa required
+VNM,ISL,visa required
+VNM,IND,e-visa
+VNM,IDN,30
+VNM,IRN,15
+VNM,IRQ,e-visa
+VNM,IRL,visa required
+VNM,ISR,e-visa
+VNM,ITA,visa required
+VNM,JAM,visa required
+VNM,JPN,e-visa
+VNM,JOR,visa on arrival
+VNM,KAZ,30
+VNM,KEN,eta
+VNM,KIR,visa required
+VNM,XKX,visa required
+VNM,KWT,visa required
+VNM,KGZ,60
+VNM,LAO,30
+VNM,LVA,visa required
+VNM,LBN,visa required
+VNM,LSO,visa required
+VNM,LBR,e-visa
+VNM,LBY,e-visa
+VNM,LIE,visa required
+VNM,LTU,visa required
+VNM,LUX,visa required
+VNM,MAC,visa required
+VNM,MDG,visa on arrival
+VNM,MWI,visa on arrival
+VNM,MYS,30
+VNM,MDV,visa on arrival
+VNM,MLI,visa required
+VNM,MLT,visa required
+VNM,MHL,visa on arrival
+VNM,MRT,e-visa
+VNM,MUS,visa on arrival
+VNM,MEX,visa required
+VNM,FSM,30
+VNM,MDA,e-visa
+VNM,MCO,visa required
+VNM,MNG,30
+VNM,MNE,visa required
+VNM,MAR,visa required
+VNM,MOZ,visa on arrival
+VNM,MMR,14
+VNM,NAM,visa on arrival
+VNM,NRU,visa required
+VNM,NPL,visa on arrival
+VNM,NLD,visa required
+VNM,NZL,visa required
+VNM,NIC,visa required
+VNM,NER,visa required
+VNM,NGA,e-visa
+VNM,PRK,visa required
+VNM,MKD,visa required
+VNM,NOR,visa required
+VNM,OMN,e-visa
+VNM,PAK,e-visa
+VNM,PLW,visa on arrival
+VNM,PSE,visa free
+VNM,PAN,90
+VNM,PNG,eta
+VNM,PRY,visa required
+VNM,PER,visa required
+VNM,PHL,30
+VNM,POL,visa required
+VNM,PRT,visa required
+VNM,QAT,e-visa
+VNM,ROU,visa required
+VNM,RUS,e-visa
+VNM,RWA,30
+VNM,KNA,e-visa
+VNM,LCA,visa on arrival
+VNM,WSM,visa on arrival
+VNM,SMR,visa required
+VNM,STP,e-visa
+VNM,SAU,e-visa
+VNM,SEN,visa required
+VNM,SRB,visa required
+VNM,SYC,90
+VNM,SLE,visa on arrival
+VNM,SGP,30
+VNM,SVK,visa required
+VNM,SVN,visa required
+VNM,SLB,visa required
+VNM,SOM,e-visa
+VNM,ZAF,visa required
+VNM,KOR,e-visa
+VNM,SSD,e-visa
+VNM,ESP,visa required
+VNM,LKA,visa on arrival
+VNM,VCT,90
+VNM,SDN,visa required
+VNM,SUR,eta
+VNM,SWE,visa required
+VNM,CHE,visa required
+VNM,SYR,e-visa
+VNM,TWN,eta
+VNM,TJK,visa on arrival
+VNM,TZA,visa on arrival
+VNM,THA,60
+VNM,TLS,visa on arrival
+VNM,TGO,e-visa
+VNM,TON,visa required
+VNM,TTO,visa required
+VNM,TUN,visa required
+VNM,TKM,visa required
+VNM,TUV,visa on arrival
+VNM,TUR,visa required
+VNM,UGA,e-visa
+VNM,UKR,visa required
+VNM,ARE,e-visa
+VNM,GBR,visa required
+VNM,USA,visa required
+VNM,URY,visa required
+VNM,UZB,e-visa
+VNM,VUT,e-visa
+VNM,VAT,visa required
+VNM,VEN,visa required
 VNM,VNM,-1
-VNM,YEM,
-VNM,ZMB,
-VNM,ZWE,
-VNM,AFG,
-YEM,ALB,
-YEM,DZA,
-YEM,AND,
-YEM,AGO,
-YEM,ATG,
-YEM,ARG,
-YEM,ARM,
-YEM,AUS,
-YEM,AUT,
-YEM,AZE,
-YEM,BHS,
-YEM,BHR,
-YEM,BGD,
-YEM,BRB,
-YEM,BLR,
-YEM,BEL,
-YEM,BLZ,
-YEM,BEN,
-YEM,BTN,
-YEM,BOL,
-YEM,BIH,
-YEM,BWA,
-YEM,BRA,
-YEM,BRN,
-YEM,BGR,
-YEM,BFA,
-YEM,BDI,
-YEM,KHM,
-YEM,CMR,
-YEM,CAN,
-YEM,CPV,
-YEM,CAF,
-YEM,TCD,
-YEM,CHL,
-YEM,CHN,
-YEM,COL,
-YEM,COM,
-YEM,COG,
-YEM,COD,
-YEM,CRI,
-YEM,CIV,
-YEM,HRV,
-YEM,CUB,
-YEM,CYP,
-YEM,CZE,
-YEM,DNK,
-YEM,DJI,
-YEM,DMA,
-YEM,DOM,
-YEM,ECU,
-YEM,EGY,
-YEM,SLV,
-YEM,GNQ,
-YEM,ERI,
-YEM,EST,
-YEM,SWZ,
-YEM,ETH,
-YEM,FJI,
-YEM,FIN,
-YEM,FRA,
-YEM,GAB,
-YEM,GMB,
-YEM,GEO,
-YEM,DEU,
-YEM,GHA,
-YEM,GRC,
-YEM,GRD,
-YEM,GTM,
-YEM,GIN,
-YEM,GNB,
-YEM,GUY,
-YEM,HTI,
-YEM,HND,
-YEM,HKG,
-YEM,HUN,
-YEM,ISL,
-YEM,IND,
-YEM,IDN,
-YEM,IRN,
-YEM,IRQ,
-YEM,IRL,
-YEM,ISR,
-YEM,ITA,
-YEM,JAM,
-YEM,JPN,
-YEM,JOR,
-YEM,KAZ,
-YEM,KEN,
-YEM,KIR,
-YEM,XKX,
-YEM,KWT,
-YEM,KGZ,
-YEM,LAO,
-YEM,LVA,
-YEM,LBN,
-YEM,LSO,
-YEM,LBR,
-YEM,LBY,
-YEM,LIE,
-YEM,LTU,
-YEM,LUX,
-YEM,MAC,
-YEM,MDG,
-YEM,MWI,
-YEM,MYS,
-YEM,MDV,
-YEM,MLI,
-YEM,MLT,
-YEM,MHL,
-YEM,MRT,
-YEM,MUS,
-YEM,MEX,
-YEM,FSM,
-YEM,MDA,
-YEM,MCO,
-YEM,MNG,
-YEM,MNE,
-YEM,MAR,
-YEM,MOZ,
-YEM,MMR,
-YEM,NAM,
-YEM,NRU,
-YEM,NPL,
-YEM,NLD,
-YEM,NZL,
-YEM,NIC,
-YEM,NER,
-YEM,NGA,
-YEM,PRK,
-YEM,MKD,
-YEM,NOR,
-YEM,OMN,
-YEM,PAK,
-YEM,PLW,
-YEM,PSE,
-YEM,PAN,
-YEM,PNG,
-YEM,PRY,
-YEM,PER,
-YEM,PHL,
-YEM,POL,
-YEM,PRT,
-YEM,QAT,
-YEM,ROU,
-YEM,RUS,
-YEM,RWA,
-YEM,KNA,
-YEM,LCA,
-YEM,WSM,
-YEM,SMR,
-YEM,STP,
-YEM,SAU,
-YEM,SEN,
-YEM,SRB,
-YEM,SYC,
-YEM,SLE,
-YEM,SGP,
-YEM,SVK,
-YEM,SVN,
-YEM,SLB,
-YEM,SOM,
-YEM,ZAF,
-YEM,KOR,
-YEM,SSD,
-YEM,ESP,
-YEM,LKA,
-YEM,VCT,
-YEM,SDN,
-YEM,SUR,
-YEM,SWE,
-YEM,CHE,
-YEM,SYR,
-YEM,TWN,
-YEM,TJK,
-YEM,TZA,
-YEM,THA,
-YEM,TLS,
-YEM,TGO,
-YEM,TON,
-YEM,TTO,
-YEM,TUN,
-YEM,TKM,
-YEM,TUV,
-YEM,TUR,
-YEM,UGA,
-YEM,UKR,
-YEM,ARE,
-YEM,GBR,
-YEM,USA,
-YEM,URY,
-YEM,UZB,
-YEM,VUT,
-YEM,VAT,
-YEM,VEN,
-YEM,VNM,
+VNM,YEM,visa required
+VNM,ZMB,e-visa
+VNM,ZWE,e-visa
+VNM,AFG,visa required
+YEM,ALB,e-visa
+YEM,DZA,visa required
+YEM,AND,visa required
+YEM,AGO,visa required
+YEM,ATG,e-visa
+YEM,ARG,visa required
+YEM,ARM,visa required
+YEM,AUS,e-visa
+YEM,AUT,visa required
+YEM,AZE,visa required
+YEM,BHS,e-visa
+YEM,BHR,e-visa
+YEM,BGD,visa required
+YEM,BRB,visa required
+YEM,BLR,visa required
+YEM,BEL,visa required
+YEM,BLZ,visa required
+YEM,BEN,e-visa
+YEM,BTN,e-visa
+YEM,BOL,e-visa
+YEM,BIH,visa required
+YEM,BWA,e-visa
+YEM,BRA,visa required
+YEM,BRN,visa required
+YEM,BGR,visa required
+YEM,BFA,e-visa
+YEM,BDI,visa on arrival
+YEM,KHM,visa on arrival
+YEM,CMR,e-visa
+YEM,CAN,visa required
+YEM,CPV,visa on arrival
+YEM,CAF,visa required
+YEM,TCD,e-visa
+YEM,CHL,visa required
+YEM,CHN,visa required
+YEM,COL,e-visa
+YEM,COM,visa on arrival
+YEM,COG,visa required
+YEM,COD,e-visa
+YEM,CRI,visa required
+YEM,CIV,eta
+YEM,HRV,visa required
+YEM,CUB,visa required
+YEM,CYP,visa required
+YEM,CZE,visa required
+YEM,DNK,visa required
+YEM,DJI,visa on arrival
+YEM,DMA,21
+YEM,DOM,visa required
+YEM,ECU,e-visa
+YEM,EGY,visa required
+YEM,SLV,e-visa
+YEM,GNQ,e-visa
+YEM,ERI,visa required
+YEM,EST,visa required
+YEM,SWZ,visa required
+YEM,ETH,e-visa
+YEM,FJI,visa required
+YEM,FIN,visa required
+YEM,FRA,visa required
+YEM,GAB,e-visa
+YEM,GMB,visa required
+YEM,GEO,visa required
+YEM,DEU,visa required
+YEM,GHA,visa required
+YEM,GRC,visa required
+YEM,GRD,visa required
+YEM,GTM,visa required
+YEM,GIN,e-visa
+YEM,GNB,visa on arrival
+YEM,GUY,e-visa
+YEM,HTI,90
+YEM,HND,visa required
+YEM,HKG,e-visa
+YEM,HUN,visa required
+YEM,ISL,visa required
+YEM,IND,visa required
+YEM,IDN,e-visa
+YEM,IRN,visa on arrival
+YEM,IRQ,e-visa
+YEM,IRL,visa required
+YEM,ISR,e-visa
+YEM,ITA,visa required
+YEM,JAM,visa required
+YEM,JPN,visa required
+YEM,JOR,visa required
+YEM,KAZ,e-visa
+YEM,KEN,eta
+YEM,KIR,visa required
+YEM,XKX,visa required
+YEM,KWT,visa required
+YEM,KGZ,e-visa
+YEM,LAO,visa on arrival
+YEM,LVA,visa required
+YEM,LBN,visa on arrival
+YEM,LSO,visa required
+YEM,LBR,e-visa
+YEM,LBY,no admission
+YEM,LIE,visa required
+YEM,LTU,visa required
+YEM,LUX,visa required
+YEM,MAC,visa on arrival
+YEM,MDG,visa on arrival
+YEM,MWI,e-visa
+YEM,MYS,90
+YEM,MDV,visa on arrival
+YEM,MLI,visa required
+YEM,MLT,visa required
+YEM,MHL,visa required
+YEM,MRT,e-visa
+YEM,MUS,visa required
+YEM,MEX,visa required
+YEM,FSM,30
+YEM,MDA,e-visa
+YEM,MCO,visa required
+YEM,MNG,visa required
+YEM,MNE,visa required
+YEM,MAR,visa required
+YEM,MOZ,visa on arrival
+YEM,MMR,visa required
+YEM,NAM,e-visa
+YEM,NRU,visa required
+YEM,NPL,visa on arrival
+YEM,NLD,visa required
+YEM,NZL,visa required
+YEM,NIC,visa required
+YEM,NER,visa required
+YEM,NGA,e-visa
+YEM,PRK,visa required
+YEM,MKD,visa required
+YEM,NOR,visa required
+YEM,OMN,e-visa
+YEM,PAK,e-visa
+YEM,PLW,visa on arrival
+YEM,PSE,visa free
+YEM,PAN,visa required
+YEM,PNG,e-visa
+YEM,PRY,visa required
+YEM,PER,visa required
+YEM,PHL,visa required
+YEM,POL,visa required
+YEM,PRT,visa required
+YEM,QAT,e-visa
+YEM,ROU,visa required
+YEM,RUS,visa required
+YEM,RWA,visa on arrival
+YEM,KNA,e-visa
+YEM,LCA,visa required
+YEM,WSM,visa on arrival
+YEM,SMR,visa required
+YEM,STP,e-visa
+YEM,SAU,visa required
+YEM,SEN,visa required
+YEM,SRB,visa required
+YEM,SYC,90
+YEM,SLE,e-visa
+YEM,SGP,e-visa
+YEM,SVK,visa required
+YEM,SVN,visa required
+YEM,SLB,visa required
+YEM,SOM,e-visa
+YEM,ZAF,visa required
+YEM,KOR,e-visa
+YEM,SSD,e-visa
+YEM,ESP,visa required
+YEM,LKA,visa on arrival
+YEM,VCT,90
+YEM,SDN,30
+YEM,SUR,eta
+YEM,SWE,visa required
+YEM,CHE,visa required
+YEM,SYR,visa free
+YEM,TWN,visa required
+YEM,TJK,visa on arrival
+YEM,TZA,e-visa
+YEM,THA,e-visa
+YEM,TLS,visa on arrival
+YEM,TGO,e-visa
+YEM,TON,visa required
+YEM,TTO,visa required
+YEM,TUN,visa required
+YEM,TKM,visa required
+YEM,TUV,visa on arrival
+YEM,TUR,visa required
+YEM,UGA,e-visa
+YEM,UKR,visa required
+YEM,ARE,e-visa
+YEM,GBR,visa required
+YEM,USA,no admission
+YEM,URY,visa required
+YEM,UZB,visa required
+YEM,VUT,e-visa
+YEM,VAT,visa required
+YEM,VEN,visa required
+YEM,VNM,e-visa
 YEM,YEM,-1
-YEM,ZMB,
-YEM,ZWE,
-YEM,AFG,
-ZMB,ALB,
-ZMB,DZA,
-ZMB,AND,
-ZMB,AGO,
-ZMB,ATG,
-ZMB,ARG,
-ZMB,ARM,
-ZMB,AUS,
-ZMB,AUT,
-ZMB,AZE,
-ZMB,BHS,
-ZMB,BHR,
-ZMB,BGD,
-ZMB,BRB,
-ZMB,BLR,
-ZMB,BEL,
-ZMB,BLZ,
-ZMB,BEN,
-ZMB,BTN,
-ZMB,BOL,
-ZMB,BIH,
-ZMB,BWA,
-ZMB,BRA,
-ZMB,BRN,
-ZMB,BGR,
-ZMB,BFA,
-ZMB,BDI,
-ZMB,KHM,
-ZMB,CMR,
-ZMB,CAN,
-ZMB,CPV,
-ZMB,CAF,
-ZMB,TCD,
-ZMB,CHL,
-ZMB,CHN,
-ZMB,COL,
-ZMB,COM,
-ZMB,COG,
-ZMB,COD,
-ZMB,CRI,
-ZMB,CIV,
-ZMB,HRV,
-ZMB,CUB,
-ZMB,CYP,
-ZMB,CZE,
-ZMB,DNK,
-ZMB,DJI,
-ZMB,DMA,
-ZMB,DOM,
-ZMB,ECU,
-ZMB,EGY,
-ZMB,SLV,
-ZMB,GNQ,
-ZMB,ERI,
-ZMB,EST,
-ZMB,SWZ,
-ZMB,ETH,
-ZMB,FJI,
-ZMB,FIN,
-ZMB,FRA,
-ZMB,GAB,
-ZMB,GMB,
-ZMB,GEO,
-ZMB,DEU,
-ZMB,GHA,
-ZMB,GRC,
-ZMB,GRD,
-ZMB,GTM,
-ZMB,GIN,
-ZMB,GNB,
-ZMB,GUY,
-ZMB,HTI,
-ZMB,HND,
-ZMB,HKG,
-ZMB,HUN,
-ZMB,ISL,
-ZMB,IND,
-ZMB,IDN,
-ZMB,IRN,
-ZMB,IRQ,
-ZMB,IRL,
-ZMB,ISR,
-ZMB,ITA,
-ZMB,JAM,
-ZMB,JPN,
-ZMB,JOR,
-ZMB,KAZ,
-ZMB,KEN,
-ZMB,KIR,
-ZMB,XKX,
-ZMB,KWT,
-ZMB,KGZ,
-ZMB,LAO,
-ZMB,LVA,
-ZMB,LBN,
-ZMB,LSO,
-ZMB,LBR,
-ZMB,LBY,
-ZMB,LIE,
-ZMB,LTU,
-ZMB,LUX,
-ZMB,MAC,
-ZMB,MDG,
-ZMB,MWI,
-ZMB,MYS,
-ZMB,MDV,
-ZMB,MLI,
-ZMB,MLT,
-ZMB,MHL,
-ZMB,MRT,
-ZMB,MUS,
-ZMB,MEX,
-ZMB,FSM,
-ZMB,MDA,
-ZMB,MCO,
-ZMB,MNG,
-ZMB,MNE,
-ZMB,MAR,
-ZMB,MOZ,
-ZMB,MMR,
-ZMB,NAM,
-ZMB,NRU,
-ZMB,NPL,
-ZMB,NLD,
-ZMB,NZL,
-ZMB,NIC,
-ZMB,NER,
-ZMB,NGA,
-ZMB,PRK,
-ZMB,MKD,
-ZMB,NOR,
-ZMB,OMN,
-ZMB,PAK,
-ZMB,PLW,
-ZMB,PSE,
-ZMB,PAN,
-ZMB,PNG,
-ZMB,PRY,
-ZMB,PER,
-ZMB,PHL,
-ZMB,POL,
-ZMB,PRT,
-ZMB,QAT,
-ZMB,ROU,
-ZMB,RUS,
-ZMB,RWA,
-ZMB,KNA,
-ZMB,LCA,
-ZMB,WSM,
-ZMB,SMR,
-ZMB,STP,
-ZMB,SAU,
-ZMB,SEN,
-ZMB,SRB,
-ZMB,SYC,
-ZMB,SLE,
-ZMB,SGP,
-ZMB,SVK,
-ZMB,SVN,
-ZMB,SLB,
-ZMB,SOM,
-ZMB,ZAF,
-ZMB,KOR,
-ZMB,SSD,
-ZMB,ESP,
-ZMB,LKA,
-ZMB,VCT,
-ZMB,SDN,
-ZMB,SUR,
-ZMB,SWE,
-ZMB,CHE,
-ZMB,SYR,
-ZMB,TWN,
-ZMB,TJK,
-ZMB,TZA,
-ZMB,THA,
-ZMB,TLS,
-ZMB,TGO,
-ZMB,TON,
-ZMB,TTO,
-ZMB,TUN,
-ZMB,TKM,
-ZMB,TUV,
-ZMB,TUR,
-ZMB,UGA,
-ZMB,UKR,
-ZMB,ARE,
-ZMB,GBR,
-ZMB,USA,
-ZMB,URY,
-ZMB,UZB,
-ZMB,VUT,
-ZMB,VAT,
-ZMB,VEN,
-ZMB,VNM,
-ZMB,YEM,
+YEM,ZMB,e-visa
+YEM,ZWE,e-visa
+YEM,AFG,visa required
+ZMB,ALB,e-visa
+ZMB,DZA,visa required
+ZMB,AND,visa required
+ZMB,AGO,30
+ZMB,ATG,180
+ZMB,ARG,visa required
+ZMB,ARM,visa required
+ZMB,AUS,e-visa
+ZMB,AUT,visa required
+ZMB,AZE,visa required
+ZMB,BHS,90
+ZMB,BHR,e-visa
+ZMB,BGD,90
+ZMB,BRB,180
+ZMB,BLR,visa required
+ZMB,BEL,visa required
+ZMB,BLZ,visa free
+ZMB,BEN,90
+ZMB,BTN,e-visa
+ZMB,BOL,e-visa
+ZMB,BIH,visa required
+ZMB,BWA,90
+ZMB,BRA,visa required
+ZMB,BRN,visa required
+ZMB,BGR,visa required
+ZMB,BFA,e-visa
+ZMB,BDI,visa on arrival
+ZMB,KHM,visa on arrival
+ZMB,CMR,e-visa
+ZMB,CAN,visa required
+ZMB,CPV,visa on arrival
+ZMB,CAF,visa required
+ZMB,TCD,e-visa
+ZMB,CHL,visa required
+ZMB,CHN,visa required
+ZMB,COL,e-visa
+ZMB,COM,visa on arrival
+ZMB,COG,visa required
+ZMB,COD,e-visa
+ZMB,CRI,visa required
+ZMB,CIV,eta
+ZMB,HRV,visa required
+ZMB,CUB,e-visa
+ZMB,CYP,visa required
+ZMB,CZE,visa required
+ZMB,DNK,visa required
+ZMB,DJI,visa on arrival
+ZMB,DMA,180
+ZMB,DOM,visa required
+ZMB,ECU,90
+ZMB,EGY,visa required
+ZMB,SLV,e-visa
+ZMB,GNQ,e-visa
+ZMB,ERI,visa required
+ZMB,EST,visa required
+ZMB,SWZ,30
+ZMB,ETH,visa on arrival
+ZMB,FJI,120
+ZMB,FIN,visa required
+ZMB,FRA,visa required
+ZMB,GAB,e-visa
+ZMB,GMB,90
+ZMB,GEO,e-visa
+ZMB,DEU,visa required
+ZMB,GHA,visa on arrival
+ZMB,GRC,visa required
+ZMB,GRD,90
+ZMB,GTM,visa required
+ZMB,GIN,e-visa
+ZMB,GNB,visa on arrival
+ZMB,GUY,e-visa
+ZMB,HTI,90
+ZMB,HND,visa required
+ZMB,HKG,90
+ZMB,HUN,visa required
+ZMB,ISL,visa required
+ZMB,IND,e-visa
+ZMB,IDN,e-visa
+ZMB,IRN,visa on arrival
+ZMB,IRQ,e-visa
+ZMB,IRL,visa required
+ZMB,ISR,e-visa
+ZMB,ITA,visa required
+ZMB,JAM,visa free
+ZMB,JPN,visa required
+ZMB,JOR,visa required
+ZMB,KAZ,e-visa
+ZMB,KEN,90
+ZMB,KIR,90
+ZMB,XKX,visa required
+ZMB,KWT,visa required
+ZMB,KGZ,e-visa
+ZMB,LAO,visa required
+ZMB,LVA,visa required
+ZMB,LBN,visa required
+ZMB,LSO,90
+ZMB,LBR,e-visa
+ZMB,LBY,e-visa
+ZMB,LIE,visa required
+ZMB,LTU,visa required
+ZMB,LUX,visa required
+ZMB,MAC,visa on arrival
+ZMB,MDG,visa on arrival
+ZMB,MWI,90
+ZMB,MYS,30
+ZMB,MDV,visa on arrival
+ZMB,MLI,visa required
+ZMB,MLT,visa required
+ZMB,MHL,visa required
+ZMB,MRT,e-visa
+ZMB,MUS,90
+ZMB,MEX,visa required
+ZMB,FSM,30
+ZMB,MDA,visa required
+ZMB,MCO,visa required
+ZMB,MNG,e-visa
+ZMB,MNE,visa required
+ZMB,MAR,visa required
+ZMB,MOZ,visa free
+ZMB,MMR,visa required
+ZMB,NAM,90
+ZMB,NRU,visa required
+ZMB,NPL,visa on arrival
+ZMB,NLD,visa required
+ZMB,NZL,visa required
+ZMB,NIC,visa on arrival
+ZMB,NER,visa required
+ZMB,NGA,e-visa
+ZMB,PRK,visa required
+ZMB,MKD,visa required
+ZMB,NOR,visa required
+ZMB,OMN,e-visa
+ZMB,PAK,e-visa
+ZMB,PLW,visa on arrival
+ZMB,PSE,visa required
+ZMB,PAN,visa required
+ZMB,PNG,eta
+ZMB,PRY,visa required
+ZMB,PER,visa required
+ZMB,PHL,30
+ZMB,POL,visa required
+ZMB,PRT,visa required
+ZMB,QAT,e-visa
+ZMB,ROU,visa required
+ZMB,RUS,visa required
+ZMB,RWA,30
+ZMB,KNA,eta
+ZMB,LCA,42
+ZMB,WSM,visa on arrival
+ZMB,SMR,visa required
+ZMB,STP,e-visa
+ZMB,SAU,e-visa
+ZMB,SEN,visa on arrival
+ZMB,SRB,visa required
+ZMB,SYC,90
+ZMB,SLE,visa on arrival
+ZMB,SGP,30
+ZMB,SVK,visa required
+ZMB,SVN,visa required
+ZMB,SLB,visa required
+ZMB,SOM,e-visa
+ZMB,ZAF,90
+ZMB,KOR,e-visa
+ZMB,SSD,e-visa
+ZMB,ESP,visa required
+ZMB,LKA,visa on arrival
+ZMB,VCT,90
+ZMB,SDN,visa required
+ZMB,SUR,e-visa
+ZMB,SWE,visa required
+ZMB,CHE,visa required
+ZMB,SYR,e-visa
+ZMB,TWN,visa required
+ZMB,TJK,visa required
+ZMB,TZA,90
+ZMB,THA,e-visa
+ZMB,TLS,visa on arrival
+ZMB,TGO,e-visa
+ZMB,TON,visa required
+ZMB,TTO,visa free
+ZMB,TUN,visa required
+ZMB,TKM,visa required
+ZMB,TUV,visa on arrival
+ZMB,TUR,visa required
+ZMB,UGA,90
+ZMB,UKR,visa required
+ZMB,ARE,e-visa
+ZMB,GBR,visa required
+ZMB,USA,visa required
+ZMB,URY,visa required
+ZMB,UZB,visa required
+ZMB,VUT,120
+ZMB,VAT,visa required
+ZMB,VEN,visa required
+ZMB,VNM,e-visa
+ZMB,YEM,visa required
 ZMB,ZMB,-1
-ZMB,ZWE,
-ZMB,AFG,
-ZWE,ALB,
-ZWE,DZA,
-ZWE,AND,
-ZWE,AGO,
-ZWE,ATG,
-ZWE,ARG,
-ZWE,ARM,
-ZWE,AUS,
-ZWE,AUT,
-ZWE,AZE,
-ZWE,BHS,
-ZWE,BHR,
-ZWE,BGD,
-ZWE,BRB,
-ZWE,BLR,
-ZWE,BEL,
-ZWE,BLZ,
-ZWE,BEN,
-ZWE,BTN,
-ZWE,BOL,
-ZWE,BIH,
-ZWE,BWA,
-ZWE,BRA,
-ZWE,BRN,
-ZWE,BGR,
-ZWE,BFA,
-ZWE,BDI,
-ZWE,KHM,
-ZWE,CMR,
-ZWE,CAN,
-ZWE,CPV,
-ZWE,CAF,
-ZWE,TCD,
-ZWE,CHL,
-ZWE,CHN,
-ZWE,COL,
-ZWE,COM,
-ZWE,COG,
-ZWE,COD,
-ZWE,CRI,
-ZWE,CIV,
-ZWE,HRV,
-ZWE,CUB,
-ZWE,CYP,
-ZWE,CZE,
-ZWE,DNK,
-ZWE,DJI,
-ZWE,DMA,
-ZWE,DOM,
-ZWE,ECU,
-ZWE,EGY,
-ZWE,SLV,
-ZWE,GNQ,
-ZWE,ERI,
-ZWE,EST,
-ZWE,SWZ,
-ZWE,ETH,
-ZWE,FJI,
-ZWE,FIN,
-ZWE,FRA,
-ZWE,GAB,
-ZWE,GMB,
-ZWE,GEO,
-ZWE,DEU,
-ZWE,GHA,
-ZWE,GRC,
-ZWE,GRD,
-ZWE,GTM,
-ZWE,GIN,
-ZWE,GNB,
-ZWE,GUY,
-ZWE,HTI,
-ZWE,HND,
-ZWE,HKG,
-ZWE,HUN,
-ZWE,ISL,
-ZWE,IND,
-ZWE,IDN,
-ZWE,IRN,
-ZWE,IRQ,
-ZWE,IRL,
-ZWE,ISR,
-ZWE,ITA,
-ZWE,JAM,
-ZWE,JPN,
-ZWE,JOR,
-ZWE,KAZ,
-ZWE,KEN,
-ZWE,KIR,
-ZWE,XKX,
-ZWE,KWT,
-ZWE,KGZ,
-ZWE,LAO,
-ZWE,LVA,
-ZWE,LBN,
-ZWE,LSO,
-ZWE,LBR,
-ZWE,LBY,
-ZWE,LIE,
-ZWE,LTU,
-ZWE,LUX,
-ZWE,MAC,
-ZWE,MDG,
-ZWE,MWI,
-ZWE,MYS,
-ZWE,MDV,
-ZWE,MLI,
-ZWE,MLT,
-ZWE,MHL,
-ZWE,MRT,
-ZWE,MUS,
-ZWE,MEX,
-ZWE,FSM,
-ZWE,MDA,
-ZWE,MCO,
-ZWE,MNG,
-ZWE,MNE,
-ZWE,MAR,
-ZWE,MOZ,
-ZWE,MMR,
-ZWE,NAM,
-ZWE,NRU,
-ZWE,NPL,
-ZWE,NLD,
-ZWE,NZL,
-ZWE,NIC,
-ZWE,NER,
-ZWE,NGA,
-ZWE,PRK,
-ZWE,MKD,
-ZWE,NOR,
-ZWE,OMN,
-ZWE,PAK,
-ZWE,PLW,
-ZWE,PSE,
-ZWE,PAN,
-ZWE,PNG,
-ZWE,PRY,
-ZWE,PER,
-ZWE,PHL,
-ZWE,POL,
-ZWE,PRT,
-ZWE,QAT,
-ZWE,ROU,
-ZWE,RUS,
-ZWE,RWA,
-ZWE,KNA,
-ZWE,LCA,
-ZWE,WSM,
-ZWE,SMR,
-ZWE,STP,
-ZWE,SAU,
-ZWE,SEN,
-ZWE,SRB,
-ZWE,SYC,
-ZWE,SLE,
-ZWE,SGP,
-ZWE,SVK,
-ZWE,SVN,
-ZWE,SLB,
-ZWE,SOM,
-ZWE,ZAF,
-ZWE,KOR,
-ZWE,SSD,
-ZWE,ESP,
-ZWE,LKA,
-ZWE,VCT,
-ZWE,SDN,
-ZWE,SUR,
-ZWE,SWE,
-ZWE,CHE,
-ZWE,SYR,
-ZWE,TWN,
-ZWE,TJK,
-ZWE,TZA,
-ZWE,THA,
-ZWE,TLS,
-ZWE,TGO,
-ZWE,TON,
-ZWE,TTO,
-ZWE,TUN,
-ZWE,TKM,
-ZWE,TUV,
-ZWE,TUR,
-ZWE,UGA,
-ZWE,UKR,
-ZWE,ARE,
-ZWE,GBR,
-ZWE,USA,
-ZWE,URY,
-ZWE,UZB,
-ZWE,VUT,
-ZWE,VAT,
-ZWE,VEN,
-ZWE,VNM,
-ZWE,YEM,
-ZWE,ZMB,
+ZMB,ZWE,90
+ZMB,AFG,visa required
+ZWE,ALB,e-visa
+ZWE,DZA,visa required
+ZWE,AND,visa required
+ZWE,AGO,30
+ZWE,ATG,e-visa
+ZWE,ARG,visa required
+ZWE,ARM,visa required
+ZWE,AUS,e-visa
+ZWE,AUT,visa required
+ZWE,AZE,visa required
+ZWE,BHS,90
+ZWE,BHR,e-visa
+ZWE,BGD,visa on arrival
+ZWE,BRB,180
+ZWE,BLR,visa required
+ZWE,BEL,visa required
+ZWE,BLZ,visa free
+ZWE,BEN,90
+ZWE,BTN,e-visa
+ZWE,BOL,e-visa
+ZWE,BIH,visa required
+ZWE,BWA,90
+ZWE,BRA,visa required
+ZWE,BRN,visa required
+ZWE,BGR,visa required
+ZWE,BFA,e-visa
+ZWE,BDI,visa on arrival
+ZWE,KHM,visa on arrival
+ZWE,CMR,e-visa
+ZWE,CAN,visa required
+ZWE,CPV,visa on arrival
+ZWE,CAF,visa required
+ZWE,TCD,e-visa
+ZWE,CHL,visa required
+ZWE,CHN,visa required
+ZWE,COL,e-visa
+ZWE,COM,visa on arrival
+ZWE,COG,visa required
+ZWE,COD,90
+ZWE,CRI,visa required
+ZWE,CIV,eta
+ZWE,HRV,visa required
+ZWE,CUB,e-visa
+ZWE,CYP,visa required
+ZWE,CZE,visa required
+ZWE,DNK,visa required
+ZWE,DJI,visa on arrival
+ZWE,DMA,21
+ZWE,DOM,visa required
+ZWE,ECU,90
+ZWE,EGY,visa required
+ZWE,SLV,e-visa
+ZWE,GNQ,e-visa
+ZWE,ERI,visa required
+ZWE,EST,visa required
+ZWE,SWZ,30
+ZWE,ETH,visa on arrival
+ZWE,FJI,120
+ZWE,FIN,visa required
+ZWE,FRA,visa required
+ZWE,GAB,e-visa
+ZWE,GMB,90
+ZWE,GEO,e-visa
+ZWE,DEU,visa required
+ZWE,GHA,60
+ZWE,GRC,visa required
+ZWE,GRD,visa required
+ZWE,GTM,visa required
+ZWE,GIN,e-visa
+ZWE,GNB,visa on arrival
+ZWE,GUY,e-visa
+ZWE,HTI,90
+ZWE,HND,visa required
+ZWE,HKG,90
+ZWE,HUN,visa required
+ZWE,ISL,visa required
+ZWE,IND,e-visa
+ZWE,IDN,e-visa
+ZWE,IRN,15
+ZWE,IRQ,e-visa
+ZWE,IRL,visa required
+ZWE,ISR,e-visa
+ZWE,ITA,visa required
+ZWE,JAM,visa required
+ZWE,JPN,visa required
+ZWE,JOR,visa on arrival
+ZWE,KAZ,e-visa
+ZWE,KEN,90
+ZWE,KIR,visa required
+ZWE,XKX,visa required
+ZWE,KWT,visa required
+ZWE,KGZ,e-visa
+ZWE,LAO,visa required
+ZWE,LVA,visa required
+ZWE,LBN,visa required
+ZWE,LSO,visa free
+ZWE,LBR,e-visa
+ZWE,LBY,e-visa
+ZWE,LIE,visa required
+ZWE,LTU,visa required
+ZWE,LUX,visa required
+ZWE,MAC,visa on arrival
+ZWE,MDG,visa on arrival
+ZWE,MWI,90
+ZWE,MYS,30
+ZWE,MDV,visa on arrival
+ZWE,MLI,visa required
+ZWE,MLT,visa required
+ZWE,MHL,visa required
+ZWE,MRT,e-visa
+ZWE,MUS,90
+ZWE,MEX,visa required
+ZWE,FSM,30
+ZWE,MDA,visa required
+ZWE,MCO,visa required
+ZWE,MNG,e-visa
+ZWE,MNE,visa required
+ZWE,MAR,visa required
+ZWE,MOZ,visa free
+ZWE,MMR,visa required
+ZWE,NAM,90
+ZWE,NRU,visa required
+ZWE,NPL,visa required
+ZWE,NLD,visa required
+ZWE,NZL,visa required
+ZWE,NIC,visa on arrival
+ZWE,NER,visa required
+ZWE,NGA,e-visa
+ZWE,PRK,visa required
+ZWE,MKD,visa required
+ZWE,NOR,visa required
+ZWE,OMN,e-visa
+ZWE,PAK,e-visa
+ZWE,PLW,visa on arrival
+ZWE,PSE,visa free
+ZWE,PAN,visa required
+ZWE,PNG,e-visa
+ZWE,PRY,visa required
+ZWE,PER,visa required
+ZWE,PHL,30
+ZWE,POL,visa required
+ZWE,PRT,visa required
+ZWE,QAT,e-visa
+ZWE,ROU,visa required
+ZWE,RUS,e-visa
+ZWE,RWA,30
+ZWE,KNA,eta
+ZWE,LCA,visa on arrival
+ZWE,WSM,visa on arrival
+ZWE,SMR,visa required
+ZWE,STP,e-visa
+ZWE,SAU,e-visa
+ZWE,SEN,visa on arrival
+ZWE,SRB,visa required
+ZWE,SYC,90
+ZWE,SLE,e-visa
+ZWE,SGP,30
+ZWE,SVK,visa required
+ZWE,SVN,visa required
+ZWE,SLB,visa required
+ZWE,SOM,e-visa
+ZWE,ZAF,90
+ZWE,KOR,e-visa
+ZWE,SSD,e-visa
+ZWE,ESP,visa required
+ZWE,LKA,visa on arrival
+ZWE,VCT,90
+ZWE,SDN,visa required
+ZWE,SUR,eta
+ZWE,SWE,visa required
+ZWE,CHE,visa required
+ZWE,SYR,e-visa
+ZWE,TWN,visa required
+ZWE,TJK,visa required
+ZWE,TZA,90
+ZWE,THA,e-visa
+ZWE,TLS,visa on arrival
+ZWE,TGO,e-visa
+ZWE,TON,visa required
+ZWE,TTO,visa free
+ZWE,TUN,visa required
+ZWE,TKM,visa required
+ZWE,TUV,visa on arrival
+ZWE,TUR,visa required
+ZWE,UGA,90
+ZWE,UKR,visa required
+ZWE,ARE,e-visa
+ZWE,GBR,visa required
+ZWE,USA,visa required
+ZWE,URY,visa required
+ZWE,UZB,visa required
+ZWE,VUT,120
+ZWE,VAT,visa required
+ZWE,VEN,visa required
+ZWE,VNM,e-visa
+ZWE,YEM,visa required
+ZWE,ZMB,90
 ZWE,ZWE,-1
-ZWE,AFG,
+ZWE,AFG,visa required

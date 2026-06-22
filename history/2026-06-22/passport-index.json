@@ -751,6 +751,767 @@
       "days": 90
     }
   },
+  "AE": {
+    "AD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AF": {
+      "status": "visa required"
+    },
+    "AG": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AM": {
+      "status": "visa free",
+      "days": 180
+    },
+    "AO": {
+      "status": "visa free",
+      "days": 30
+    },
+    "AR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AU": {
+      "status": "e-visa"
+    },
+    "AZ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BB": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BD": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BF": {
+      "status": "visa free"
+    },
+    "BG": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BH": {
+      "status": "visa free"
+    },
+    "BI": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BJ": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "BN": {
+      "status": "visa free",
+      "days": 30
+    },
+    "BO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BT": {
+      "status": "e-visa"
+    },
+    "BW": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BZ": {
+      "status": "visa required"
+    },
+    "CA": {
+      "status": "eta",
+      "days": 180
+    },
+    "CD": {
+      "status": "e-visa",
+      "days": 7
+    },
+    "CF": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "CG": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "CH": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CI": {
+      "status": "eta",
+      "days": 90
+    },
+    "CL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CM": {
+      "status": "e-visa"
+    },
+    "CN": {
+      "status": "visa free",
+      "days": 30
+    },
+    "CO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CR": {
+      "status": "visa free",
+      "days": 180
+    },
+    "CU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CV": {
+      "status": "visa on arrival"
+    },
+    "CY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CZ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DJ": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "DK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DM": {
+      "status": "visa free",
+      "days": 180
+    },
+    "DO": {
+      "status": "visa free",
+      "days": 30
+    },
+    "DZ": {
+      "status": "visa required"
+    },
+    "EC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EG": {
+      "status": "visa free",
+      "days": 180
+    },
+    "ER": {
+      "status": "visa required"
+    },
+    "ES": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ET": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "FI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "FJ": {
+      "status": "visa free",
+      "days": 120
+    },
+    "FM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "FR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GA": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GB": {
+      "status": "eta",
+      "days": 180
+    },
+    "GD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "GM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GN": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "GQ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "GY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HK": {
+      "status": "visa free",
+      "days": 30
+    },
+    "HN": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ID": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "IE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "IL": {
+      "status": "eta",
+      "days": 90
+    },
+    "IN": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "IQ": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "IR": {
+      "status": "visa free",
+      "days": 15
+    },
+    "IS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "IT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "JM": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "JO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "JP": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KE": {
+      "status": "eta",
+      "days": 90
+    },
+    "KG": {
+      "status": "visa free",
+      "days": 60
+    },
+    "KH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "KI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KM": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "KN": {
+      "status": "eta",
+      "days": 90
+    },
+    "KP": {
+      "status": "visa required"
+    },
+    "KR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KW": {
+      "status": "visa free"
+    },
+    "KZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "LA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LB": {
+      "status": "visa free",
+      "days": 180
+    },
+    "LC": {
+      "status": "visa free",
+      "days": 60
+    },
+    "LI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LK": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LR": {
+      "status": "e-visa"
+    },
+    "LS": {
+      "status": "visa required"
+    },
+    "LT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LV": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LY": {
+      "status": "e-visa"
+    },
+    "MA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ME": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MG": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MH": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ML": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MM": {
+      "status": "visa required"
+    },
+    "MN": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MO": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MR": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "MT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MW": {
+      "status": "e-visa"
+    },
+    "MX": {
+      "status": "visa free",
+      "days": 180
+    },
+    "MY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "NA": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "NE": {
+      "status": "visa required"
+    },
+    "NG": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "NI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NP": {
+      "status": "visa on arrival",
+      "days": 150
+    },
+    "NR": {
+      "status": "visa free"
+    },
+    "NZ": {
+      "status": "eta",
+      "days": 90
+    },
+    "OM": {
+      "status": "visa free"
+    },
+    "PA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PG": {
+      "status": "e-visa"
+    },
+    "PH": {
+      "status": "visa free",
+      "days": 30
+    },
+    "PK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PS": {
+      "status": "visa free"
+    },
+    "PT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "QA": {
+      "status": "visa free"
+    },
+    "RO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SA": {
+      "status": "visa free"
+    },
+    "SB": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SD": {
+      "status": "visa free"
+    },
+    "SE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SG": {
+      "status": "visa free",
+      "days": 30
+    },
+    "SI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SN": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SO": {
+      "status": "e-visa"
+    },
+    "SR": {
+      "status": "eta",
+      "days": 90
+    },
+    "SS": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "ST": {
+      "status": "visa free",
+      "days": 15
+    },
+    "SV": {
+      "status": "visa free",
+      "days": 180
+    },
+    "SY": {
+      "status": "visa on arrival"
+    },
+    "SZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "TD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TG": {
+      "status": "e-visa",
+      "days": 15
+    },
+    "TH": {
+      "status": "visa free",
+      "days": 60
+    },
+    "TJ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "TL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TM": {
+      "status": "visa required"
+    },
+    "TN": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TO": {
+      "status": "visa free",
+      "days": 60
+    },
+    "TR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TT": {
+      "status": "visa on arrival"
+    },
+    "TV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TW": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "TZ": {
+      "status": "visa on arrival"
+    },
+    "UA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UG": {
+      "status": "e-visa"
+    },
+    "US": {
+      "status": "visa required"
+    },
+    "UY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "VA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VE": {
+      "status": "visa required"
+    },
+    "VN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "VU": {
+      "status": "visa free",
+      "days": 120
+    },
+    "WS": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "XK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "YE": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "ZA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ZM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ZW": {
+      "status": "visa on arrival",
+      "days": 90
+    }
+  },
   "AF": {
     "AD": {
       "status": "visa required"
@@ -41026,6 +41787,762 @@
       "status": "e-visa"
     }
   },
+  "GB": {
+    "AD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AF": {
+      "status": "visa required"
+    },
+    "AG": {
+      "status": "visa free",
+      "days": 180
+    },
+    "AL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AM": {
+      "status": "visa free",
+      "days": 180
+    },
+    "AO": {
+      "status": "visa free",
+      "days": 30
+    },
+    "AR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AU": {
+      "status": "eta",
+      "days": 90
+    },
+    "AZ": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "BA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BB": {
+      "status": "visa free",
+      "days": 180
+    },
+    "BD": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BF": {
+      "status": "e-visa"
+    },
+    "BG": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BI": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BJ": {
+      "status": "e-visa"
+    },
+    "BN": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BS": {
+      "status": "visa free",
+      "days": 240
+    },
+    "BT": {
+      "status": "e-visa"
+    },
+    "BW": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BY": {
+      "status": "visa free",
+      "days": 30
+    },
+    "BZ": {
+      "status": "visa free"
+    },
+    "CA": {
+      "status": "eta",
+      "days": 180
+    },
+    "CD": {
+      "status": "e-visa",
+      "days": 7
+    },
+    "CF": {
+      "status": "visa required"
+    },
+    "CG": {
+      "status": "visa required"
+    },
+    "CH": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CI": {
+      "status": "eta",
+      "days": 90
+    },
+    "CL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CM": {
+      "status": "e-visa"
+    },
+    "CN": {
+      "status": "visa required"
+    },
+    "CO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CR": {
+      "status": "visa free",
+      "days": 180
+    },
+    "CU": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "CV": {
+      "status": "visa free",
+      "days": 30
+    },
+    "CY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CZ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DJ": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "DK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DM": {
+      "status": "visa free",
+      "days": 180
+    },
+    "DO": {
+      "status": "visa free",
+      "days": 30
+    },
+    "DZ": {
+      "status": "visa required"
+    },
+    "EC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EG": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "ER": {
+      "status": "visa required"
+    },
+    "ES": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ET": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "FI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "FJ": {
+      "status": "visa free",
+      "days": 120
+    },
+    "FM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "FR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GA": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GE": {
+      "status": "visa free",
+      "days": 360
+    },
+    "GH": {
+      "status": "visa required"
+    },
+    "GM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GQ": {
+      "status": "e-visa"
+    },
+    "GR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "GY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HK": {
+      "status": "visa free",
+      "days": 180
+    },
+    "HN": {
+      "status": "visa required"
+    },
+    "HR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ID": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "IE": {
+      "status": "visa free"
+    },
+    "IL": {
+      "status": "eta",
+      "days": 90
+    },
+    "IN": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "IQ": {
+      "status": "e-visa"
+    },
+    "IR": {
+      "status": "visa required"
+    },
+    "IS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "IT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "JM": {
+      "status": "visa free"
+    },
+    "JO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "JP": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KE": {
+      "status": "eta",
+      "days": 90
+    },
+    "KG": {
+      "status": "visa free",
+      "days": 60
+    },
+    "KH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "KI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KM": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "KN": {
+      "status": "eta",
+      "days": 180
+    },
+    "KP": {
+      "status": "visa required"
+    },
+    "KR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "KZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "LA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LB": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LC": {
+      "status": "visa free",
+      "days": 42
+    },
+    "LI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LK": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LR": {
+      "status": "visa required"
+    },
+    "LS": {
+      "status": "visa free"
+    },
+    "LT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LV": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LY": {
+      "status": "e-visa"
+    },
+    "MA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ME": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MG": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MH": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ML": {
+      "status": "visa required"
+    },
+    "MM": {
+      "status": "e-visa"
+    },
+    "MN": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MO": {
+      "status": "visa free",
+      "days": 180
+    },
+    "MR": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "MT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MW": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MX": {
+      "status": "visa free",
+      "days": 180
+    },
+    "MY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "NA": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "NE": {
+      "status": "visa required"
+    },
+    "NG": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "NI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NP": {
+      "status": "visa on arrival",
+      "days": 150
+    },
+    "NR": {
+      "status": "visa required"
+    },
+    "NZ": {
+      "status": "eta",
+      "days": 180
+    },
+    "OM": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PE": {
+      "status": "visa free",
+      "days": 180
+    },
+    "PG": {
+      "status": "visa on arrival",
+      "days": 60
+    },
+    "PH": {
+      "status": "visa free",
+      "days": 30
+    },
+    "PK": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "PL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PS": {
+      "status": "visa free"
+    },
+    "PT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "QA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "RO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RU": {
+      "status": "visa required"
+    },
+    "RW": {
+      "status": "visa free",
+      "days": 30
+    },
+    "SA": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "SB": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "SC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SD": {
+      "status": "visa required"
+    },
+    "SE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SG": {
+      "status": "visa free",
+      "days": 30
+    },
+    "SI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SN": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SO": {
+      "status": "e-visa"
+    },
+    "SR": {
+      "status": "eta",
+      "days": 90
+    },
+    "SS": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "ST": {
+      "status": "visa free",
+      "days": 15
+    },
+    "SV": {
+      "status": "visa free",
+      "days": 180
+    },
+    "SY": {
+      "status": "e-visa"
+    },
+    "SZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "TD": {
+      "status": "e-visa"
+    },
+    "TG": {
+      "status": "e-visa",
+      "days": 15
+    },
+    "TH": {
+      "status": "visa free",
+      "days": 60
+    },
+    "TJ": {
+      "status": "e-visa"
+    },
+    "TL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TM": {
+      "status": "visa required"
+    },
+    "TN": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TO": {
+      "status": "visa on arrival",
+      "days": 31
+    },
+    "TR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TT": {
+      "status": "visa free"
+    },
+    "TV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TW": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TZ": {
+      "status": "visa on arrival"
+    },
+    "UA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UG": {
+      "status": "e-visa"
+    },
+    "US": {
+      "status": "eta",
+      "days": 90
+    },
+    "UY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "VA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VC": {
+      "status": "visa free",
+      "days": 180
+    },
+    "VE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VN": {
+      "status": "visa free",
+      "days": 45
+    },
+    "VU": {
+      "status": "visa free",
+      "days": 120
+    },
+    "WS": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "XK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "YE": {
+      "status": "visa required"
+    },
+    "ZA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ZM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ZW": {
+      "status": "visa on arrival",
+      "days": 90
+    }
+  },
   "GD": {
     "AD": {
       "status": "visa free",
@@ -47865,6 +49382,758 @@
     "ZW": {
       "status": "visa on arrival",
       "days": 90
+    }
+  },
+  "HK": {
+    "AD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AE": {
+      "status": "visa free",
+      "days": 30
+    },
+    "AF": {
+      "status": "visa required"
+    },
+    "AG": {
+      "status": "visa free",
+      "days": 30
+    },
+    "AL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AM": {
+      "status": "visa free",
+      "days": 180
+    },
+    "AO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "AR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AU": {
+      "status": "eta",
+      "days": 90
+    },
+    "AZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "BA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BB": {
+      "status": "visa free",
+      "days": 30
+    },
+    "BD": {
+      "status": "visa required"
+    },
+    "BE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BF": {
+      "status": "e-visa"
+    },
+    "BG": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BI": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BJ": {
+      "status": "visa free",
+      "days": 14
+    },
+    "BN": {
+      "status": "visa free",
+      "days": 14
+    },
+    "BO": {
+      "status": "e-visa"
+    },
+    "BR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BT": {
+      "status": "e-visa"
+    },
+    "BW": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BY": {
+      "status": "visa free",
+      "days": 30
+    },
+    "BZ": {
+      "status": "visa free"
+    },
+    "CA": {
+      "status": "eta",
+      "days": 180
+    },
+    "CD": {
+      "status": "e-visa",
+      "days": 7
+    },
+    "CF": {
+      "status": "visa required"
+    },
+    "CG": {
+      "status": "visa required"
+    },
+    "CH": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CI": {
+      "status": "eta",
+      "days": 90
+    },
+    "CL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CM": {
+      "status": "e-visa"
+    },
+    "CN": {
+      "status": "visa free"
+    },
+    "CO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CR": {
+      "status": "visa required"
+    },
+    "CU": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "CV": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CZ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DJ": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "DK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DM": {
+      "status": "visa free",
+      "days": 180
+    },
+    "DO": {
+      "status": "visa free",
+      "days": 30
+    },
+    "DZ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EG": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ER": {
+      "status": "visa required"
+    },
+    "ES": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ET": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "FI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "FJ": {
+      "status": "visa free",
+      "days": 120
+    },
+    "FM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "FR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GA": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GB": {
+      "status": "eta",
+      "days": 180
+    },
+    "GD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GE": {
+      "status": "visa free",
+      "days": 30
+    },
+    "GH": {
+      "status": "visa required"
+    },
+    "GM": {
+      "status": "visa required"
+    },
+    "GN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GQ": {
+      "status": "e-visa"
+    },
+    "GR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "GY": {
+      "status": "visa free",
+      "days": 30
+    },
+    "HN": {
+      "status": "visa required"
+    },
+    "HR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ID": {
+      "status": "visa free",
+      "days": 30
+    },
+    "IE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "IL": {
+      "status": "eta",
+      "days": 90
+    },
+    "IN": {
+      "status": "visa required"
+    },
+    "IQ": {
+      "status": "e-visa"
+    },
+    "IR": {
+      "status": "visa free",
+      "days": 21
+    },
+    "IS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "IT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "JM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "JO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "JP": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KE": {
+      "status": "eta",
+      "days": 90
+    },
+    "KG": {
+      "status": "visa free",
+      "days": 30
+    },
+    "KH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "KI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KM": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "KN": {
+      "status": "eta",
+      "days": 90
+    },
+    "KP": {
+      "status": "visa required"
+    },
+    "KR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "KZ": {
+      "status": "visa free",
+      "days": 14
+    },
+    "LA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LB": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LC": {
+      "status": "visa free",
+      "days": 42
+    },
+    "LI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LK": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LR": {
+      "status": "e-visa"
+    },
+    "LS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LV": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LY": {
+      "status": "e-visa"
+    },
+    "MA": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ME": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MG": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MH": {
+      "status": "visa required"
+    },
+    "MK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ML": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MM": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MN": {
+      "status": "visa free",
+      "days": 14
+    },
+    "MO": {
+      "status": "visa free"
+    },
+    "MR": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "MT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MW": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MX": {
+      "status": "visa free",
+      "days": 180
+    },
+    "MY": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MZ": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "NA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NE": {
+      "status": "visa free",
+      "days": 14
+    },
+    "NG": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "NI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NP": {
+      "status": "visa on arrival",
+      "days": 150
+    },
+    "NR": {
+      "status": "visa required"
+    },
+    "NZ": {
+      "status": "eta",
+      "days": 90
+    },
+    "OM": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PE": {
+      "status": "visa free",
+      "days": 180
+    },
+    "PG": {
+      "status": "eta",
+      "days": 60
+    },
+    "PH": {
+      "status": "visa free",
+      "days": 14
+    },
+    "PK": {
+      "status": "visa required"
+    },
+    "PL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PS": {
+      "status": "visa free"
+    },
+    "PT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PY": {
+      "status": "visa required"
+    },
+    "QA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "RO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RS": {
+      "status": "visa free",
+      "days": 14
+    },
+    "RU": {
+      "status": "visa free",
+      "days": 14
+    },
+    "RW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SA": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "SB": {
+      "status": "visa required"
+    },
+    "SC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SD": {
+      "status": "visa required"
+    },
+    "SE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SG": {
+      "status": "visa free",
+      "days": 30
+    },
+    "SI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SL": {
+      "status": "e-visa"
+    },
+    "SM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SN": {
+      "status": "visa required"
+    },
+    "SO": {
+      "status": "e-visa"
+    },
+    "SR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SS": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "ST": {
+      "status": "e-visa"
+    },
+    "SV": {
+      "status": "e-visa"
+    },
+    "SY": {
+      "status": "e-visa"
+    },
+    "SZ": {
+      "status": "visa required"
+    },
+    "TD": {
+      "status": "e-visa"
+    },
+    "TG": {
+      "status": "e-visa",
+      "days": 15
+    },
+    "TH": {
+      "status": "visa free",
+      "days": 60
+    },
+    "TJ": {
+      "status": "e-visa"
+    },
+    "TL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TM": {
+      "status": "visa required"
+    },
+    "TN": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TO": {
+      "status": "visa on arrival",
+      "days": 31
+    },
+    "TR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TT": {
+      "status": "visa free"
+    },
+    "TV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TW": {
+      "status": "visa on arrival"
+    },
+    "TZ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UA": {
+      "status": "visa free",
+      "days": 14
+    },
+    "UG": {
+      "status": "visa free",
+      "days": 90
+    },
+    "US": {
+      "status": "visa required"
+    },
+    "UY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UZ": {
+      "status": "visa free",
+      "days": 10
+    },
+    "VA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "VU": {
+      "status": "visa free",
+      "days": 120
+    },
+    "WS": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "XK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "YE": {
+      "status": "visa free",
+      "days": 30
+    },
+    "ZA": {
+      "status": "visa free",
+      "days": 30
+    },
+    "ZM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ZW": {
+      "status": "visa free",
+      "days": 180
     }
   },
   "HN": {
@@ -74904,6 +77173,10 @@
       "status": "visa free",
       "days": 90
     },
+    "AE": {
+      "status": "visa free",
+      "days": 90
+    },
     "AF": {
       "status": "visa required"
     },
@@ -75113,6 +77386,9 @@
     "GA": {
       "status": "e-visa",
       "days": 90
+    },
+    "GB": {
+      "status": "visa required"
     },
     "GD": {
       "status": "visa free"
@@ -75526,12 +77802,27 @@
       "status": "visa on arrival",
       "days": 30
     },
+    "TM": {
+      "status": "visa required"
+    },
+    "TN": {
+      "status": "visa free",
+      "days": 90
+    },
     "TO": {
       "status": "visa required"
+    },
+    "TR": {
+      "status": "visa free",
+      "days": 90
     },
     "TT": {
       "status": "visa free",
       "days": 90
+    },
+    "TV": {
+      "status": "visa on arrival",
+      "days": 30
     },
     "TW": {
       "status": "e-visa",
@@ -75540,16 +77831,59 @@
     "TZ": {
       "status": "visa on arrival"
     },
+    "UA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UG": {
+      "status": "e-visa"
+    },
+    "US": {
+      "status": "visa required"
+    },
+    "UY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "VA": {
+      "status": "visa free",
+      "days": 90
+    },
     "VC": {
       "status": "visa free",
       "days": 90
+    },
+    "VE": {
+      "status": "visa required"
+    },
+    "VN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "VU": {
+      "status": "e-visa"
     },
     "WS": {
       "status": "visa on arrival",
       "days": 90
     },
+    "XK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "YE": {
+      "status": "visa required"
+    },
     "ZA": {
       "status": "visa required"
+    },
+    "ZM": {
+      "status": "visa free",
+      "days": 90
     },
     "ZW": {
       "status": "e-visa"
@@ -79611,6 +81945,738 @@
     },
     "ZW": {
       "status": "e-visa"
+    }
+  },
+  "MO": {
+    "AD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AE": {
+      "status": "visa free",
+      "days": 30
+    },
+    "AF": {
+      "status": "visa required"
+    },
+    "AG": {
+      "status": "visa free",
+      "days": 30
+    },
+    "AL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AO": {
+      "status": "visa required"
+    },
+    "AR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AU": {
+      "status": "e-visa"
+    },
+    "AZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "BA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BB": {
+      "status": "visa free",
+      "days": 30
+    },
+    "BD": {
+      "status": "visa required"
+    },
+    "BE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BF": {
+      "status": "e-visa"
+    },
+    "BG": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BI": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BJ": {
+      "status": "e-visa"
+    },
+    "BN": {
+      "status": "visa free",
+      "days": 14
+    },
+    "BO": {
+      "status": "e-visa"
+    },
+    "BR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BS": {
+      "status": "e-visa"
+    },
+    "BT": {
+      "status": "e-visa"
+    },
+    "BW": {
+      "status": "e-visa"
+    },
+    "BY": {
+      "status": "visa free",
+      "days": 30
+    },
+    "BZ": {
+      "status": "visa required"
+    },
+    "CA": {
+      "status": "visa required"
+    },
+    "CD": {
+      "status": "e-visa",
+      "days": 7
+    },
+    "CF": {
+      "status": "visa required"
+    },
+    "CG": {
+      "status": "visa required"
+    },
+    "CH": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CI": {
+      "status": "eta",
+      "days": 90
+    },
+    "CL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CM": {
+      "status": "e-visa"
+    },
+    "CN": {
+      "status": "visa free"
+    },
+    "CO": {
+      "status": "e-visa"
+    },
+    "CR": {
+      "status": "visa required"
+    },
+    "CU": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "CV": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CZ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DJ": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "DK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DM": {
+      "status": "visa free",
+      "days": 180
+    },
+    "DO": {
+      "status": "visa free",
+      "days": 30
+    },
+    "DZ": {
+      "status": "visa required"
+    },
+    "EC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EG": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ER": {
+      "status": "visa required"
+    },
+    "ES": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ET": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "FI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "FJ": {
+      "status": "visa free",
+      "days": 120
+    },
+    "FM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "FR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GA": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GB": {
+      "status": "eta",
+      "days": 180
+    },
+    "GD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GE": {
+      "status": "visa free",
+      "days": 30
+    },
+    "GH": {
+      "status": "visa required"
+    },
+    "GM": {
+      "status": "visa required"
+    },
+    "GN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GQ": {
+      "status": "e-visa"
+    },
+    "GR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GT": {
+      "status": "visa required"
+    },
+    "GW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "GY": {
+      "status": "e-visa"
+    },
+    "HK": {
+      "status": "visa free",
+      "days": 7
+    },
+    "HN": {
+      "status": "visa required"
+    },
+    "HR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ID": {
+      "status": "e-visa"
+    },
+    "IE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "IL": {
+      "status": "eta",
+      "days": 90
+    },
+    "IN": {
+      "status": "visa required"
+    },
+    "IQ": {
+      "status": "e-visa"
+    },
+    "IR": {
+      "status": "visa free",
+      "days": 21
+    },
+    "IS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "IT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "JM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "JO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "JP": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KE": {
+      "status": "eta",
+      "days": 90
+    },
+    "KG": {
+      "status": "visa free",
+      "days": 30
+    },
+    "KH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "KI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KM": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "KN": {
+      "status": "eta",
+      "days": 30
+    },
+    "KP": {
+      "status": "visa required"
+    },
+    "KR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KW": {
+      "status": "visa required"
+    },
+    "KZ": {
+      "status": "visa free",
+      "days": 14
+    },
+    "LA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LB": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LC": {
+      "status": "visa on arrival",
+      "days": 42
+    },
+    "LI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LK": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LR": {
+      "status": "e-visa"
+    },
+    "LS": {
+      "status": "visa required"
+    },
+    "LT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LV": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LY": {
+      "status": "e-visa"
+    },
+    "MA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ME": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MG": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MH": {
+      "status": "visa required"
+    },
+    "MK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ML": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MM": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MN": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MR": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "MT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MX": {
+      "status": "visa free",
+      "days": 180
+    },
+    "MY": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MZ": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "NA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NE": {
+      "status": "visa required"
+    },
+    "NG": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "NI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NP": {
+      "status": "visa on arrival",
+      "days": 150
+    },
+    "NR": {
+      "status": "visa required"
+    },
+    "NZ": {
+      "status": "eta",
+      "days": 90
+    },
+    "OM": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PA": {
+      "status": "visa required"
+    },
+    "PE": {
+      "status": "visa required"
+    },
+    "PG": {
+      "status": "eta",
+      "days": 60
+    },
+    "PH": {
+      "status": "visa free",
+      "days": 14
+    },
+    "PK": {
+      "status": "visa required"
+    },
+    "PL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PS": {
+      "status": "visa free"
+    },
+    "PT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PY": {
+      "status": "visa required"
+    },
+    "QA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "RO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RU": {
+      "status": "visa free",
+      "days": 30
+    },
+    "RW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SA": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "SB": {
+      "status": "visa required"
+    },
+    "SC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SD": {
+      "status": "visa required"
+    },
+    "SE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SG": {
+      "status": "visa free",
+      "days": 30
+    },
+    "SI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SN": {
+      "status": "visa required"
+    },
+    "SO": {
+      "status": "e-visa"
+    },
+    "SR": {
+      "status": "eta",
+      "days": 90
+    },
+    "SS": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "ST": {
+      "status": "e-visa"
+    },
+    "SV": {
+      "status": "e-visa"
+    },
+    "SY": {
+      "status": "e-visa"
+    },
+    "SZ": {
+      "status": "visa required"
+    },
+    "TD": {
+      "status": "e-visa"
+    },
+    "TG": {
+      "status": "e-visa",
+      "days": 15
+    },
+    "TH": {
+      "status": "visa free",
+      "days": 60
+    },
+    "TJ": {
+      "status": "e-visa"
+    },
+    "TL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TM": {
+      "status": "visa required"
+    },
+    "TN": {
+      "status": "visa required"
+    },
+    "TO": {
+      "status": "visa on arrival",
+      "days": 31
+    },
+    "TR": {
+      "status": "visa free",
+      "days": 30
+    },
+    "TT": {
+      "status": "visa required"
+    },
+    "TV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TW": {
+      "status": "visa on arrival"
+    },
+    "TZ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UA": {
+      "status": "e-visa"
+    },
+    "UG": {
+      "status": "e-visa"
+    },
+    "US": {
+      "status": "visa required"
+    },
+    "UY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UZ": {
+      "status": "visa free",
+      "days": 10
+    },
+    "VA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VE": {
+      "status": "visa required"
+    },
+    "VN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "VU": {
+      "status": "visa free",
+      "days": 120
+    },
+    "WS": {
+      "status": "visa free",
+      "days": 30
+    },
+    "XK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "YE": {
+      "status": "visa required"
+    },
+    "ZA": {
+      "status": "visa free",
+      "days": 30
+    },
+    "ZM": {
+      "status": "e-visa"
+    },
+    "ZW": {
+      "status": "visa on arrival",
+      "days": 90
     }
   },
   "MR": {
@@ -95353,11 +98419,30 @@
     "NA": {
       "status": "e-visa"
     },
+    "NE": {
+      "status": "visa required"
+    },
     "NG": {
       "status": "e-visa",
       "days": 90
     },
+    "NI": {
+      "status": "visa required"
+    },
+    "NL": {
+      "status": "visa required"
+    },
     "NO": {
+      "status": "visa required"
+    },
+    "NP": {
+      "status": "visa on arrival",
+      "days": 150
+    },
+    "NR": {
+      "status": "visa required"
+    },
+    "NZ": {
       "status": "visa required"
     },
     "OM": {
@@ -107762,6 +110847,9 @@
     "CG": {
       "status": "visa required"
     },
+    "CH": {
+      "status": "visa free"
+    },
     "CI": {
       "status": "eta",
       "days": 90
@@ -108011,6 +111099,10 @@
     "LI": {
       "status": "visa free"
     },
+    "LK": {
+      "status": "visa on arrival",
+      "days": 30
+    },
     "LR": {
       "status": "e-visa"
     },
@@ -108206,6 +111298,12 @@
       "status": "visa free",
       "days": 90
     },
+    "SD": {
+      "status": "visa required"
+    },
+    "SE": {
+      "status": "visa free"
+    },
     "SG": {
       "status": "visa free",
       "days": 90
@@ -108227,6 +111325,10 @@
     "SO": {
       "status": "e-visa"
     },
+    "SR": {
+      "status": "eta",
+      "days": 90
+    },
     "SS": {
       "status": "e-visa",
       "days": 90
@@ -108238,6 +111340,9 @@
     "SV": {
       "status": "visa free",
       "days": 180
+    },
+    "SY": {
+      "status": "e-visa"
     },
     "SZ": {
       "status": "visa free",
@@ -123952,6 +127057,10 @@
       "status": "visa free",
       "days": 90
     },
+    "AE": {
+      "status": "visa free",
+      "days": 30
+    },
     "AF": {
       "status": "visa required"
     },
@@ -124058,6 +127167,10 @@
     "CG": {
       "status": "visa required"
     },
+    "CH": {
+      "status": "visa free",
+      "days": 90
+    },
     "CI": {
       "status": "eta",
       "days": 90
@@ -124095,6 +127208,10 @@
       "status": "visa free",
       "days": 90
     },
+    "DE": {
+      "status": "visa free",
+      "days": 90
+    },
     "DJ": {
       "status": "visa on arrival",
       "days": 90
@@ -124103,10 +127220,166 @@
       "status": "visa free",
       "days": 90
     },
+    "DM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DO": {
+      "status": "visa free",
+      "days": 30
+    },
     "DZ": {
       "status": "visa required"
     },
+    "EC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EG": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "ER": {
+      "status": "visa required"
+    },
+    "ES": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ET": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "FI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "FJ": {
+      "status": "visa free",
+      "days": 120
+    },
+    "FM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "FR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GA": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GB": {
+      "status": "visa required"
+    },
+    "GD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GE": {
+      "status": "visa free",
+      "days": 360
+    },
+    "GH": {
+      "status": "visa required"
+    },
+    "GM": {
+      "status": "visa required"
+    },
+    "GN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GQ": {
+      "status": "e-visa"
+    },
+    "GR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "GY": {
+      "status": "e-visa"
+    },
+    "HK": {
+      "status": "visa free",
+      "days": 14
+    },
+    "HN": {
+      "status": "visa free",
+      "days": 90
+    },
     "HR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ID": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "IE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "IL": {
+      "status": "eta",
+      "days": 90
+    },
+    "IN": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "IQ": {
+      "status": "e-visa"
+    },
+    "IR": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "IS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "IT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "JM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "JO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "JP": {
+      "status": "visa required"
+    },
+    "KE": {
+      "status": "eta",
+      "days": 90
+    },
+    "KG": {
       "status": "visa free",
       "days": 90
     },
@@ -124114,22 +127387,428 @@
       "status": "visa on arrival",
       "days": 30
     },
+    "KI": {
+      "status": "visa free",
+      "days": 90
+    },
     "KM": {
       "status": "visa on arrival",
       "days": 45
     },
+    "KN": {
+      "status": "eta",
+      "days": 90
+    },
+    "KP": {
+      "status": "visa required"
+    },
+    "KR": {
+      "status": "e-visa"
+    },
+    "KW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "KZ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LB": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LC": {
+      "status": "visa required"
+    },
+    "LI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LK": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LR": {
+      "status": "e-visa"
+    },
+    "LS": {
+      "status": "visa required"
+    },
+    "LT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LV": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LY": {
+      "status": "e-visa"
+    },
+    "MA": {
+      "status": "visa required"
+    },
+    "MC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ME": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MG": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MH": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ML": {
+      "status": "visa required"
+    },
+    "MM": {
+      "status": "e-visa"
+    },
+    "MN": {
+      "status": "visa required"
+    },
+    "MO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MR": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "MT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MW": {
+      "status": "e-visa"
+    },
+    "MX": {
+      "status": "eta",
+      "days": 180
+    },
+    "MY": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "NA": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "NE": {
+      "status": "visa required"
+    },
+    "NG": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "NI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NP": {
+      "status": "visa on arrival",
+      "days": 150
+    },
+    "NR": {
+      "status": "visa required"
+    },
+    "NZ": {
+      "status": "visa required"
+    },
+    "OM": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PE": {
+      "status": "visa free",
+      "days": 180
+    },
+    "PG": {
+      "status": "e-visa"
+    },
+    "PH": {
+      "status": "visa required"
+    },
+    "PK": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "PL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PS": {
+      "status": "visa free"
+    },
+    "PT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "QA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "RO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SA": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "SB": {
+      "status": "visa required"
+    },
+    "SC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SD": {
+      "status": "visa required"
+    },
+    "SE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SG": {
+      "status": "e-visa"
+    },
+    "SI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SN": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SO": {
+      "status": "e-visa"
+    },
+    "SR": {
+      "status": "eta",
+      "days": 90
+    },
+    "SS": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "ST": {
+      "status": "e-visa"
+    },
+    "SV": {
+      "status": "visa free",
+      "days": 180
+    },
+    "SY": {
+      "status": "e-visa"
+    },
+    "SZ": {
+      "status": "visa free",
+      "days": 30
+    },
     "TD": {
       "status": "e-visa"
+    },
+    "TG": {
+      "status": "e-visa",
+      "days": 15
+    },
+    "TH": {
+      "status": "visa free",
+      "days": 60
+    },
+    "TJ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TM": {
+      "status": "visa required"
+    },
+    "TN": {
+      "status": "visa required"
+    },
+    "TO": {
+      "status": "visa on arrival",
+      "days": 31
+    },
+    "TR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TT": {
+      "status": "visa required"
+    },
+    "TV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TW": {
+      "status": "visa required"
+    },
+    "TZ": {
+      "status": "visa on arrival"
+    },
+    "UG": {
+      "status": "e-visa"
+    },
+    "US": {
+      "status": "visa required"
+    },
+    "UY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UZ": {
+      "status": "visa free"
+    },
+    "VA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VE": {
+      "status": "visa required"
+    },
+    "VN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "VU": {
+      "status": "visa free",
+      "days": 120
+    },
+    "WS": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "XK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "YE": {
+      "status": "visa required"
+    },
+    "ZA": {
+      "status": "visa required"
+    },
+    "ZM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ZW": {
+      "status": "visa on arrival",
+      "days": 90
     }
   },
   "UG": {
+    "AD": {
+      "status": "visa required"
+    },
     "AE": {
       "status": "e-visa"
     },
     "AF": {
       "status": "visa required"
     },
+    "AG": {
+      "status": "visa free",
+      "days": 180
+    },
+    "AL": {
+      "status": "e-visa"
+    },
     "AM": {
+      "status": "visa required"
+    },
+    "AO": {
+      "status": "visa required"
+    },
+    "AR": {
       "status": "visa required"
     },
     "AT": {
@@ -124261,6 +127940,9 @@
       "days": 180
     },
     "DO": {
+      "status": "visa required"
+    },
+    "DZ": {
       "status": "visa required"
     },
     "EC": {
@@ -124763,6 +128445,2907 @@
     },
     "ZW": {
       "status": "visa free",
+      "days": 90
+    }
+  },
+  "US": {
+    "AD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AF": {
+      "status": "visa required"
+    },
+    "AG": {
+      "status": "visa free",
+      "days": 180
+    },
+    "AL": {
+      "status": "visa free",
+      "days": 360
+    },
+    "AM": {
+      "status": "visa free",
+      "days": 180
+    },
+    "AO": {
+      "status": "visa free",
+      "days": 30
+    },
+    "AR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AU": {
+      "status": "eta",
+      "days": 90
+    },
+    "AZ": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "BA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BB": {
+      "status": "visa free",
+      "days": 180
+    },
+    "BD": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BF": {
+      "status": "e-visa"
+    },
+    "BG": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BI": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BJ": {
+      "status": "e-visa"
+    },
+    "BN": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BR": {
+      "status": "e-visa"
+    },
+    "BS": {
+      "status": "visa free",
+      "days": 240
+    },
+    "BT": {
+      "status": "e-visa"
+    },
+    "BW": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BY": {
+      "status": "e-visa"
+    },
+    "BZ": {
+      "status": "visa free",
+      "days": 180
+    },
+    "CA": {
+      "status": "visa free",
+      "days": 180
+    },
+    "CD": {
+      "status": "e-visa",
+      "days": 7
+    },
+    "CF": {
+      "status": "visa required"
+    },
+    "CG": {
+      "status": "visa required"
+    },
+    "CH": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CI": {
+      "status": "eta",
+      "days": 90
+    },
+    "CL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CM": {
+      "status": "e-visa"
+    },
+    "CN": {
+      "status": "visa required"
+    },
+    "CO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CR": {
+      "status": "visa free",
+      "days": 180
+    },
+    "CU": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "CV": {
+      "status": "visa free",
+      "days": 30
+    },
+    "CY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CZ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DJ": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "DK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DM": {
+      "status": "visa free",
+      "days": 180
+    },
+    "DO": {
+      "status": "visa free",
+      "days": 30
+    },
+    "DZ": {
+      "status": "visa required"
+    },
+    "EC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EG": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "ER": {
+      "status": "visa required"
+    },
+    "ES": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ET": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "FI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "FJ": {
+      "status": "visa free",
+      "days": 120
+    },
+    "FM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "FR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GA": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GB": {
+      "status": "eta",
+      "days": 180
+    },
+    "GD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GE": {
+      "status": "visa free",
+      "days": 360
+    },
+    "GH": {
+      "status": "visa required"
+    },
+    "GM": {
+      "status": "visa on arrival"
+    },
+    "GN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GQ": {
+      "status": "e-visa"
+    },
+    "GR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "GY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HN": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ID": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "IE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "IL": {
+      "status": "eta",
+      "days": 90
+    },
+    "IN": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "IQ": {
+      "status": "e-visa"
+    },
+    "IR": {
+      "status": "visa required"
+    },
+    "IS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "IT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "JM": {
+      "status": "visa free",
+      "days": 180
+    },
+    "JO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "JP": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KE": {
+      "status": "eta",
+      "days": 90
+    },
+    "KG": {
+      "status": "visa free",
+      "days": 60
+    },
+    "KH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "KI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KM": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "KN": {
+      "status": "eta",
+      "days": 180
+    },
+    "KP": {
+      "status": "visa required"
+    },
+    "KR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "KZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "LA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LB": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LC": {
+      "status": "visa free",
+      "days": 42
+    },
+    "LI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LK": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LR": {
+      "status": "visa required"
+    },
+    "LS": {
+      "status": "visa free"
+    },
+    "LT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LV": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LY": {
+      "status": "e-visa"
+    },
+    "MA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ME": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MG": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MH": {
+      "status": "visa free"
+    },
+    "MK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ML": {
+      "status": "visa required"
+    },
+    "MM": {
+      "status": "e-visa"
+    },
+    "MN": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MO": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MR": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "MT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MW": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MX": {
+      "status": "visa free",
+      "days": 180
+    },
+    "MY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "NA": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "NE": {
+      "status": "visa required"
+    },
+    "NG": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "NI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NP": {
+      "status": "visa on arrival",
+      "days": 150
+    },
+    "NR": {
+      "status": "visa required"
+    },
+    "NZ": {
+      "status": "eta",
+      "days": 90
+    },
+    "OM": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PA": {
+      "status": "visa free",
+      "days": 180
+    },
+    "PE": {
+      "status": "visa free",
+      "days": 180
+    },
+    "PG": {
+      "status": "eta",
+      "days": 60
+    },
+    "PH": {
+      "status": "visa free",
+      "days": 30
+    },
+    "PK": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "PL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PS": {
+      "status": "visa free"
+    },
+    "PT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PW": {
+      "status": "visa free",
+      "days": 360
+    },
+    "PY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "QA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "RO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RU": {
+      "status": "visa required"
+    },
+    "RW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SA": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "SB": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "SC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SD": {
+      "status": "visa required"
+    },
+    "SE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SG": {
+      "status": "visa free",
+      "days": 30
+    },
+    "SI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SN": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SO": {
+      "status": "e-visa"
+    },
+    "SR": {
+      "status": "eta",
+      "days": 90
+    },
+    "SS": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "ST": {
+      "status": "visa free",
+      "days": 15
+    },
+    "SV": {
+      "status": "visa free",
+      "days": 180
+    },
+    "SY": {
+      "status": "e-visa"
+    },
+    "SZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "TD": {
+      "status": "e-visa"
+    },
+    "TG": {
+      "status": "e-visa",
+      "days": 15
+    },
+    "TH": {
+      "status": "visa free",
+      "days": 60
+    },
+    "TJ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "TL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TM": {
+      "status": "visa required"
+    },
+    "TN": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TO": {
+      "status": "visa on arrival",
+      "days": 31
+    },
+    "TR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TW": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TZ": {
+      "status": "visa on arrival"
+    },
+    "UA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UG": {
+      "status": "e-visa"
+    },
+    "UY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UZ": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "VA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VC": {
+      "status": "visa free",
+      "days": 180
+    },
+    "VE": {
+      "status": "visa required"
+    },
+    "VN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "VU": {
+      "status": "visa free",
+      "days": 120
+    },
+    "WS": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "XK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "YE": {
+      "status": "visa required"
+    },
+    "ZA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ZM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ZW": {
+      "status": "visa on arrival",
+      "days": 90
+    }
+  },
+  "UY": {
+    "AD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AF": {
+      "status": "visa required"
+    },
+    "AG": {
+      "status": "e-visa"
+    },
+    "AL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AM": {
+      "status": "visa free",
+      "days": 180
+    },
+    "AO": {
+      "status": "visa free",
+      "days": 30
+    },
+    "AR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AU": {
+      "status": "e-visa"
+    },
+    "AZ": {
+      "status": "visa required"
+    },
+    "BA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BB": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BD": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BF": {
+      "status": "e-visa"
+    },
+    "BG": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BI": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BJ": {
+      "status": "e-visa"
+    },
+    "BN": {
+      "status": "visa required"
+    },
+    "BO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BT": {
+      "status": "e-visa"
+    },
+    "BW": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BY": {
+      "status": "visa free",
+      "days": 30
+    },
+    "BZ": {
+      "status": "visa free"
+    },
+    "CA": {
+      "status": "visa required"
+    },
+    "CD": {
+      "status": "e-visa",
+      "days": 7
+    },
+    "CF": {
+      "status": "visa required"
+    },
+    "CG": {
+      "status": "visa required"
+    },
+    "CH": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CI": {
+      "status": "eta",
+      "days": 90
+    },
+    "CL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CM": {
+      "status": "e-visa"
+    },
+    "CN": {
+      "status": "visa free",
+      "days": 30
+    },
+    "CO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CR": {
+      "status": "visa free",
+      "days": 180
+    },
+    "CU": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "CV": {
+      "status": "visa on arrival"
+    },
+    "CY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CZ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DJ": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "DK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DM": {
+      "status": "visa free",
+      "days": 21
+    },
+    "DO": {
+      "status": "visa free",
+      "days": 30
+    },
+    "DZ": {
+      "status": "visa required"
+    },
+    "EC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EG": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "ER": {
+      "status": "visa required"
+    },
+    "ES": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ET": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "FI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "FJ": {
+      "status": "visa free",
+      "days": 120
+    },
+    "FM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "FR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GA": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GB": {
+      "status": "eta",
+      "days": 180
+    },
+    "GD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GH": {
+      "status": "visa required"
+    },
+    "GM": {
+      "status": "visa required"
+    },
+    "GN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GQ": {
+      "status": "e-visa"
+    },
+    "GR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "GY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HN": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ID": {
+      "status": "e-visa"
+    },
+    "IE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "IL": {
+      "status": "eta",
+      "days": 90
+    },
+    "IN": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "IQ": {
+      "status": "e-visa"
+    },
+    "IR": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "IS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "IT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "JM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "JO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "JP": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KE": {
+      "status": "eta",
+      "days": 90
+    },
+    "KG": {
+      "status": "e-visa"
+    },
+    "KH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "KI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KM": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "KN": {
+      "status": "eta",
+      "days": 90
+    },
+    "KP": {
+      "status": "visa required"
+    },
+    "KR": {
+      "status": "eta",
+      "days": 90
+    },
+    "KW": {
+      "status": "visa required"
+    },
+    "KZ": {
+      "status": "e-visa"
+    },
+    "LA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LB": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LC": {
+      "status": "visa free",
+      "days": 42
+    },
+    "LI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LK": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LR": {
+      "status": "e-visa"
+    },
+    "LS": {
+      "status": "visa required"
+    },
+    "LT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LV": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LY": {
+      "status": "e-visa"
+    },
+    "MA": {
+      "status": "visa required"
+    },
+    "MC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ME": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MG": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MH": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ML": {
+      "status": "visa required"
+    },
+    "MM": {
+      "status": "e-visa"
+    },
+    "MN": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MR": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "MT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MU": {
+      "status": "visa on arrival",
+      "days": 60
+    },
+    "MV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MX": {
+      "status": "visa free",
+      "days": 180
+    },
+    "MY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MZ": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "NA": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "NE": {
+      "status": "visa required"
+    },
+    "NG": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "NI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NP": {
+      "status": "visa on arrival",
+      "days": 150
+    },
+    "NR": {
+      "status": "visa required"
+    },
+    "NZ": {
+      "status": "eta",
+      "days": 90
+    },
+    "OM": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PE": {
+      "status": "visa free",
+      "days": 180
+    },
+    "PG": {
+      "status": "eta",
+      "days": 60
+    },
+    "PH": {
+      "status": "visa free",
+      "days": 30
+    },
+    "PK": {
+      "status": "e-visa"
+    },
+    "PL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PS": {
+      "status": "visa free"
+    },
+    "PT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "QA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "RO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SA": {
+      "status": "e-visa"
+    },
+    "SB": {
+      "status": "visa required"
+    },
+    "SC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SD": {
+      "status": "visa required"
+    },
+    "SE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SG": {
+      "status": "visa free",
+      "days": 30
+    },
+    "SI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SL": {
+      "status": "e-visa"
+    },
+    "SM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SN": {
+      "status": "visa required"
+    },
+    "SO": {
+      "status": "e-visa"
+    },
+    "SR": {
+      "status": "eta",
+      "days": 90
+    },
+    "SS": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "ST": {
+      "status": "e-visa"
+    },
+    "SV": {
+      "status": "visa free",
+      "days": 180
+    },
+    "SY": {
+      "status": "e-visa"
+    },
+    "SZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "TD": {
+      "status": "e-visa"
+    },
+    "TG": {
+      "status": "e-visa",
+      "days": 15
+    },
+    "TH": {
+      "status": "visa free",
+      "days": 60
+    },
+    "TJ": {
+      "status": "e-visa"
+    },
+    "TL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TM": {
+      "status": "visa required"
+    },
+    "TN": {
+      "status": "visa required"
+    },
+    "TO": {
+      "status": "visa required"
+    },
+    "TR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TW": {
+      "status": "visa required"
+    },
+    "TZ": {
+      "status": "visa on arrival"
+    },
+    "UA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UG": {
+      "status": "e-visa"
+    },
+    "US": {
+      "status": "visa required"
+    },
+    "UZ": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "VA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "VU": {
+      "status": "visa free",
+      "days": 120
+    },
+    "WS": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "XK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "YE": {
+      "status": "visa required"
+    },
+    "ZA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ZM": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "ZW": {
+      "status": "visa on arrival",
+      "days": 90
+    }
+  },
+  "UZ": {
+    "AD": {
+      "status": "visa required"
+    },
+    "AE": {
+      "status": "visa free",
+      "days": 30
+    },
+    "AF": {
+      "status": "visa required"
+    },
+    "AG": {
+      "status": "visa free",
+      "days": 180
+    },
+    "AL": {
+      "status": "e-visa"
+    },
+    "AM": {
+      "status": "visa free",
+      "days": 180
+    },
+    "AO": {
+      "status": "visa required"
+    },
+    "AR": {
+      "status": "visa required"
+    },
+    "AT": {
+      "status": "visa required"
+    },
+    "AU": {
+      "status": "e-visa"
+    },
+    "AZ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BA": {
+      "status": "visa required"
+    },
+    "BB": {
+      "status": "visa free",
+      "days": 28
+    },
+    "BD": {
+      "status": "visa required"
+    },
+    "BE": {
+      "status": "visa required"
+    },
+    "BF": {
+      "status": "e-visa"
+    },
+    "BG": {
+      "status": "visa required"
+    },
+    "BH": {
+      "status": "e-visa"
+    },
+    "BI": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BJ": {
+      "status": "e-visa"
+    },
+    "BN": {
+      "status": "visa required"
+    },
+    "BO": {
+      "status": "e-visa"
+    },
+    "BR": {
+      "status": "visa required"
+    },
+    "BS": {
+      "status": "e-visa"
+    },
+    "BT": {
+      "status": "e-visa"
+    },
+    "BW": {
+      "status": "e-visa"
+    },
+    "BY": {
+      "status": "visa free"
+    },
+    "BZ": {
+      "status": "visa required"
+    },
+    "CA": {
+      "status": "visa required"
+    },
+    "CD": {
+      "status": "e-visa",
+      "days": 7
+    },
+    "CF": {
+      "status": "visa required"
+    },
+    "CG": {
+      "status": "visa required"
+    },
+    "CH": {
+      "status": "visa required"
+    },
+    "CI": {
+      "status": "eta",
+      "days": 90
+    },
+    "CL": {
+      "status": "visa required"
+    },
+    "CM": {
+      "status": "e-visa"
+    },
+    "CN": {
+      "status": "visa free",
+      "days": 30
+    },
+    "CO": {
+      "status": "e-visa"
+    },
+    "CR": {
+      "status": "visa required"
+    },
+    "CU": {
+      "status": "visa required"
+    },
+    "CV": {
+      "status": "visa on arrival"
+    },
+    "CY": {
+      "status": "visa required"
+    },
+    "CZ": {
+      "status": "visa required"
+    },
+    "DE": {
+      "status": "visa required"
+    },
+    "DJ": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "DK": {
+      "status": "visa required"
+    },
+    "DM": {
+      "status": "visa free",
+      "days": 21
+    },
+    "DO": {
+      "status": "visa required"
+    },
+    "DZ": {
+      "status": "visa required"
+    },
+    "EC": {
+      "status": "e-visa"
+    },
+    "EE": {
+      "status": "visa required"
+    },
+    "EG": {
+      "status": "visa required"
+    },
+    "ER": {
+      "status": "visa required"
+    },
+    "ES": {
+      "status": "visa required"
+    },
+    "ET": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "FI": {
+      "status": "visa required"
+    },
+    "FJ": {
+      "status": "visa required"
+    },
+    "FM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "FR": {
+      "status": "visa required"
+    },
+    "GA": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GB": {
+      "status": "visa required"
+    },
+    "GD": {
+      "status": "visa free"
+    },
+    "GE": {
+      "status": "visa free",
+      "days": 360
+    },
+    "GH": {
+      "status": "visa required"
+    },
+    "GM": {
+      "status": "visa required"
+    },
+    "GN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GQ": {
+      "status": "e-visa"
+    },
+    "GR": {
+      "status": "visa required"
+    },
+    "GT": {
+      "status": "visa required"
+    },
+    "GW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "GY": {
+      "status": "e-visa"
+    },
+    "HK": {
+      "status": "e-visa"
+    },
+    "HN": {
+      "status": "visa required"
+    },
+    "HR": {
+      "status": "visa required"
+    },
+    "HT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HU": {
+      "status": "visa required"
+    },
+    "ID": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "IE": {
+      "status": "visa required"
+    },
+    "IL": {
+      "status": "e-visa"
+    },
+    "IN": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "IQ": {
+      "status": "e-visa"
+    },
+    "IR": {
+      "status": "visa free",
+      "days": 15
+    },
+    "IS": {
+      "status": "visa required"
+    },
+    "IT": {
+      "status": "visa required"
+    },
+    "JM": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "JO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "JP": {
+      "status": "visa required"
+    },
+    "KE": {
+      "status": "eta",
+      "days": 90
+    },
+    "KG": {
+      "status": "visa free",
+      "days": 60
+    },
+    "KH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "KI": {
+      "status": "visa required"
+    },
+    "KM": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "KN": {
+      "status": "e-visa"
+    },
+    "KP": {
+      "status": "visa required"
+    },
+    "KR": {
+      "status": "e-visa"
+    },
+    "KW": {
+      "status": "visa required"
+    },
+    "KZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "LA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LB": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LC": {
+      "status": "visa required"
+    },
+    "LI": {
+      "status": "visa required"
+    },
+    "LK": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LR": {
+      "status": "e-visa"
+    },
+    "LS": {
+      "status": "visa required"
+    },
+    "LT": {
+      "status": "visa required"
+    },
+    "LU": {
+      "status": "visa required"
+    },
+    "LV": {
+      "status": "visa required"
+    },
+    "LY": {
+      "status": "e-visa"
+    },
+    "MA": {
+      "status": "visa required"
+    },
+    "MC": {
+      "status": "visa required"
+    },
+    "MD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ME": {
+      "status": "visa required"
+    },
+    "MG": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MH": {
+      "status": "visa required"
+    },
+    "MK": {
+      "status": "visa required"
+    },
+    "ML": {
+      "status": "visa required"
+    },
+    "MM": {
+      "status": "e-visa"
+    },
+    "MN": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MR": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "MT": {
+      "status": "visa required"
+    },
+    "MU": {
+      "status": "visa on arrival",
+      "days": 60
+    },
+    "MV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MW": {
+      "status": "e-visa"
+    },
+    "MX": {
+      "status": "visa required"
+    },
+    "MY": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MZ": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "NA": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "NE": {
+      "status": "visa required"
+    },
+    "NG": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "NI": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "NL": {
+      "status": "visa required"
+    },
+    "NO": {
+      "status": "visa required"
+    },
+    "NP": {
+      "status": "visa on arrival",
+      "days": 150
+    },
+    "NR": {
+      "status": "visa required"
+    },
+    "NZ": {
+      "status": "visa required"
+    },
+    "OM": {
+      "status": "visa free",
+      "days": 14
+    },
+    "PA": {
+      "status": "visa required"
+    },
+    "PE": {
+      "status": "visa required"
+    },
+    "PG": {
+      "status": "e-visa"
+    },
+    "PH": {
+      "status": "visa free",
+      "days": 30
+    },
+    "PK": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "PL": {
+      "status": "visa required"
+    },
+    "PS": {
+      "status": "visa free"
+    },
+    "PT": {
+      "status": "visa required"
+    },
+    "PW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PY": {
+      "status": "visa required"
+    },
+    "QA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "RO": {
+      "status": "visa required"
+    },
+    "RS": {
+      "status": "visa required"
+    },
+    "RU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SA": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "SB": {
+      "status": "visa required"
+    },
+    "SC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SD": {
+      "status": "visa required"
+    },
+    "SE": {
+      "status": "visa required"
+    },
+    "SG": {
+      "status": "e-visa"
+    },
+    "SI": {
+      "status": "visa required"
+    },
+    "SK": {
+      "status": "visa required"
+    },
+    "SL": {
+      "status": "e-visa"
+    },
+    "SM": {
+      "status": "visa required"
+    },
+    "SN": {
+      "status": "visa required"
+    },
+    "SO": {
+      "status": "e-visa"
+    },
+    "SR": {
+      "status": "eta",
+      "days": 90
+    },
+    "SS": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "ST": {
+      "status": "e-visa"
+    },
+    "SV": {
+      "status": "e-visa"
+    },
+    "SY": {
+      "status": "visa on arrival",
+      "days": 15
+    },
+    "SZ": {
+      "status": "visa required"
+    },
+    "TD": {
+      "status": "e-visa"
+    },
+    "TG": {
+      "status": "e-visa",
+      "days": 15
+    },
+    "TH": {
+      "status": "visa free",
+      "days": 60
+    },
+    "TJ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "TL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TM": {
+      "status": "visa required"
+    },
+    "TN": {
+      "status": "visa required"
+    },
+    "TO": {
+      "status": "visa required"
+    },
+    "TR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TT": {
+      "status": "visa required"
+    },
+    "TV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TW": {
+      "status": "visa required"
+    },
+    "TZ": {
+      "status": "e-visa"
+    },
+    "UA": {
+      "status": "visa free"
+    },
+    "UG": {
+      "status": "e-visa"
+    },
+    "US": {
+      "status": "visa required"
+    },
+    "UY": {
+      "status": "visa required"
+    },
+    "VA": {
+      "status": "visa required"
+    },
+    "VC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VE": {
+      "status": "visa required"
+    },
+    "VN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "VU": {
+      "status": "e-visa"
+    },
+    "WS": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "XK": {
+      "status": "visa required"
+    },
+    "YE": {
+      "status": "visa required"
+    },
+    "ZA": {
+      "status": "visa required"
+    },
+    "ZM": {
+      "status": "e-visa"
+    },
+    "ZW": {
+      "status": "visa on arrival",
+      "days": 90
+    }
+  },
+  "VA": {
+    "AD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AE": {
+      "status": "visa free",
+      "days": 30
+    },
+    "AF": {
+      "status": "visa required"
+    },
+    "AG": {
+      "status": "visa free",
+      "days": 180
+    },
+    "AL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AM": {
+      "status": "visa free",
+      "days": 180
+    },
+    "AO": {
+      "status": "visa free",
+      "days": 30
+    },
+    "AR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AU": {
+      "status": "eta",
+      "days": 90
+    },
+    "AZ": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "BA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BB": {
+      "status": "visa required"
+    },
+    "BD": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BF": {
+      "status": "e-visa"
+    },
+    "BG": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BI": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BJ": {
+      "status": "e-visa"
+    },
+    "BN": {
+      "status": "visa required"
+    },
+    "BO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BT": {
+      "status": "e-visa"
+    },
+    "BW": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BY": {
+      "status": "visa free",
+      "days": 30
+    },
+    "BZ": {
+      "status": "visa free"
+    },
+    "CA": {
+      "status": "eta",
+      "days": 180
+    },
+    "CD": {
+      "status": "e-visa",
+      "days": 7
+    },
+    "CF": {
+      "status": "visa required"
+    },
+    "CG": {
+      "status": "visa required"
+    },
+    "CH": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CI": {
+      "status": "eta",
+      "days": 90
+    },
+    "CL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CM": {
+      "status": "e-visa"
+    },
+    "CN": {
+      "status": "visa required"
+    },
+    "CO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CR": {
+      "status": "visa free",
+      "days": 180
+    },
+    "CU": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "CV": {
+      "status": "visa free",
+      "days": 30
+    },
+    "CY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CZ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DJ": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "DK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DM": {
+      "status": "visa free",
+      "days": 21
+    },
+    "DO": {
+      "status": "visa free",
+      "days": 30
+    },
+    "DZ": {
+      "status": "visa required"
+    },
+    "EC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EG": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "ER": {
+      "status": "visa required"
+    },
+    "ES": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ET": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "FI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "FJ": {
+      "status": "visa free",
+      "days": 120
+    },
+    "FM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "FR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GA": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GB": {
+      "status": "eta",
+      "days": 180
+    },
+    "GD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GE": {
+      "status": "visa free",
+      "days": 360
+    },
+    "GH": {
+      "status": "visa required"
+    },
+    "GM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GQ": {
+      "status": "e-visa"
+    },
+    "GR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "GY": {
+      "status": "e-visa"
+    },
+    "HK": {
+      "status": "visa free",
+      "days": 14
+    },
+    "HN": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ID": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "IE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "IL": {
+      "status": "eta",
+      "days": 90
+    },
+    "IN": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "IQ": {
+      "status": "e-visa"
+    },
+    "IR": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "IS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "IT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "JM": {
+      "status": "visa required"
+    },
+    "JO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "JP": {
+      "status": "visa required"
+    },
+    "KE": {
+      "status": "eta",
+      "days": 90
+    },
+    "KG": {
+      "status": "visa free",
+      "days": 60
+    },
+    "KH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "KI": {
+      "status": "visa required"
+    },
+    "KM": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "KN": {
+      "status": "eta",
+      "days": 90
+    },
+    "KP": {
+      "status": "visa required"
+    },
+    "KR": {
+      "status": "visa free",
+      "days": 30
+    },
+    "KW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "KZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "LA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LB": {
+      "status": "visa required"
+    },
+    "LC": {
+      "status": "visa required"
+    },
+    "LI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LK": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LR": {
+      "status": "e-visa"
+    },
+    "LS": {
+      "status": "visa required"
+    },
+    "LT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LV": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LY": {
+      "status": "e-visa"
+    },
+    "MA": {
+      "status": "visa required"
+    },
+    "MC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ME": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MG": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MH": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ML": {
+      "status": "visa required"
+    },
+    "MM": {
+      "status": "visa required"
+    },
+    "MN": {
+      "status": "e-visa"
+    },
+    "MO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MR": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "MT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MX": {
+      "status": "visa required"
+    },
+    "MY": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MZ": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "NA": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "NE": {
+      "status": "visa required"
+    },
+    "NG": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "NI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NP": {
+      "status": "visa on arrival",
+      "days": 150
+    },
+    "NR": {
+      "status": "visa required"
+    },
+    "NZ": {
+      "status": "eta",
+      "days": 90
+    },
+    "OM": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PE": {
+      "status": "visa free",
+      "days": 180
+    },
+    "PG": {
+      "status": "eta",
+      "days": 60
+    },
+    "PH": {
+      "status": "visa free",
+      "days": 30
+    },
+    "PK": {
+      "status": "e-visa"
+    },
+    "PL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PS": {
+      "status": "visa free"
+    },
+    "PT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PY": {
+      "status": "visa required"
+    },
+    "QA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "RO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RU": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "RW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SA": {
+      "status": "visa required"
+    },
+    "SB": {
+      "status": "visa required"
+    },
+    "SC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SD": {
+      "status": "visa required"
+    },
+    "SE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SG": {
+      "status": "visa free",
+      "days": 30
+    },
+    "SI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SL": {
+      "status": "e-visa"
+    },
+    "SM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SN": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SO": {
+      "status": "e-visa"
+    },
+    "SR": {
+      "status": "eta",
+      "days": 90
+    },
+    "SS": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "ST": {
+      "status": "visa free",
+      "days": 15
+    },
+    "SV": {
+      "status": "visa free",
+      "days": 180
+    },
+    "SY": {
+      "status": "e-visa"
+    },
+    "SZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "TD": {
+      "status": "e-visa"
+    },
+    "TG": {
+      "status": "e-visa",
+      "days": 15
+    },
+    "TH": {
+      "status": "e-visa"
+    },
+    "TJ": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "TL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TM": {
+      "status": "visa required"
+    },
+    "TN": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TO": {
+      "status": "visa required"
+    },
+    "TR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TT": {
+      "status": "visa required"
+    },
+    "TV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TW": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TZ": {
+      "status": "visa on arrival"
+    },
+    "UA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UG": {
+      "status": "e-visa"
+    },
+    "US": {
+      "status": "visa required"
+    },
+    "UY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "VC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VE": {
+      "status": "visa required"
+    },
+    "VN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "VU": {
+      "status": "visa free",
+      "days": 120
+    },
+    "WS": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "XK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "YE": {
+      "status": "visa required"
+    },
+    "ZA": {
+      "status": "visa required"
+    },
+    "ZM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ZW": {
+      "status": "visa on arrival",
       "days": 90
     }
   },
@@ -125497,6 +132080,2066 @@
       "days": 90
     }
   },
+  "VE": {
+    "AD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AE": {
+      "status": "e-visa"
+    },
+    "AF": {
+      "status": "visa required"
+    },
+    "AG": {
+      "status": "visa free",
+      "days": 180
+    },
+    "AL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AM": {
+      "status": "e-visa",
+      "days": 120
+    },
+    "AO": {
+      "status": "visa required"
+    },
+    "AR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AU": {
+      "status": "e-visa"
+    },
+    "AZ": {
+      "status": "visa required"
+    },
+    "BA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BB": {
+      "status": "visa free",
+      "days": 28
+    },
+    "BD": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BF": {
+      "status": "e-visa"
+    },
+    "BG": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BI": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BJ": {
+      "status": "e-visa"
+    },
+    "BN": {
+      "status": "visa required"
+    },
+    "BO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BR": {
+      "status": "visa free",
+      "days": 60
+    },
+    "BS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BT": {
+      "status": "e-visa"
+    },
+    "BW": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BZ": {
+      "status": "visa required"
+    },
+    "CA": {
+      "status": "visa required"
+    },
+    "CD": {
+      "status": "e-visa",
+      "days": 7
+    },
+    "CF": {
+      "status": "visa required"
+    },
+    "CG": {
+      "status": "visa required"
+    },
+    "CH": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CI": {
+      "status": "eta",
+      "days": 90
+    },
+    "CL": {
+      "status": "visa required"
+    },
+    "CM": {
+      "status": "e-visa"
+    },
+    "CN": {
+      "status": "visa required"
+    },
+    "CO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CR": {
+      "status": "visa required"
+    },
+    "CU": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "CV": {
+      "status": "visa on arrival"
+    },
+    "CY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CZ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DJ": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "DK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DM": {
+      "status": "visa free",
+      "days": 180
+    },
+    "DO": {
+      "status": "visa required"
+    },
+    "DZ": {
+      "status": "visa required"
+    },
+    "EC": {
+      "status": "e-visa"
+    },
+    "EE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EG": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "ER": {
+      "status": "visa required"
+    },
+    "ES": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ET": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "FI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "FJ": {
+      "status": "visa free",
+      "days": 120
+    },
+    "FM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "FR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GA": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GB": {
+      "status": "visa required"
+    },
+    "GD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GE": {
+      "status": "visa required"
+    },
+    "GH": {
+      "status": "visa required"
+    },
+    "GM": {
+      "status": "visa required"
+    },
+    "GN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GQ": {
+      "status": "e-visa"
+    },
+    "GR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GT": {
+      "status": "visa required"
+    },
+    "GW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "GY": {
+      "status": "e-visa"
+    },
+    "HK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HN": {
+      "status": "visa required"
+    },
+    "HR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ID": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "IE": {
+      "status": "visa required"
+    },
+    "IL": {
+      "status": "e-visa"
+    },
+    "IN": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "IQ": {
+      "status": "e-visa"
+    },
+    "IR": {
+      "status": "visa free",
+      "days": 15
+    },
+    "IS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "IT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "JM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "JO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "JP": {
+      "status": "visa required"
+    },
+    "KE": {
+      "status": "eta",
+      "days": 90
+    },
+    "KG": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "KH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "KI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KM": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "KN": {
+      "status": "eta",
+      "days": 90
+    },
+    "KP": {
+      "status": "visa required"
+    },
+    "KR": {
+      "status": "eta",
+      "days": 90
+    },
+    "KW": {
+      "status": "visa required"
+    },
+    "KZ": {
+      "status": "e-visa"
+    },
+    "LA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LB": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LC": {
+      "status": "visa required"
+    },
+    "LI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LK": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LR": {
+      "status": "e-visa"
+    },
+    "LS": {
+      "status": "visa required"
+    },
+    "LT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LV": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LY": {
+      "status": "e-visa"
+    },
+    "MA": {
+      "status": "visa required"
+    },
+    "MC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ME": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MG": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MH": {
+      "status": "visa required"
+    },
+    "MK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ML": {
+      "status": "visa required"
+    },
+    "MM": {
+      "status": "e-visa"
+    },
+    "MN": {
+      "status": "e-visa"
+    },
+    "MO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MR": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "MT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MU": {
+      "status": "visa on arrival",
+      "days": 60
+    },
+    "MV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MX": {
+      "status": "visa required"
+    },
+    "MY": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MZ": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "NA": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "NE": {
+      "status": "visa required"
+    },
+    "NG": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "NI": {
+      "status": "visa required"
+    },
+    "NL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NP": {
+      "status": "visa on arrival",
+      "days": 150
+    },
+    "NR": {
+      "status": "visa required"
+    },
+    "NZ": {
+      "status": "visa required"
+    },
+    "OM": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PA": {
+      "status": "visa required"
+    },
+    "PE": {
+      "status": "visa required"
+    },
+    "PG": {
+      "status": "e-visa"
+    },
+    "PH": {
+      "status": "visa free",
+      "days": 30
+    },
+    "PK": {
+      "status": "e-visa"
+    },
+    "PL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PS": {
+      "status": "visa free"
+    },
+    "PT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "QA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "RO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SA": {
+      "status": "e-visa"
+    },
+    "SB": {
+      "status": "visa required"
+    },
+    "SC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SD": {
+      "status": "visa required"
+    },
+    "SE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SG": {
+      "status": "visa free",
+      "days": 30
+    },
+    "SI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SL": {
+      "status": "e-visa"
+    },
+    "SM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SN": {
+      "status": "visa required"
+    },
+    "SO": {
+      "status": "e-visa"
+    },
+    "SR": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "SS": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "ST": {
+      "status": "e-visa"
+    },
+    "SV": {
+      "status": "e-visa"
+    },
+    "SY": {
+      "status": "e-visa"
+    },
+    "SZ": {
+      "status": "visa required"
+    },
+    "TD": {
+      "status": "e-visa"
+    },
+    "TG": {
+      "status": "e-visa",
+      "days": 15
+    },
+    "TH": {
+      "status": "visa on arrival",
+      "days": 15
+    },
+    "TJ": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "TL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TM": {
+      "status": "visa required"
+    },
+    "TN": {
+      "status": "visa required"
+    },
+    "TO": {
+      "status": "visa required"
+    },
+    "TR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TT": {
+      "status": "visa required"
+    },
+    "TV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TW": {
+      "status": "visa required"
+    },
+    "TZ": {
+      "status": "visa on arrival"
+    },
+    "UA": {
+      "status": "visa required"
+    },
+    "UG": {
+      "status": "e-visa"
+    },
+    "US": {
+      "status": "visa required"
+    },
+    "UY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UZ": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "VA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "VU": {
+      "status": "e-visa"
+    },
+    "WS": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "XK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "YE": {
+      "status": "visa required"
+    },
+    "ZA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ZM": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "ZW": {
+      "status": "visa on arrival",
+      "days": 90
+    }
+  },
+  "VN": {
+    "AD": {
+      "status": "visa required"
+    },
+    "AE": {
+      "status": "e-visa"
+    },
+    "AF": {
+      "status": "visa required"
+    },
+    "AG": {
+      "status": "e-visa"
+    },
+    "AL": {
+      "status": "e-visa"
+    },
+    "AM": {
+      "status": "e-visa",
+      "days": 120
+    },
+    "AO": {
+      "status": "visa required"
+    },
+    "AR": {
+      "status": "visa required"
+    },
+    "AT": {
+      "status": "visa required"
+    },
+    "AU": {
+      "status": "e-visa"
+    },
+    "AZ": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "BA": {
+      "status": "visa required"
+    },
+    "BB": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BD": {
+      "status": "visa required"
+    },
+    "BE": {
+      "status": "visa required"
+    },
+    "BF": {
+      "status": "e-visa"
+    },
+    "BG": {
+      "status": "visa required"
+    },
+    "BH": {
+      "status": "e-visa"
+    },
+    "BI": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BJ": {
+      "status": "e-visa"
+    },
+    "BN": {
+      "status": "visa free",
+      "days": 14
+    },
+    "BO": {
+      "status": "e-visa"
+    },
+    "BR": {
+      "status": "visa required"
+    },
+    "BS": {
+      "status": "e-visa"
+    },
+    "BT": {
+      "status": "e-visa"
+    },
+    "BW": {
+      "status": "e-visa"
+    },
+    "BY": {
+      "status": "visa free",
+      "days": 30
+    },
+    "BZ": {
+      "status": "visa required"
+    },
+    "CA": {
+      "status": "visa required"
+    },
+    "CD": {
+      "status": "e-visa",
+      "days": 7
+    },
+    "CF": {
+      "status": "visa required"
+    },
+    "CG": {
+      "status": "visa required"
+    },
+    "CH": {
+      "status": "visa required"
+    },
+    "CI": {
+      "status": "eta",
+      "days": 90
+    },
+    "CL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CM": {
+      "status": "e-visa"
+    },
+    "CN": {
+      "status": "visa required"
+    },
+    "CO": {
+      "status": "e-visa"
+    },
+    "CR": {
+      "status": "visa required"
+    },
+    "CU": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "CV": {
+      "status": "visa on arrival"
+    },
+    "CY": {
+      "status": "visa required"
+    },
+    "CZ": {
+      "status": "visa required"
+    },
+    "DE": {
+      "status": "visa required"
+    },
+    "DJ": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "DK": {
+      "status": "visa required"
+    },
+    "DM": {
+      "status": "visa free",
+      "days": 21
+    },
+    "DO": {
+      "status": "visa required"
+    },
+    "DZ": {
+      "status": "visa required"
+    },
+    "EC": {
+      "status": "e-visa"
+    },
+    "EE": {
+      "status": "visa required"
+    },
+    "EG": {
+      "status": "visa required"
+    },
+    "ER": {
+      "status": "visa required"
+    },
+    "ES": {
+      "status": "visa required"
+    },
+    "ET": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "FI": {
+      "status": "visa required"
+    },
+    "FJ": {
+      "status": "visa required"
+    },
+    "FM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "FR": {
+      "status": "visa required"
+    },
+    "GA": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GB": {
+      "status": "visa required"
+    },
+    "GD": {
+      "status": "visa required"
+    },
+    "GE": {
+      "status": "e-visa"
+    },
+    "GH": {
+      "status": "visa required"
+    },
+    "GM": {
+      "status": "visa required"
+    },
+    "GN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GQ": {
+      "status": "e-visa"
+    },
+    "GR": {
+      "status": "visa required"
+    },
+    "GT": {
+      "status": "visa required"
+    },
+    "GW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "GY": {
+      "status": "e-visa"
+    },
+    "HK": {
+      "status": "e-visa"
+    },
+    "HN": {
+      "status": "visa required"
+    },
+    "HR": {
+      "status": "visa required"
+    },
+    "HT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HU": {
+      "status": "visa required"
+    },
+    "ID": {
+      "status": "visa free",
+      "days": 30
+    },
+    "IE": {
+      "status": "visa required"
+    },
+    "IL": {
+      "status": "e-visa"
+    },
+    "IN": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "IQ": {
+      "status": "e-visa"
+    },
+    "IR": {
+      "status": "visa free",
+      "days": 15
+    },
+    "IS": {
+      "status": "visa required"
+    },
+    "IT": {
+      "status": "visa required"
+    },
+    "JM": {
+      "status": "visa required"
+    },
+    "JO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "JP": {
+      "status": "e-visa"
+    },
+    "KE": {
+      "status": "eta",
+      "days": 90
+    },
+    "KG": {
+      "status": "visa free",
+      "days": 60
+    },
+    "KH": {
+      "status": "visa free",
+      "days": 30
+    },
+    "KI": {
+      "status": "visa required"
+    },
+    "KM": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "KN": {
+      "status": "e-visa"
+    },
+    "KP": {
+      "status": "visa required"
+    },
+    "KR": {
+      "status": "e-visa"
+    },
+    "KW": {
+      "status": "visa required"
+    },
+    "KZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "LA": {
+      "status": "visa free",
+      "days": 30
+    },
+    "LB": {
+      "status": "visa required"
+    },
+    "LC": {
+      "status": "visa on arrival",
+      "days": 42
+    },
+    "LI": {
+      "status": "visa required"
+    },
+    "LK": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LR": {
+      "status": "e-visa"
+    },
+    "LS": {
+      "status": "visa required"
+    },
+    "LT": {
+      "status": "visa required"
+    },
+    "LU": {
+      "status": "visa required"
+    },
+    "LV": {
+      "status": "visa required"
+    },
+    "LY": {
+      "status": "e-visa"
+    },
+    "MA": {
+      "status": "visa required"
+    },
+    "MC": {
+      "status": "visa required"
+    },
+    "MD": {
+      "status": "e-visa"
+    },
+    "ME": {
+      "status": "visa required"
+    },
+    "MG": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MH": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MK": {
+      "status": "visa required"
+    },
+    "ML": {
+      "status": "visa required"
+    },
+    "MM": {
+      "status": "visa free",
+      "days": 14
+    },
+    "MN": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MO": {
+      "status": "visa required"
+    },
+    "MR": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "MT": {
+      "status": "visa required"
+    },
+    "MU": {
+      "status": "visa on arrival",
+      "days": 60
+    },
+    "MV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MX": {
+      "status": "visa required"
+    },
+    "MY": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MZ": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "NA": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "NE": {
+      "status": "visa required"
+    },
+    "NG": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "NI": {
+      "status": "visa required"
+    },
+    "NL": {
+      "status": "visa required"
+    },
+    "NO": {
+      "status": "visa required"
+    },
+    "NP": {
+      "status": "visa on arrival",
+      "days": 150
+    },
+    "NR": {
+      "status": "visa required"
+    },
+    "NZ": {
+      "status": "visa required"
+    },
+    "OM": {
+      "status": "e-visa"
+    },
+    "PA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PE": {
+      "status": "visa required"
+    },
+    "PG": {
+      "status": "eta",
+      "days": 30
+    },
+    "PH": {
+      "status": "visa free",
+      "days": 30
+    },
+    "PK": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "PL": {
+      "status": "visa required"
+    },
+    "PS": {
+      "status": "visa free"
+    },
+    "PT": {
+      "status": "visa required"
+    },
+    "PW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PY": {
+      "status": "visa required"
+    },
+    "QA": {
+      "status": "e-visa"
+    },
+    "RO": {
+      "status": "visa required"
+    },
+    "RS": {
+      "status": "visa required"
+    },
+    "RU": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "RW": {
+      "status": "visa free",
+      "days": 30
+    },
+    "SA": {
+      "status": "e-visa"
+    },
+    "SB": {
+      "status": "visa required"
+    },
+    "SC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SD": {
+      "status": "visa required"
+    },
+    "SE": {
+      "status": "visa required"
+    },
+    "SG": {
+      "status": "visa free",
+      "days": 30
+    },
+    "SI": {
+      "status": "visa required"
+    },
+    "SK": {
+      "status": "visa required"
+    },
+    "SL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SM": {
+      "status": "visa required"
+    },
+    "SN": {
+      "status": "visa required"
+    },
+    "SO": {
+      "status": "e-visa"
+    },
+    "SR": {
+      "status": "eta",
+      "days": 90
+    },
+    "SS": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "ST": {
+      "status": "e-visa"
+    },
+    "SV": {
+      "status": "e-visa"
+    },
+    "SY": {
+      "status": "e-visa"
+    },
+    "SZ": {
+      "status": "visa required"
+    },
+    "TD": {
+      "status": "e-visa"
+    },
+    "TG": {
+      "status": "e-visa",
+      "days": 15
+    },
+    "TH": {
+      "status": "visa free",
+      "days": 60
+    },
+    "TJ": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "TL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TM": {
+      "status": "visa required"
+    },
+    "TN": {
+      "status": "visa required"
+    },
+    "TO": {
+      "status": "visa required"
+    },
+    "TR": {
+      "status": "visa required"
+    },
+    "TT": {
+      "status": "visa required"
+    },
+    "TV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TW": {
+      "status": "eta",
+      "days": 30
+    },
+    "TZ": {
+      "status": "visa on arrival"
+    },
+    "UA": {
+      "status": "visa required"
+    },
+    "UG": {
+      "status": "e-visa"
+    },
+    "US": {
+      "status": "visa required"
+    },
+    "UY": {
+      "status": "visa required"
+    },
+    "UZ": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "VA": {
+      "status": "visa required"
+    },
+    "VC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VE": {
+      "status": "visa required"
+    },
+    "VU": {
+      "status": "e-visa"
+    },
+    "WS": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "XK": {
+      "status": "visa required"
+    },
+    "YE": {
+      "status": "visa required"
+    },
+    "ZA": {
+      "status": "visa required"
+    },
+    "ZM": {
+      "status": "e-visa"
+    },
+    "ZW": {
+      "status": "e-visa"
+    }
+  },
+  "VU": {
+    "AD": {
+      "status": "visa required"
+    },
+    "AE": {
+      "status": "e-visa"
+    },
+    "AF": {
+      "status": "visa required"
+    },
+    "AG": {
+      "status": "visa free",
+      "days": 180
+    },
+    "AL": {
+      "status": "e-visa"
+    },
+    "AM": {
+      "status": "e-visa",
+      "days": 120
+    },
+    "AO": {
+      "status": "visa free",
+      "days": 30
+    },
+    "AR": {
+      "status": "visa required"
+    },
+    "AT": {
+      "status": "visa required"
+    },
+    "AU": {
+      "status": "e-visa"
+    },
+    "AZ": {
+      "status": "visa required"
+    },
+    "BA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BB": {
+      "status": "visa free",
+      "days": 180
+    },
+    "BD": {
+      "status": "visa required"
+    },
+    "BE": {
+      "status": "visa required"
+    },
+    "BF": {
+      "status": "e-visa"
+    },
+    "BG": {
+      "status": "visa required"
+    },
+    "BH": {
+      "status": "e-visa"
+    },
+    "BI": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BJ": {
+      "status": "e-visa"
+    },
+    "BN": {
+      "status": "visa required"
+    },
+    "BO": {
+      "status": "e-visa"
+    },
+    "BR": {
+      "status": "visa required"
+    },
+    "BS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BT": {
+      "status": "e-visa"
+    },
+    "BW": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BY": {
+      "status": "visa free",
+      "days": 30
+    },
+    "BZ": {
+      "status": "visa free"
+    },
+    "CA": {
+      "status": "visa required"
+    },
+    "CD": {
+      "status": "e-visa",
+      "days": 7
+    },
+    "CF": {
+      "status": "visa required"
+    },
+    "CG": {
+      "status": "visa required"
+    },
+    "CH": {
+      "status": "visa required"
+    },
+    "CI": {
+      "status": "eta",
+      "days": 90
+    },
+    "CL": {
+      "status": "visa required"
+    },
+    "CM": {
+      "status": "e-visa"
+    },
+    "CN": {
+      "status": "visa required"
+    },
+    "CO": {
+      "status": "e-visa"
+    },
+    "CR": {
+      "status": "visa free",
+      "days": 30
+    },
+    "CU": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "CV": {
+      "status": "visa on arrival"
+    },
+    "CY": {
+      "status": "visa required"
+    },
+    "CZ": {
+      "status": "visa required"
+    },
+    "DE": {
+      "status": "visa required"
+    },
+    "DJ": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "DK": {
+      "status": "visa required"
+    },
+    "DM": {
+      "status": "visa free",
+      "days": 180
+    },
+    "DO": {
+      "status": "visa free",
+      "days": 30
+    },
+    "DZ": {
+      "status": "visa required"
+    },
+    "EC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EE": {
+      "status": "visa required"
+    },
+    "EG": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "ER": {
+      "status": "visa required"
+    },
+    "ES": {
+      "status": "visa required"
+    },
+    "ET": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "FI": {
+      "status": "visa required"
+    },
+    "FJ": {
+      "status": "visa free",
+      "days": 120
+    },
+    "FM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "FR": {
+      "status": "visa required"
+    },
+    "GA": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GB": {
+      "status": "visa required"
+    },
+    "GD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GE": {
+      "status": "e-visa"
+    },
+    "GH": {
+      "status": "visa required"
+    },
+    "GM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GQ": {
+      "status": "e-visa"
+    },
+    "GR": {
+      "status": "visa required"
+    },
+    "GT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "GY": {
+      "status": "e-visa"
+    },
+    "HK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HN": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HR": {
+      "status": "visa required"
+    },
+    "HT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HU": {
+      "status": "visa required"
+    },
+    "ID": {
+      "status": "e-visa"
+    },
+    "IE": {
+      "status": "visa required"
+    },
+    "IL": {
+      "status": "eta",
+      "days": 90
+    },
+    "IN": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "IQ": {
+      "status": "e-visa"
+    },
+    "IR": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "IS": {
+      "status": "visa required"
+    },
+    "IT": {
+      "status": "visa required"
+    },
+    "JM": {
+      "status": "visa free"
+    },
+    "JO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "JP": {
+      "status": "visa required"
+    },
+    "KE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KG": {
+      "status": "e-visa"
+    },
+    "KH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "KI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KM": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "KN": {
+      "status": "eta",
+      "days": 90
+    },
+    "KP": {
+      "status": "visa required"
+    },
+    "KR": {
+      "status": "e-visa"
+    },
+    "KW": {
+      "status": "visa required"
+    },
+    "KZ": {
+      "status": "e-visa"
+    },
+    "LA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LB": {
+      "status": "visa required"
+    },
+    "LC": {
+      "status": "visa free",
+      "days": 42
+    },
+    "LI": {
+      "status": "visa required"
+    },
+    "LK": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LR": {
+      "status": "e-visa"
+    },
+    "LS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LT": {
+      "status": "visa required"
+    },
+    "LU": {
+      "status": "visa required"
+    },
+    "LV": {
+      "status": "visa required"
+    },
+    "LY": {
+      "status": "e-visa"
+    },
+    "MA": {
+      "status": "visa required"
+    },
+    "MC": {
+      "status": "visa required"
+    },
+    "MD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ME": {
+      "status": "visa required"
+    },
+    "MG": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MH": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MK": {
+      "status": "visa required"
+    },
+    "ML": {
+      "status": "visa required"
+    },
+    "MM": {
+      "status": "visa required"
+    },
+    "MN": {
+      "status": "e-visa"
+    },
+    "MO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MR": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "MT": {
+      "status": "visa required"
+    },
+    "MU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MX": {
+      "status": "visa required"
+    },
+    "MY": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MZ": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "NA": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "NE": {
+      "status": "visa required"
+    },
+    "NG": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "NI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NL": {
+      "status": "visa required"
+    },
+    "NO": {
+      "status": "visa required"
+    },
+    "NP": {
+      "status": "visa on arrival",
+      "days": 150
+    },
+    "NR": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "NZ": {
+      "status": "visa required"
+    },
+    "OM": {
+      "status": "e-visa"
+    },
+    "PA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PE": {
+      "status": "visa free",
+      "days": 180
+    },
+    "PG": {
+      "status": "visa on arrival",
+      "days": 60
+    },
+    "PH": {
+      "status": "visa free",
+      "days": 30
+    },
+    "PK": {
+      "status": "e-visa"
+    },
+    "PL": {
+      "status": "visa required"
+    },
+    "PS": {
+      "status": "visa free"
+    },
+    "PT": {
+      "status": "visa required"
+    },
+    "PW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PY": {
+      "status": "visa required"
+    },
+    "QA": {
+      "status": "e-visa"
+    },
+    "RO": {
+      "status": "visa required"
+    },
+    "RS": {
+      "status": "visa required"
+    },
+    "RU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RW": {
+      "status": "visa free",
+      "days": 30
+    },
+    "SA": {
+      "status": "e-visa"
+    },
+    "SB": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "SC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SD": {
+      "status": "visa required"
+    },
+    "SE": {
+      "status": "visa required"
+    },
+    "SG": {
+      "status": "visa free",
+      "days": 30
+    },
+    "SI": {
+      "status": "visa required"
+    },
+    "SK": {
+      "status": "visa required"
+    },
+    "SL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SM": {
+      "status": "visa required"
+    },
+    "SN": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SO": {
+      "status": "e-visa"
+    },
+    "SR": {
+      "status": "eta",
+      "days": 90
+    },
+    "SS": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "ST": {
+      "status": "e-visa"
+    },
+    "SV": {
+      "status": "visa free",
+      "days": 180
+    },
+    "SY": {
+      "status": "e-visa"
+    },
+    "SZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "TD": {
+      "status": "e-visa"
+    },
+    "TG": {
+      "status": "e-visa",
+      "days": 15
+    },
+    "TH": {
+      "status": "visa on arrival",
+      "days": 15
+    },
+    "TJ": {
+      "status": "visa required"
+    },
+    "TL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TM": {
+      "status": "visa required"
+    },
+    "TN": {
+      "status": "visa required"
+    },
+    "TO": {
+      "status": "visa on arrival",
+      "days": 31
+    },
+    "TR": {
+      "status": "visa required"
+    },
+    "TT": {
+      "status": "visa free"
+    },
+    "TV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TW": {
+      "status": "visa required"
+    },
+    "TZ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UA": {
+      "status": "e-visa"
+    },
+    "UG": {
+      "status": "visa free",
+      "days": 90
+    },
+    "US": {
+      "status": "visa required"
+    },
+    "UY": {
+      "status": "visa required"
+    },
+    "UZ": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "VA": {
+      "status": "visa required"
+    },
+    "VC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VE": {
+      "status": "visa required"
+    },
+    "VN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "WS": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "XK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "YE": {
+      "status": "visa required"
+    },
+    "ZA": {
+      "status": "visa required"
+    },
+    "ZM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ZW": {
+      "status": "visa free",
+      "days": 90
+    }
+  },
   "WS": {
     "AD": {
       "status": "visa free",
@@ -126216,6 +134859,1322 @@
       "days": 90
     }
   },
+  "XK": {
+    "AD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AF": {
+      "status": "visa required"
+    },
+    "AG": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AM": {
+      "status": "no admission"
+    },
+    "AO": {
+      "status": "visa required"
+    },
+    "AR": {
+      "status": "visa required"
+    },
+    "AT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "AU": {
+      "status": "e-visa"
+    },
+    "AZ": {
+      "status": "visa required"
+    },
+    "BA": {
+      "status": "visa required"
+    },
+    "BB": {
+      "status": "visa required"
+    },
+    "BD": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BF": {
+      "status": "e-visa"
+    },
+    "BG": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BH": {
+      "status": "e-visa"
+    },
+    "BI": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BJ": {
+      "status": "e-visa"
+    },
+    "BN": {
+      "status": "visa free",
+      "days": 14
+    },
+    "BO": {
+      "status": "e-visa"
+    },
+    "BR": {
+      "status": "visa required"
+    },
+    "BS": {
+      "status": "e-visa"
+    },
+    "BT": {
+      "status": "e-visa"
+    },
+    "BW": {
+      "status": "visa required"
+    },
+    "BY": {
+      "status": "visa required"
+    },
+    "BZ": {
+      "status": "visa required"
+    },
+    "CA": {
+      "status": "visa required"
+    },
+    "CD": {
+      "status": "e-visa",
+      "days": 7
+    },
+    "CF": {
+      "status": "visa required"
+    },
+    "CG": {
+      "status": "visa required"
+    },
+    "CH": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CI": {
+      "status": "eta",
+      "days": 90
+    },
+    "CL": {
+      "status": "visa required"
+    },
+    "CM": {
+      "status": "e-visa"
+    },
+    "CN": {
+      "status": "visa required"
+    },
+    "CO": {
+      "status": "e-visa"
+    },
+    "CR": {
+      "status": "visa required"
+    },
+    "CU": {
+      "status": "no admission"
+    },
+    "CV": {
+      "status": "visa on arrival"
+    },
+    "CY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CZ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DJ": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "DK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "DM": {
+      "status": "visa free",
+      "days": 21
+    },
+    "DO": {
+      "status": "visa required"
+    },
+    "DZ": {
+      "status": "visa required"
+    },
+    "EC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EG": {
+      "status": "e-visa"
+    },
+    "ER": {
+      "status": "visa required"
+    },
+    "ES": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ET": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "FI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "FJ": {
+      "status": "visa required"
+    },
+    "FM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "FR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GA": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GB": {
+      "status": "visa required"
+    },
+    "GD": {
+      "status": "visa required"
+    },
+    "GE": {
+      "status": "visa required"
+    },
+    "GH": {
+      "status": "visa required"
+    },
+    "GM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GQ": {
+      "status": "e-visa"
+    },
+    "GR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GT": {
+      "status": "visa required"
+    },
+    "GW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "GY": {
+      "status": "e-visa"
+    },
+    "HK": {
+      "status": "no admission"
+    },
+    "HN": {
+      "status": "visa required"
+    },
+    "HR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ID": {
+      "status": "e-visa"
+    },
+    "IE": {
+      "status": "visa required"
+    },
+    "IL": {
+      "status": "eta",
+      "days": 90
+    },
+    "IN": {
+      "status": "visa required"
+    },
+    "IQ": {
+      "status": "e-visa"
+    },
+    "IR": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "IS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "IT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "JM": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "JO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "JP": {
+      "status": "visa required"
+    },
+    "KE": {
+      "status": "eta",
+      "days": 90
+    },
+    "KG": {
+      "status": "visa required"
+    },
+    "KH": {
+      "status": "no admission"
+    },
+    "KI": {
+      "status": "visa required"
+    },
+    "KM": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "KN": {
+      "status": "e-visa"
+    },
+    "KP": {
+      "status": "visa required"
+    },
+    "KR": {
+      "status": "e-visa"
+    },
+    "KW": {
+      "status": "visa required"
+    },
+    "KZ": {
+      "status": "e-visa"
+    },
+    "LA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LB": {
+      "status": "visa required"
+    },
+    "LC": {
+      "status": "visa required"
+    },
+    "LI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LK": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LR": {
+      "status": "e-visa"
+    },
+    "LS": {
+      "status": "visa required"
+    },
+    "LT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LV": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LY": {
+      "status": "e-visa"
+    },
+    "MA": {
+      "status": "visa required"
+    },
+    "MC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MD": {
+      "status": "e-visa"
+    },
+    "ME": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MG": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MH": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ML": {
+      "status": "visa required"
+    },
+    "MM": {
+      "status": "visa required"
+    },
+    "MN": {
+      "status": "visa required"
+    },
+    "MO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MR": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "MT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MU": {
+      "status": "visa required"
+    },
+    "MV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MW": {
+      "status": "e-visa"
+    },
+    "MX": {
+      "status": "visa required"
+    },
+    "MY": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MZ": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "NA": {
+      "status": "e-visa"
+    },
+    "NE": {
+      "status": "visa required"
+    },
+    "NG": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "NI": {
+      "status": "visa required"
+    },
+    "NL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NP": {
+      "status": "visa on arrival",
+      "days": 150
+    },
+    "NR": {
+      "status": "visa required"
+    },
+    "NZ": {
+      "status": "visa required"
+    },
+    "OM": {
+      "status": "e-visa"
+    },
+    "PA": {
+      "status": "visa required"
+    },
+    "PE": {
+      "status": "visa required"
+    },
+    "PG": {
+      "status": "e-visa"
+    },
+    "PH": {
+      "status": "visa required"
+    },
+    "PK": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "PL": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PS": {
+      "status": "visa free"
+    },
+    "PT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "PW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PY": {
+      "status": "visa required"
+    },
+    "QA": {
+      "status": "e-visa"
+    },
+    "RO": {
+      "status": "visa free",
+      "days": 90
+    },
+    "RS": {
+      "status": "visa free"
+    },
+    "RU": {
+      "status": "visa required"
+    },
+    "RW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SA": {
+      "status": "e-visa"
+    },
+    "SB": {
+      "status": "visa required"
+    },
+    "SC": {
+      "status": "no admission"
+    },
+    "SD": {
+      "status": "visa required"
+    },
+    "SE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SG": {
+      "status": "e-visa"
+    },
+    "SI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SL": {
+      "status": "e-visa"
+    },
+    "SM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SN": {
+      "status": "visa required"
+    },
+    "SO": {
+      "status": "e-visa"
+    },
+    "SR": {
+      "status": "eta",
+      "days": 90
+    },
+    "SS": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "ST": {
+      "status": "e-visa"
+    },
+    "SV": {
+      "status": "e-visa"
+    },
+    "SY": {
+      "status": "e-visa"
+    },
+    "SZ": {
+      "status": "visa required"
+    },
+    "TD": {
+      "status": "e-visa"
+    },
+    "TG": {
+      "status": "e-visa",
+      "days": 15
+    },
+    "TH": {
+      "status": "visa free",
+      "days": 60
+    },
+    "TJ": {
+      "status": "visa required"
+    },
+    "TL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TM": {
+      "status": "visa required"
+    },
+    "TN": {
+      "status": "visa required"
+    },
+    "TO": {
+      "status": "visa required"
+    },
+    "TR": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TT": {
+      "status": "visa required"
+    },
+    "TV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TW": {
+      "status": "visa free",
+      "days": 90
+    },
+    "TZ": {
+      "status": "visa on arrival"
+    },
+    "UA": {
+      "status": "visa required"
+    },
+    "UG": {
+      "status": "e-visa"
+    },
+    "US": {
+      "status": "visa required"
+    },
+    "UY": {
+      "status": "visa required"
+    },
+    "UZ": {
+      "status": "visa required"
+    },
+    "VA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VE": {
+      "status": "visa required"
+    },
+    "VN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "VU": {
+      "status": "e-visa"
+    },
+    "WS": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "YE": {
+      "status": "visa required"
+    },
+    "ZA": {
+      "status": "visa required"
+    },
+    "ZM": {
+      "status": "e-visa"
+    },
+    "ZW": {
+      "status": "e-visa"
+    }
+  },
+  "YE": {
+    "AD": {
+      "status": "visa required"
+    },
+    "AE": {
+      "status": "e-visa"
+    },
+    "AF": {
+      "status": "visa required"
+    },
+    "AG": {
+      "status": "e-visa"
+    },
+    "AL": {
+      "status": "e-visa"
+    },
+    "AM": {
+      "status": "visa required"
+    },
+    "AO": {
+      "status": "visa required"
+    },
+    "AR": {
+      "status": "visa required"
+    },
+    "AT": {
+      "status": "visa required"
+    },
+    "AU": {
+      "status": "e-visa"
+    },
+    "AZ": {
+      "status": "visa required"
+    },
+    "BA": {
+      "status": "visa required"
+    },
+    "BB": {
+      "status": "visa required"
+    },
+    "BD": {
+      "status": "visa required"
+    },
+    "BE": {
+      "status": "visa required"
+    },
+    "BF": {
+      "status": "e-visa"
+    },
+    "BG": {
+      "status": "visa required"
+    },
+    "BH": {
+      "status": "e-visa"
+    },
+    "BI": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BJ": {
+      "status": "e-visa"
+    },
+    "BN": {
+      "status": "visa required"
+    },
+    "BO": {
+      "status": "e-visa"
+    },
+    "BR": {
+      "status": "visa required"
+    },
+    "BS": {
+      "status": "e-visa"
+    },
+    "BT": {
+      "status": "e-visa"
+    },
+    "BW": {
+      "status": "e-visa"
+    },
+    "BY": {
+      "status": "visa required"
+    },
+    "BZ": {
+      "status": "visa required"
+    },
+    "CA": {
+      "status": "visa required"
+    },
+    "CD": {
+      "status": "e-visa",
+      "days": 7
+    },
+    "CF": {
+      "status": "visa required"
+    },
+    "CG": {
+      "status": "visa required"
+    },
+    "CH": {
+      "status": "visa required"
+    },
+    "CI": {
+      "status": "eta",
+      "days": 90
+    },
+    "CL": {
+      "status": "visa required"
+    },
+    "CM": {
+      "status": "e-visa"
+    },
+    "CN": {
+      "status": "visa required"
+    },
+    "CO": {
+      "status": "e-visa"
+    },
+    "CR": {
+      "status": "visa required"
+    },
+    "CU": {
+      "status": "visa required"
+    },
+    "CV": {
+      "status": "visa on arrival"
+    },
+    "CY": {
+      "status": "visa required"
+    },
+    "CZ": {
+      "status": "visa required"
+    },
+    "DE": {
+      "status": "visa required"
+    },
+    "DJ": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "DK": {
+      "status": "visa required"
+    },
+    "DM": {
+      "status": "visa free",
+      "days": 21
+    },
+    "DO": {
+      "status": "visa required"
+    },
+    "DZ": {
+      "status": "visa required"
+    },
+    "EC": {
+      "status": "e-visa"
+    },
+    "EE": {
+      "status": "visa required"
+    },
+    "EG": {
+      "status": "visa required"
+    },
+    "ER": {
+      "status": "visa required"
+    },
+    "ES": {
+      "status": "visa required"
+    },
+    "ET": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "FI": {
+      "status": "visa required"
+    },
+    "FJ": {
+      "status": "visa required"
+    },
+    "FM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "FR": {
+      "status": "visa required"
+    },
+    "GA": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GB": {
+      "status": "visa required"
+    },
+    "GD": {
+      "status": "visa required"
+    },
+    "GE": {
+      "status": "visa required"
+    },
+    "GH": {
+      "status": "visa required"
+    },
+    "GM": {
+      "status": "visa required"
+    },
+    "GN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GQ": {
+      "status": "e-visa"
+    },
+    "GR": {
+      "status": "visa required"
+    },
+    "GT": {
+      "status": "visa required"
+    },
+    "GW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "GY": {
+      "status": "e-visa"
+    },
+    "HK": {
+      "status": "e-visa"
+    },
+    "HN": {
+      "status": "visa required"
+    },
+    "HR": {
+      "status": "visa required"
+    },
+    "HT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HU": {
+      "status": "visa required"
+    },
+    "ID": {
+      "status": "e-visa"
+    },
+    "IE": {
+      "status": "visa required"
+    },
+    "IL": {
+      "status": "e-visa"
+    },
+    "IN": {
+      "status": "visa required"
+    },
+    "IQ": {
+      "status": "e-visa"
+    },
+    "IR": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "IS": {
+      "status": "visa required"
+    },
+    "IT": {
+      "status": "visa required"
+    },
+    "JM": {
+      "status": "visa required"
+    },
+    "JO": {
+      "status": "visa required"
+    },
+    "JP": {
+      "status": "visa required"
+    },
+    "KE": {
+      "status": "eta",
+      "days": 90
+    },
+    "KG": {
+      "status": "e-visa"
+    },
+    "KH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "KI": {
+      "status": "visa required"
+    },
+    "KM": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "KN": {
+      "status": "e-visa"
+    },
+    "KP": {
+      "status": "visa required"
+    },
+    "KR": {
+      "status": "e-visa"
+    },
+    "KW": {
+      "status": "visa required"
+    },
+    "KZ": {
+      "status": "e-visa"
+    },
+    "LA": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LB": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LC": {
+      "status": "visa required"
+    },
+    "LI": {
+      "status": "visa required"
+    },
+    "LK": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LR": {
+      "status": "e-visa"
+    },
+    "LS": {
+      "status": "visa required"
+    },
+    "LT": {
+      "status": "visa required"
+    },
+    "LU": {
+      "status": "visa required"
+    },
+    "LV": {
+      "status": "visa required"
+    },
+    "LY": {
+      "status": "no admission"
+    },
+    "MA": {
+      "status": "visa required"
+    },
+    "MC": {
+      "status": "visa required"
+    },
+    "MD": {
+      "status": "e-visa"
+    },
+    "ME": {
+      "status": "visa required"
+    },
+    "MG": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MH": {
+      "status": "visa required"
+    },
+    "MK": {
+      "status": "visa required"
+    },
+    "ML": {
+      "status": "visa required"
+    },
+    "MM": {
+      "status": "visa required"
+    },
+    "MN": {
+      "status": "visa required"
+    },
+    "MO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MR": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "MT": {
+      "status": "visa required"
+    },
+    "MU": {
+      "status": "visa required"
+    },
+    "MV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MW": {
+      "status": "e-visa"
+    },
+    "MX": {
+      "status": "visa required"
+    },
+    "MY": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MZ": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "NA": {
+      "status": "e-visa"
+    },
+    "NE": {
+      "status": "visa required"
+    },
+    "NG": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "NI": {
+      "status": "visa required"
+    },
+    "NL": {
+      "status": "visa required"
+    },
+    "NO": {
+      "status": "visa required"
+    },
+    "NP": {
+      "status": "visa on arrival",
+      "days": 150
+    },
+    "NR": {
+      "status": "visa required"
+    },
+    "NZ": {
+      "status": "visa required"
+    },
+    "OM": {
+      "status": "e-visa"
+    },
+    "PA": {
+      "status": "visa required"
+    },
+    "PE": {
+      "status": "visa required"
+    },
+    "PG": {
+      "status": "e-visa"
+    },
+    "PH": {
+      "status": "visa required"
+    },
+    "PK": {
+      "status": "e-visa"
+    },
+    "PL": {
+      "status": "visa required"
+    },
+    "PS": {
+      "status": "visa free"
+    },
+    "PT": {
+      "status": "visa required"
+    },
+    "PW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PY": {
+      "status": "visa required"
+    },
+    "QA": {
+      "status": "e-visa"
+    },
+    "RO": {
+      "status": "visa required"
+    },
+    "RS": {
+      "status": "visa required"
+    },
+    "RU": {
+      "status": "visa required"
+    },
+    "RW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SA": {
+      "status": "visa required"
+    },
+    "SB": {
+      "status": "visa required"
+    },
+    "SC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SD": {
+      "status": "visa free",
+      "days": 30
+    },
+    "SE": {
+      "status": "visa required"
+    },
+    "SG": {
+      "status": "e-visa"
+    },
+    "SI": {
+      "status": "visa required"
+    },
+    "SK": {
+      "status": "visa required"
+    },
+    "SL": {
+      "status": "e-visa"
+    },
+    "SM": {
+      "status": "visa required"
+    },
+    "SN": {
+      "status": "visa required"
+    },
+    "SO": {
+      "status": "e-visa"
+    },
+    "SR": {
+      "status": "eta",
+      "days": 90
+    },
+    "SS": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "ST": {
+      "status": "e-visa"
+    },
+    "SV": {
+      "status": "e-visa"
+    },
+    "SY": {
+      "status": "visa free"
+    },
+    "SZ": {
+      "status": "visa required"
+    },
+    "TD": {
+      "status": "e-visa"
+    },
+    "TG": {
+      "status": "e-visa",
+      "days": 15
+    },
+    "TH": {
+      "status": "e-visa"
+    },
+    "TJ": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "TL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TM": {
+      "status": "visa required"
+    },
+    "TN": {
+      "status": "visa required"
+    },
+    "TO": {
+      "status": "visa required"
+    },
+    "TR": {
+      "status": "visa required"
+    },
+    "TT": {
+      "status": "visa required"
+    },
+    "TV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TW": {
+      "status": "visa required"
+    },
+    "TZ": {
+      "status": "e-visa"
+    },
+    "UA": {
+      "status": "visa required"
+    },
+    "UG": {
+      "status": "e-visa"
+    },
+    "US": {
+      "status": "no admission"
+    },
+    "UY": {
+      "status": "visa required"
+    },
+    "UZ": {
+      "status": "visa required"
+    },
+    "VA": {
+      "status": "visa required"
+    },
+    "VC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VE": {
+      "status": "visa required"
+    },
+    "VN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "VU": {
+      "status": "e-visa"
+    },
+    "WS": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "XK": {
+      "status": "visa required"
+    },
+    "ZA": {
+      "status": "visa required"
+    },
+    "ZM": {
+      "status": "e-visa"
+    },
+    "ZW": {
+      "status": "e-visa"
+    }
+  },
   "ZA": {
     "AD": {
       "status": "visa required"
@@ -126909,6 +136868,1331 @@
       "days": 90
     },
     "ZW": {
+      "status": "visa free",
+      "days": 90
+    }
+  },
+  "ZM": {
+    "AD": {
+      "status": "visa required"
+    },
+    "AE": {
+      "status": "e-visa"
+    },
+    "AF": {
+      "status": "visa required"
+    },
+    "AG": {
+      "status": "visa free",
+      "days": 180
+    },
+    "AL": {
+      "status": "e-visa"
+    },
+    "AM": {
+      "status": "visa required"
+    },
+    "AO": {
+      "status": "visa free",
+      "days": 30
+    },
+    "AR": {
+      "status": "visa required"
+    },
+    "AT": {
+      "status": "visa required"
+    },
+    "AU": {
+      "status": "e-visa"
+    },
+    "AZ": {
+      "status": "visa required"
+    },
+    "BA": {
+      "status": "visa required"
+    },
+    "BB": {
+      "status": "visa free",
+      "days": 180
+    },
+    "BD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BE": {
+      "status": "visa required"
+    },
+    "BF": {
+      "status": "e-visa"
+    },
+    "BG": {
+      "status": "visa required"
+    },
+    "BH": {
+      "status": "e-visa"
+    },
+    "BI": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BJ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BN": {
+      "status": "visa required"
+    },
+    "BO": {
+      "status": "e-visa"
+    },
+    "BR": {
+      "status": "visa required"
+    },
+    "BS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BT": {
+      "status": "e-visa"
+    },
+    "BW": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BY": {
+      "status": "visa required"
+    },
+    "BZ": {
+      "status": "visa free"
+    },
+    "CA": {
+      "status": "visa required"
+    },
+    "CD": {
+      "status": "e-visa",
+      "days": 7
+    },
+    "CF": {
+      "status": "visa required"
+    },
+    "CG": {
+      "status": "visa required"
+    },
+    "CH": {
+      "status": "visa required"
+    },
+    "CI": {
+      "status": "eta",
+      "days": 90
+    },
+    "CL": {
+      "status": "visa required"
+    },
+    "CM": {
+      "status": "e-visa"
+    },
+    "CN": {
+      "status": "visa required"
+    },
+    "CO": {
+      "status": "e-visa"
+    },
+    "CR": {
+      "status": "visa required"
+    },
+    "CU": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "CV": {
+      "status": "visa on arrival"
+    },
+    "CY": {
+      "status": "visa required"
+    },
+    "CZ": {
+      "status": "visa required"
+    },
+    "DE": {
+      "status": "visa required"
+    },
+    "DJ": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "DK": {
+      "status": "visa required"
+    },
+    "DM": {
+      "status": "visa free",
+      "days": 180
+    },
+    "DO": {
+      "status": "visa required"
+    },
+    "DZ": {
+      "status": "visa required"
+    },
+    "EC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EE": {
+      "status": "visa required"
+    },
+    "EG": {
+      "status": "visa required"
+    },
+    "ER": {
+      "status": "visa required"
+    },
+    "ES": {
+      "status": "visa required"
+    },
+    "ET": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "FI": {
+      "status": "visa required"
+    },
+    "FJ": {
+      "status": "visa free",
+      "days": 120
+    },
+    "FM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "FR": {
+      "status": "visa required"
+    },
+    "GA": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GB": {
+      "status": "visa required"
+    },
+    "GD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GE": {
+      "status": "e-visa"
+    },
+    "GH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "GM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GQ": {
+      "status": "e-visa"
+    },
+    "GR": {
+      "status": "visa required"
+    },
+    "GT": {
+      "status": "visa required"
+    },
+    "GW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "GY": {
+      "status": "e-visa"
+    },
+    "HK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HN": {
+      "status": "visa required"
+    },
+    "HR": {
+      "status": "visa required"
+    },
+    "HT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HU": {
+      "status": "visa required"
+    },
+    "ID": {
+      "status": "e-visa"
+    },
+    "IE": {
+      "status": "visa required"
+    },
+    "IL": {
+      "status": "e-visa"
+    },
+    "IN": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "IQ": {
+      "status": "e-visa"
+    },
+    "IR": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "IS": {
+      "status": "visa required"
+    },
+    "IT": {
+      "status": "visa required"
+    },
+    "JM": {
+      "status": "visa free"
+    },
+    "JO": {
+      "status": "visa required"
+    },
+    "JP": {
+      "status": "visa required"
+    },
+    "KE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KG": {
+      "status": "e-visa"
+    },
+    "KH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "KI": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KM": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "KN": {
+      "status": "eta",
+      "days": 90
+    },
+    "KP": {
+      "status": "visa required"
+    },
+    "KR": {
+      "status": "e-visa"
+    },
+    "KW": {
+      "status": "visa required"
+    },
+    "KZ": {
+      "status": "e-visa"
+    },
+    "LA": {
+      "status": "visa required"
+    },
+    "LB": {
+      "status": "visa required"
+    },
+    "LC": {
+      "status": "visa free",
+      "days": 42
+    },
+    "LI": {
+      "status": "visa required"
+    },
+    "LK": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LR": {
+      "status": "e-visa"
+    },
+    "LS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "LT": {
+      "status": "visa required"
+    },
+    "LU": {
+      "status": "visa required"
+    },
+    "LV": {
+      "status": "visa required"
+    },
+    "LY": {
+      "status": "e-visa"
+    },
+    "MA": {
+      "status": "visa required"
+    },
+    "MC": {
+      "status": "visa required"
+    },
+    "MD": {
+      "status": "visa required"
+    },
+    "ME": {
+      "status": "visa required"
+    },
+    "MG": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MH": {
+      "status": "visa required"
+    },
+    "MK": {
+      "status": "visa required"
+    },
+    "ML": {
+      "status": "visa required"
+    },
+    "MM": {
+      "status": "visa required"
+    },
+    "MN": {
+      "status": "e-visa"
+    },
+    "MO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MR": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "MT": {
+      "status": "visa required"
+    },
+    "MU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MW": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MX": {
+      "status": "visa required"
+    },
+    "MY": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MZ": {
+      "status": "visa free"
+    },
+    "NA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NE": {
+      "status": "visa required"
+    },
+    "NG": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "NI": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "NL": {
+      "status": "visa required"
+    },
+    "NO": {
+      "status": "visa required"
+    },
+    "NP": {
+      "status": "visa on arrival",
+      "days": 150
+    },
+    "NR": {
+      "status": "visa required"
+    },
+    "NZ": {
+      "status": "visa required"
+    },
+    "OM": {
+      "status": "e-visa"
+    },
+    "PA": {
+      "status": "visa required"
+    },
+    "PE": {
+      "status": "visa required"
+    },
+    "PG": {
+      "status": "eta",
+      "days": 30
+    },
+    "PH": {
+      "status": "visa free",
+      "days": 30
+    },
+    "PK": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "PL": {
+      "status": "visa required"
+    },
+    "PS": {
+      "status": "visa required"
+    },
+    "PT": {
+      "status": "visa required"
+    },
+    "PW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PY": {
+      "status": "visa required"
+    },
+    "QA": {
+      "status": "e-visa"
+    },
+    "RO": {
+      "status": "visa required"
+    },
+    "RS": {
+      "status": "visa required"
+    },
+    "RU": {
+      "status": "visa required"
+    },
+    "RW": {
+      "status": "visa free",
+      "days": 30
+    },
+    "SA": {
+      "status": "e-visa"
+    },
+    "SB": {
+      "status": "visa required"
+    },
+    "SC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SD": {
+      "status": "visa required"
+    },
+    "SE": {
+      "status": "visa required"
+    },
+    "SG": {
+      "status": "visa free",
+      "days": 30
+    },
+    "SI": {
+      "status": "visa required"
+    },
+    "SK": {
+      "status": "visa required"
+    },
+    "SL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SM": {
+      "status": "visa required"
+    },
+    "SN": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SO": {
+      "status": "e-visa"
+    },
+    "SR": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "SS": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "ST": {
+      "status": "e-visa"
+    },
+    "SV": {
+      "status": "e-visa"
+    },
+    "SY": {
+      "status": "e-visa"
+    },
+    "SZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "TD": {
+      "status": "e-visa"
+    },
+    "TG": {
+      "status": "e-visa",
+      "days": 15
+    },
+    "TH": {
+      "status": "e-visa"
+    },
+    "TJ": {
+      "status": "visa required"
+    },
+    "TL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TM": {
+      "status": "visa required"
+    },
+    "TN": {
+      "status": "visa required"
+    },
+    "TO": {
+      "status": "visa required"
+    },
+    "TR": {
+      "status": "visa required"
+    },
+    "TT": {
+      "status": "visa free"
+    },
+    "TV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TW": {
+      "status": "visa required"
+    },
+    "TZ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UA": {
+      "status": "visa required"
+    },
+    "UG": {
+      "status": "visa free",
+      "days": 90
+    },
+    "US": {
+      "status": "visa required"
+    },
+    "UY": {
+      "status": "visa required"
+    },
+    "UZ": {
+      "status": "visa required"
+    },
+    "VA": {
+      "status": "visa required"
+    },
+    "VC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VE": {
+      "status": "visa required"
+    },
+    "VN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "VU": {
+      "status": "visa free",
+      "days": 120
+    },
+    "WS": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "XK": {
+      "status": "visa required"
+    },
+    "YE": {
+      "status": "visa required"
+    },
+    "ZA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ZW": {
+      "status": "visa free",
+      "days": 90
+    }
+  },
+  "ZW": {
+    "AD": {
+      "status": "visa required"
+    },
+    "AE": {
+      "status": "e-visa"
+    },
+    "AF": {
+      "status": "visa required"
+    },
+    "AG": {
+      "status": "e-visa"
+    },
+    "AL": {
+      "status": "e-visa"
+    },
+    "AM": {
+      "status": "visa required"
+    },
+    "AO": {
+      "status": "visa free",
+      "days": 30
+    },
+    "AR": {
+      "status": "visa required"
+    },
+    "AT": {
+      "status": "visa required"
+    },
+    "AU": {
+      "status": "e-visa"
+    },
+    "AZ": {
+      "status": "visa required"
+    },
+    "BA": {
+      "status": "visa required"
+    },
+    "BB": {
+      "status": "visa free",
+      "days": 180
+    },
+    "BD": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BE": {
+      "status": "visa required"
+    },
+    "BF": {
+      "status": "e-visa"
+    },
+    "BG": {
+      "status": "visa required"
+    },
+    "BH": {
+      "status": "e-visa"
+    },
+    "BI": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "BJ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BN": {
+      "status": "visa required"
+    },
+    "BO": {
+      "status": "e-visa"
+    },
+    "BR": {
+      "status": "visa required"
+    },
+    "BS": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BT": {
+      "status": "e-visa"
+    },
+    "BW": {
+      "status": "visa free",
+      "days": 90
+    },
+    "BY": {
+      "status": "visa required"
+    },
+    "BZ": {
+      "status": "visa free"
+    },
+    "CA": {
+      "status": "visa required"
+    },
+    "CD": {
+      "status": "visa free",
+      "days": 90
+    },
+    "CF": {
+      "status": "visa required"
+    },
+    "CG": {
+      "status": "visa required"
+    },
+    "CH": {
+      "status": "visa required"
+    },
+    "CI": {
+      "status": "eta",
+      "days": 90
+    },
+    "CL": {
+      "status": "visa required"
+    },
+    "CM": {
+      "status": "e-visa"
+    },
+    "CN": {
+      "status": "visa required"
+    },
+    "CO": {
+      "status": "e-visa"
+    },
+    "CR": {
+      "status": "visa required"
+    },
+    "CU": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "CV": {
+      "status": "visa on arrival"
+    },
+    "CY": {
+      "status": "visa required"
+    },
+    "CZ": {
+      "status": "visa required"
+    },
+    "DE": {
+      "status": "visa required"
+    },
+    "DJ": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "DK": {
+      "status": "visa required"
+    },
+    "DM": {
+      "status": "visa free",
+      "days": 21
+    },
+    "DO": {
+      "status": "visa required"
+    },
+    "DZ": {
+      "status": "visa required"
+    },
+    "EC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "EE": {
+      "status": "visa required"
+    },
+    "EG": {
+      "status": "visa required"
+    },
+    "ER": {
+      "status": "visa required"
+    },
+    "ES": {
+      "status": "visa required"
+    },
+    "ET": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "FI": {
+      "status": "visa required"
+    },
+    "FJ": {
+      "status": "visa free",
+      "days": 120
+    },
+    "FM": {
+      "status": "visa free",
+      "days": 30
+    },
+    "FR": {
+      "status": "visa required"
+    },
+    "GA": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GB": {
+      "status": "visa required"
+    },
+    "GD": {
+      "status": "visa required"
+    },
+    "GE": {
+      "status": "e-visa"
+    },
+    "GH": {
+      "status": "visa free",
+      "days": 60
+    },
+    "GM": {
+      "status": "visa free",
+      "days": 90
+    },
+    "GN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "GQ": {
+      "status": "e-visa"
+    },
+    "GR": {
+      "status": "visa required"
+    },
+    "GT": {
+      "status": "visa required"
+    },
+    "GW": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "GY": {
+      "status": "e-visa"
+    },
+    "HK": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HN": {
+      "status": "visa required"
+    },
+    "HR": {
+      "status": "visa required"
+    },
+    "HT": {
+      "status": "visa free",
+      "days": 90
+    },
+    "HU": {
+      "status": "visa required"
+    },
+    "ID": {
+      "status": "e-visa"
+    },
+    "IE": {
+      "status": "visa required"
+    },
+    "IL": {
+      "status": "e-visa"
+    },
+    "IN": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "IQ": {
+      "status": "e-visa"
+    },
+    "IR": {
+      "status": "visa free",
+      "days": 15
+    },
+    "IS": {
+      "status": "visa required"
+    },
+    "IT": {
+      "status": "visa required"
+    },
+    "JM": {
+      "status": "visa required"
+    },
+    "JO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "JP": {
+      "status": "visa required"
+    },
+    "KE": {
+      "status": "visa free",
+      "days": 90
+    },
+    "KG": {
+      "status": "e-visa"
+    },
+    "KH": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "KI": {
+      "status": "visa required"
+    },
+    "KM": {
+      "status": "visa on arrival",
+      "days": 45
+    },
+    "KN": {
+      "status": "eta",
+      "days": 90
+    },
+    "KP": {
+      "status": "visa required"
+    },
+    "KR": {
+      "status": "e-visa"
+    },
+    "KW": {
+      "status": "visa required"
+    },
+    "KZ": {
+      "status": "e-visa"
+    },
+    "LA": {
+      "status": "visa required"
+    },
+    "LB": {
+      "status": "visa required"
+    },
+    "LC": {
+      "status": "visa on arrival",
+      "days": 42
+    },
+    "LI": {
+      "status": "visa required"
+    },
+    "LK": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "LR": {
+      "status": "e-visa"
+    },
+    "LS": {
+      "status": "visa free"
+    },
+    "LT": {
+      "status": "visa required"
+    },
+    "LU": {
+      "status": "visa required"
+    },
+    "LV": {
+      "status": "visa required"
+    },
+    "LY": {
+      "status": "e-visa"
+    },
+    "MA": {
+      "status": "visa required"
+    },
+    "MC": {
+      "status": "visa required"
+    },
+    "MD": {
+      "status": "visa required"
+    },
+    "ME": {
+      "status": "visa required"
+    },
+    "MG": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "MH": {
+      "status": "visa required"
+    },
+    "MK": {
+      "status": "visa required"
+    },
+    "ML": {
+      "status": "visa required"
+    },
+    "MM": {
+      "status": "visa required"
+    },
+    "MN": {
+      "status": "e-visa"
+    },
+    "MO": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MR": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "MT": {
+      "status": "visa required"
+    },
+    "MU": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "MW": {
+      "status": "visa free",
+      "days": 90
+    },
+    "MX": {
+      "status": "visa required"
+    },
+    "MY": {
+      "status": "visa free",
+      "days": 30
+    },
+    "MZ": {
+      "status": "visa free"
+    },
+    "NA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "NE": {
+      "status": "visa required"
+    },
+    "NG": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "NI": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "NL": {
+      "status": "visa required"
+    },
+    "NO": {
+      "status": "visa required"
+    },
+    "NP": {
+      "status": "visa required"
+    },
+    "NR": {
+      "status": "visa required"
+    },
+    "NZ": {
+      "status": "visa required"
+    },
+    "OM": {
+      "status": "e-visa"
+    },
+    "PA": {
+      "status": "visa required"
+    },
+    "PE": {
+      "status": "visa required"
+    },
+    "PG": {
+      "status": "e-visa"
+    },
+    "PH": {
+      "status": "visa free",
+      "days": 30
+    },
+    "PK": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "PL": {
+      "status": "visa required"
+    },
+    "PS": {
+      "status": "visa free"
+    },
+    "PT": {
+      "status": "visa required"
+    },
+    "PW": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "PY": {
+      "status": "visa required"
+    },
+    "QA": {
+      "status": "e-visa"
+    },
+    "RO": {
+      "status": "visa required"
+    },
+    "RS": {
+      "status": "visa required"
+    },
+    "RU": {
+      "status": "e-visa",
+      "days": 30
+    },
+    "RW": {
+      "status": "visa free",
+      "days": 30
+    },
+    "SA": {
+      "status": "e-visa"
+    },
+    "SB": {
+      "status": "visa required"
+    },
+    "SC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "SD": {
+      "status": "visa required"
+    },
+    "SE": {
+      "status": "visa required"
+    },
+    "SG": {
+      "status": "visa free",
+      "days": 30
+    },
+    "SI": {
+      "status": "visa required"
+    },
+    "SK": {
+      "status": "visa required"
+    },
+    "SL": {
+      "status": "e-visa"
+    },
+    "SM": {
+      "status": "visa required"
+    },
+    "SN": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "SO": {
+      "status": "e-visa"
+    },
+    "SR": {
+      "status": "eta",
+      "days": 90
+    },
+    "SS": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "ST": {
+      "status": "e-visa"
+    },
+    "SV": {
+      "status": "e-visa"
+    },
+    "SY": {
+      "status": "e-visa"
+    },
+    "SZ": {
+      "status": "visa free",
+      "days": 30
+    },
+    "TD": {
+      "status": "e-visa"
+    },
+    "TG": {
+      "status": "e-visa",
+      "days": 15
+    },
+    "TH": {
+      "status": "e-visa"
+    },
+    "TJ": {
+      "status": "visa required"
+    },
+    "TL": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TM": {
+      "status": "visa required"
+    },
+    "TN": {
+      "status": "visa required"
+    },
+    "TO": {
+      "status": "visa required"
+    },
+    "TR": {
+      "status": "visa required"
+    },
+    "TT": {
+      "status": "visa free"
+    },
+    "TV": {
+      "status": "visa on arrival",
+      "days": 30
+    },
+    "TW": {
+      "status": "visa required"
+    },
+    "TZ": {
+      "status": "visa free",
+      "days": 90
+    },
+    "UA": {
+      "status": "visa required"
+    },
+    "UG": {
+      "status": "visa free",
+      "days": 90
+    },
+    "US": {
+      "status": "visa required"
+    },
+    "UY": {
+      "status": "visa required"
+    },
+    "UZ": {
+      "status": "visa required"
+    },
+    "VA": {
+      "status": "visa required"
+    },
+    "VC": {
+      "status": "visa free",
+      "days": 90
+    },
+    "VE": {
+      "status": "visa required"
+    },
+    "VN": {
+      "status": "e-visa",
+      "days": 90
+    },
+    "VU": {
+      "status": "visa free",
+      "days": 120
+    },
+    "WS": {
+      "status": "visa on arrival",
+      "days": 90
+    },
+    "XK": {
+      "status": "visa required"
+    },
+    "YE": {
+      "status": "visa required"
+    },
+    "ZA": {
+      "status": "visa free",
+      "days": 90
+    },
+    "ZM": {
       "status": "visa free",
       "days": 90
     }
