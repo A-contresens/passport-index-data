@@ -1,1 +1,16 @@
-{}
+{
+  "AF": {
+    "AL": {
+      "status": "e-visa"
+    },
+    "AO": {
+      "status": "visa required"
+    },
+    "AR": {
+      "status": "visa required"
+    },
+    "DZ": {
+      "status": "visa required"
+    }
+  }
+}
