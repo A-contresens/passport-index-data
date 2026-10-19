@@ -78048,7 +78048,14 @@
     "DZ": {
       "status": "visa required"
     },
+    "EC": {
+      "status": "visa free",
+      "days": 90
+    },
     "EE": {
+      "status": "visa required"
+    },
+    "EG": {
       "status": "visa required"
     },
     "ER": {
@@ -78098,6 +78105,9 @@
     "GN": {
       "status": "e-visa",
       "days": 90
+    },
+    "GQ": {
+      "status": "e-visa"
     },
     "GR": {
       "status": "visa required"
@@ -78431,6 +78441,10 @@
     },
     "ST": {
       "status": "e-visa"
+    },
+    "SV": {
+      "status": "visa free",
+      "days": 180
     },
     "SY": {
       "status": "e-visa"

@@ -20545,10 +20545,10 @@ MG,DK,visa required
 MG,DJ,visa on arrival
 MG,DM,21
 MG,DO,visa required
-MG,EC,
-MG,EG,
-MG,SV,
-MG,GQ,
+MG,EC,90
+MG,EG,visa required
+MG,SV,180
+MG,GQ,e-visa
 MG,ER,visa required
 MG,EE,visa required
 MG,SZ,30

@@ -20545,10 +20545,10 @@ MDG,DNK,visa required
 MDG,DJI,visa on arrival
 MDG,DMA,21
 MDG,DOM,visa required
-MDG,ECU,
-MDG,EGY,
-MDG,SLV,
-MDG,GNQ,
+MDG,ECU,90
+MDG,EGY,visa required
+MDG,SLV,180
+MDG,GNQ,e-visa
 MDG,ERI,visa required
 MDG,EST,visa required
 MDG,SWZ,30
